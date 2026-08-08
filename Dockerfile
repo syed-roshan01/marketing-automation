@@ -1,4 +1,4 @@
-FROM node:18-alpine AS builder
+FROM node:20-alpine AS builder
 WORKDIR /app
 
 # Install deps and build frontend
@@ -7,7 +7,7 @@ COPY renderer ./renderer
 RUN npm ci
 RUN npm run build:react
 
-FROM node:18-alpine
+FROM node:20-alpine
 WORKDIR /app
 
 # Install only production deps
