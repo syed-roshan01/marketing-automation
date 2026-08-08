@@ -1,8 +1,10 @@
 // ── Generic request helper ────────────────────────────────────────────────────
+const API_BASE = import.meta.env.VITE_API_BASE || '';
+
 async function req(method, url, body) {
     const opts = { method, headers: body ? { 'Content-Type': 'application/json' } : {} };
     if (body) opts.body = JSON.stringify(body);
-    const res = await fetch(url, opts);
+    const res = await fetch(API_BASE + url, opts);
     if (!res.ok) {
         const data = await res.json().catch(() => ({}));
         const err = new Error(data.error || 'Request failed');
