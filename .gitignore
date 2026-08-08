@@ -1,0 +1,23 @@
+node_modules/
+dist/
+renderer/dist/
+public/index.html
+
+# WhatsApp session data (never commit)
+data/auth_info/
+data/images/
+data/media/
+data/machine_id
+data/license.json
+
+# Logs and compiled files
+*.log
+*.jsc
+dev-output.log
+
+# Local env
+.env
+
+# OS files
+.DS_Store
+Thumbs.db

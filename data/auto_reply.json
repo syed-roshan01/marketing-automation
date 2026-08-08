@@ -1,0 +1,17 @@
+[
+  {
+    "id": "47a63dcf-77b8-442b-8c10-59627501fed5",
+    "name": "test",
+    "sessionId": "d7277405-6568-44aa-8bf0-7ad316284deb",
+    "targetType": "individual",
+    "priority": 1,
+    "cooldownMinutes": 0,
+    "templateId": "93eb9491-d121-43f7-a093-b83612a0e474",
+    "response": "",
+    "active": true,
+    "skipOptedOut": true,
+    "firstContactOnly": true,
+    "totalResponses": 5,
+    "createdAt": "2026-03-25T14:21:38.298Z"
+  }
+]

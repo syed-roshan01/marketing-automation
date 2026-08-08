@@ -1,0 +1,304 @@
+[
+  {
+    "id": "63e84dba-896a-4687-8342-5e1379b5048b",
+    "assistantId": "3f34e839-ad14-4011-a9de-95464da6fba1",
+    "assistantName": "test appointment",
+    "templateId": "custom",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "deviceId": "d373ba61-87c4-4bbe-8b42-ed10ba9713b7",
+    "fields": {
+      "name": "syed zameer",
+      "mobile": "9945390672",
+      "email": "toroshaninbox@gmail.com",
+      "location": "office",
+      "dateTime": "18 march 5pm",
+      "service": "syed sahil"
+    },
+    "customFields": {},
+    "messages": [
+      {
+        "text": "hi\nappointment in web dev",
+        "at": "2026-03-14T21:47:57.725Z"
+      },
+      {
+        "text": "syed sahil\n9945390672\ntoroshaninbox@gmail.com\noffice\n5pm 18 march",
+        "at": "2026-03-14T21:48:44.994Z"
+      },
+      {
+        "text": "hi appointment in app dev",
+        "at": "2026-03-14T21:49:28.999Z"
+      },
+      {
+        "text": "syed zameer\n9945390672\ntoroshaninbox@gmail.com\noffice\n5pm 18 march",
+        "at": "2026-03-14T21:49:48.671Z"
+      }
+    ],
+    "lastInput": "syed zameer\n9945390672\ntoroshaninbox@gmail.com\noffice\n5pm 18 march",
+    "createdAt": "2026-03-14T21:47:57.725Z",
+    "updatedAt": "2026-03-14T21:49:48.671Z"
+  },
+  {
+    "id": "e7944e9a-a15a-4c40-a7a2-f6891c2899af",
+    "assistantId": "3f34e839-ad14-4011-a9de-95464da6fba1",
+    "assistantName": "test appointment",
+    "templateId": "custom",
+    "phone": "919355336428",
+    "jid": "919355336428@s.whatsapp.net",
+    "deviceId": "d373ba61-87c4-4bbe-8b42-ed10ba9713b7",
+    "fields": {
+      "name": "harsh raj",
+      "mobile": "9987656780",
+      "email": "harsh@gmail.com",
+      "location": "office",
+      "dateTime": "2 pm",
+      "service": "i want to take an appointment"
+    },
+    "customFields": {},
+    "messages": [
+      {
+        "text": "Hey",
+        "at": "2026-03-14T21:51:25.513Z"
+      },
+      {
+        "text": "App Dev",
+        "at": "2026-03-14T21:52:02.322Z"
+      },
+      {
+        "text": "19 march\ni want to take an appointment",
+        "at": "2026-03-14T21:52:57.045Z"
+      },
+      {
+        "text": "2 pm\nharsh raj\n9987656780\nharsh@gmail.com\noffice",
+        "at": "2026-03-14T21:53:56.367Z"
+      }
+    ],
+    "lastInput": "2 pm\nharsh raj\n9987656780\nharsh@gmail.com\noffice",
+    "createdAt": "2026-03-14T21:51:25.513Z",
+    "updatedAt": "2026-03-14T21:53:56.367Z"
+  },
+  {
+    "id": "2b5adf68-14a1-4683-acff-4fadf8d60aa4",
+    "assistantId": "cad4f493-433c-43c0-a9b8-066081ee602c",
+    "assistantName": "Al ibad travels",
+    "templateId": "custom",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "deviceId": "d7277405-6568-44aa-8bf0-7ad316284deb",
+    "fields": {
+      "name": "what do you do",
+      "mobile": "919945390672",
+      "email": "",
+      "location": "",
+      "dateTime": "4",
+      "service": "i am looking for umrah"
+    },
+    "customFields": {},
+    "messages": [
+      {
+        "text": "Hey",
+        "at": "2026-03-25T16:11:01.217Z"
+      },
+      {
+        "text": "i am looking for umrah",
+        "at": "2026-03-25T16:12:46.808Z"
+      },
+      {
+        "text": "aug 4",
+        "at": "2026-03-25T16:13:23.649Z"
+      },
+      {
+        "text": "price",
+        "at": "2026-03-25T16:13:48.345Z"
+      },
+      {
+        "text": "hi",
+        "at": "2026-03-25T16:33:09.694Z"
+      },
+      {
+        "text": "Yes",
+        "at": "2026-03-25T16:33:21.400Z"
+      },
+      {
+        "text": "No",
+        "at": "2026-03-25T16:33:32.746Z"
+      },
+      {
+        "text": "hey",
+        "at": "2026-03-25T16:34:17.383Z"
+      },
+      {
+        "text": "what do you do",
+        "at": "2026-03-25T16:34:47.721Z"
+      },
+      {
+        "text": "Hey",
+        "at": "2026-03-25T19:11:06.387Z"
+      },
+      {
+        "text": "what do you offer?",
+        "at": "2026-03-25T19:11:24.502Z"
+      },
+      {
+        "text": "pricing?",
+        "at": "2026-03-25T19:11:49.493Z"
+      },
+      {
+        "text": "connect me to a person",
+        "at": "2026-03-25T19:12:23.185Z"
+      },
+      {
+        "text": "who are you then?",
+        "at": "2026-03-25T19:12:59.796Z"
+      }
+    ],
+    "lastInput": "who are you then?",
+    "createdAt": "2026-03-25T16:11:01.217Z",
+    "updatedAt": "2026-03-25T19:12:59.796Z"
+  },
+  {
+    "id": "3185dd71-dbaa-4ffb-96ba-1137b862ac66",
+    "assistantId": "cad4f493-433c-43c0-a9b8-066081ee602c",
+    "assistantName": "Al ibad travels",
+    "templateId": "custom",
+    "phone": "917290058166",
+    "jid": "917290058166@s.whatsapp.net",
+    "deviceId": "d7277405-6568-44aa-8bf0-7ad316284deb",
+    "fields": {
+      "name": "",
+      "mobile": "917290058166",
+      "email": "",
+      "location": "",
+      "dateTime": "",
+      "service": ""
+    },
+    "customFields": {},
+    "messages": [
+      {
+        "text": ".",
+        "at": "2026-03-25T16:34:42.338Z"
+      },
+      {
+        "text": "Yes",
+        "at": "2026-03-25T16:35:05.300Z"
+      },
+      {
+        "text": "Hi",
+        "at": "2026-03-25T16:35:05.472Z"
+      }
+    ],
+    "lastInput": "Hi",
+    "createdAt": "2026-03-25T16:34:42.338Z",
+    "updatedAt": "2026-03-25T16:35:05.472Z"
+  },
+  {
+    "id": "7dd8071a-f022-4ce7-a5e1-8637aff7b1f9",
+    "assistantId": "3aa7d139-39ad-4814-8fbb-99bef88dac57",
+    "assistantName": "Support Bot",
+    "templateId": "custom",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "deviceId": "d7277405-6568-44aa-8bf0-7ad316284deb",
+    "fields": {
+      "name": "web dev",
+      "mobile": "919945390672",
+      "email": "",
+      "location": "",
+      "dateTime": "",
+      "service": "web dev"
+    },
+    "customFields": {},
+    "messages": [
+      {
+        "text": "hi",
+        "at": "2026-03-25T16:45:15.153Z"
+      },
+      {
+        "text": "Hey",
+        "at": "2026-03-25T16:45:30.064Z"
+      },
+      {
+        "text": "hi",
+        "at": "2026-03-25T16:52:01.305Z"
+      },
+      {
+        "text": "Hey",
+        "at": "2026-03-25T16:52:11.337Z"
+      },
+      {
+        "text": "what can you help with?",
+        "at": "2026-03-25T16:54:36.869Z"
+      },
+      {
+        "text": "web dev",
+        "at": "2026-03-25T16:55:17.763Z"
+      }
+    ],
+    "lastInput": "web dev",
+    "createdAt": "2026-03-25T16:45:15.153Z",
+    "updatedAt": "2026-03-25T16:55:17.763Z"
+  },
+  {
+    "id": "21ced932-e3a2-43f1-9440-19acd9749379",
+    "assistantId": "3f34e839-ad14-4011-a9de-95464da6fba1",
+    "assistantName": "test appointment",
+    "templateId": "custom",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "deviceId": "d7277405-6568-44aa-8bf0-7ad316284deb",
+    "fields": {
+      "name": "syed roshan",
+      "mobile": "9945390672",
+      "email": "toroshaninbox1@gmail.cpm",
+      "location": "online",
+      "dateTime": "28 march 28",
+      "service": "syed roshan"
+    },
+    "customFields": {},
+    "messages": [
+      {
+        "text": "Hey",
+        "at": "2026-03-25T19:14:18.364Z"
+      },
+      {
+        "text": "web dev",
+        "at": "2026-03-25T19:14:39.843Z"
+      },
+      {
+        "text": "5pm 27th\n9945390672\ntoroshaninbox1@gmail.cpm\nonline\nsyed roshan",
+        "at": "2026-03-25T19:15:38.941Z"
+      },
+      {
+        "text": "march",
+        "at": "2026-03-25T19:16:10.876Z"
+      },
+      {
+        "text": ".com",
+        "at": "2026-03-25T19:16:48.770Z"
+      },
+      {
+        "text": "Hey",
+        "at": "2026-03-25T19:24:50.318Z"
+      },
+      {
+        "text": "what do you offer",
+        "at": "2026-03-25T19:25:08.649Z"
+      },
+      {
+        "text": "web dev",
+        "at": "2026-03-25T19:32:11.158Z"
+      },
+      {
+        "text": "28 march 2026\ntoroshaninbox1@gmail.com\nonline\n9945390672",
+        "at": "2026-03-25T19:36:34.956Z"
+      },
+      {
+        "text": "syed roshan\n5pm",
+        "at": "2026-03-25T19:36:54.864Z"
+      }
+    ],
+    "lastInput": "syed roshan\n5pm",
+    "createdAt": "2026-03-25T19:14:18.364Z",
+    "updatedAt": "2026-03-25T19:36:54.864Z"
+  }
+]

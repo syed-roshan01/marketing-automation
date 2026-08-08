@@ -1,0 +1,6016 @@
+[
+  {
+    "id": "lc_1773272417935",
+    "jid": "919945390672@s.whatsapp.net",
+    "phone": "919945390672",
+    "sessionId": "d373ba61-87c4-4bbe-8b42-ed10ba9713b7",
+    "contactName": "919945390672",
+    "status": "open",
+    "unreadCount": 0,
+    "lastMessage": "syed zameer\n9945390672\ntoroshaninbox@gmail.com\noffice\n5pm 18 march",
+    "lastMessageAt": "2026-03-14T21:49:48.671Z",
+    "messages": [
+      {
+        "id": "msg_1773272417935",
+        "fromMe": false,
+        "body": "SUBSCRIBE",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-11T23:40:17.935Z"
+      },
+      {
+        "id": "msg_1773272453240",
+        "fromMe": false,
+        "body": "UNSUBSCRIBE",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-11T23:40:53.240Z"
+      },
+      {
+        "id": "msg_1773515558145",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T19:12:38.145Z"
+      },
+      {
+        "id": "msg_1773515622010",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T19:13:42.010Z"
+      },
+      {
+        "id": "msg_1773515746289",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T19:15:46.289Z"
+      },
+      {
+        "id": "msg_1773515817790",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T19:16:57.790Z"
+      },
+      {
+        "id": "msg_1773515903391",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T19:18:23.391Z"
+      },
+      {
+        "id": "msg_1773515948613",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T19:19:08.613Z"
+      },
+      {
+        "id": "msg_1773516050455",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T19:20:50.454Z"
+      },
+      {
+        "id": "msg_1773516276480",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T19:24:36.480Z"
+      },
+      {
+        "id": "msg_1773516295800",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T19:24:55.800Z"
+      },
+      {
+        "id": "msg_1773516493122",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T19:28:13.122Z"
+      },
+      {
+        "id": "msg_1773516598851",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T19:29:58.851Z"
+      },
+      {
+        "id": "msg_1773516731238",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T19:32:11.238Z"
+      },
+      {
+        "id": "msg_1773516773516",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T19:32:53.516Z"
+      },
+      {
+        "id": "msg_1773516847433",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T19:34:07.433Z"
+      },
+      {
+        "id": "msg_1773517204813",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T19:40:04.813Z"
+      },
+      {
+        "id": "msg_1773517256437",
+        "fromMe": false,
+        "body": "hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T19:40:56.437Z"
+      },
+      {
+        "id": "msg_1773517388323",
+        "fromMe": false,
+        "body": "hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T19:43:08.323Z"
+      },
+      {
+        "id": "msg_1773517464575",
+        "fromMe": false,
+        "body": "hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T19:44:24.575Z"
+      },
+      {
+        "id": "msg_1773517476642",
+        "fromMe": false,
+        "body": "who are you",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T19:44:36.642Z"
+      },
+      {
+        "id": "msg_1773517487814",
+        "fromMe": false,
+        "body": "what can you help with?",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T19:44:47.814Z"
+      },
+      {
+        "id": "msg_1773517507173",
+        "fromMe": false,
+        "body": "thanks",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T19:45:07.173Z"
+      },
+      {
+        "id": "msg_1773517514230",
+        "fromMe": false,
+        "body": "bye",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T19:45:14.230Z"
+      },
+      {
+        "id": "msg_1773517595113",
+        "fromMe": false,
+        "body": "hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T19:46:35.113Z"
+      },
+      {
+        "id": "msg_1773517601606",
+        "fromMe": false,
+        "body": "who are you",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T19:46:41.606Z"
+      },
+      {
+        "id": "msg_1773517606561",
+        "fromMe": false,
+        "body": "thanks",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T19:46:46.561Z"
+      },
+      {
+        "id": "msg_1773517909815",
+        "fromMe": false,
+        "body": "hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T19:51:49.815Z"
+      },
+      {
+        "id": "msg_1773517933061",
+        "fromMe": false,
+        "body": "what services do you provide",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T19:52:13.061Z"
+      },
+      {
+        "id": "msg_1773517945448",
+        "fromMe": false,
+        "body": "what specific?",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T19:52:25.448Z"
+      },
+      {
+        "id": "msg_1773517951891",
+        "fromMe": false,
+        "body": "no",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T19:52:31.891Z"
+      },
+      {
+        "id": "msg_1773517957621",
+        "fromMe": false,
+        "body": "no need",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T19:52:37.621Z"
+      },
+      {
+        "id": "msg_1773518371257",
+        "fromMe": false,
+        "body": "hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T19:59:31.257Z"
+      },
+      {
+        "id": "msg_1773518379442",
+        "fromMe": false,
+        "body": "no need",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T19:59:39.442Z"
+      },
+      {
+        "id": "msg_1773518385556",
+        "fromMe": false,
+        "body": "no need",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T19:59:45.556Z"
+      },
+      {
+        "id": "msg_1773518479724",
+        "fromMe": false,
+        "body": "hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:01:19.724Z"
+      },
+      {
+        "id": "msg_1773518487546",
+        "fromMe": false,
+        "body": "who are you",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:01:27.546Z"
+      },
+      {
+        "id": "msg_1773518493001",
+        "fromMe": false,
+        "body": "whp",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:01:33.001Z"
+      },
+      {
+        "id": "msg_1773520082025",
+        "fromMe": false,
+        "body": "hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:28:02.025Z"
+      },
+      {
+        "id": "msg_1773520087610",
+        "fromMe": false,
+        "body": "ok",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:28:07.610Z"
+      },
+      {
+        "id": "msg_1773520232692",
+        "fromMe": false,
+        "body": "hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:30:32.692Z"
+      },
+      {
+        "id": "msg_1773520242724",
+        "fromMe": false,
+        "body": "who are you",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:30:42.724Z"
+      },
+      {
+        "id": "msg_1773520253259",
+        "fromMe": false,
+        "body": "what do you do",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:30:53.259Z"
+      },
+      {
+        "id": "msg_1773520257766",
+        "fromMe": false,
+        "body": "no",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:30:57.766Z"
+      },
+      {
+        "id": "msg_1773520264114",
+        "fromMe": false,
+        "body": "time",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:31:04.114Z"
+      },
+      {
+        "id": "msg_1773520275495",
+        "fromMe": false,
+        "body": "i want to visit tomorrow for checkup",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:31:15.495Z"
+      },
+      {
+        "id": "msg_1773520563044",
+        "fromMe": false,
+        "body": "hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:36:03.044Z"
+      },
+      {
+        "id": "msg_1773520571450",
+        "fromMe": false,
+        "body": "wassup",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:36:11.450Z"
+      },
+      {
+        "id": "msg_1773520579231",
+        "fromMe": false,
+        "body": "about?",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:36:19.231Z"
+      },
+      {
+        "id": "msg_1773520590397",
+        "fromMe": false,
+        "body": "when did i question?",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:36:30.397Z"
+      },
+      {
+        "id": "msg_1773520595334",
+        "fromMe": false,
+        "body": "yes",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:36:35.334Z"
+      },
+      {
+        "id": "msg_1773520787381",
+        "fromMe": false,
+        "body": "hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:39:47.381Z"
+      },
+      {
+        "id": "msg_1773520806804",
+        "fromMe": false,
+        "body": "what can you do",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:40:06.804Z"
+      },
+      {
+        "id": "msg_1773520852763",
+        "fromMe": false,
+        "body": "route to human",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:40:52.762Z"
+      },
+      {
+        "id": "msg_1773520991345",
+        "fromMe": false,
+        "body": "hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:43:11.345Z"
+      },
+      {
+        "id": "msg_1773521014827",
+        "fromMe": false,
+        "body": "what services do zeloite offer",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:43:34.827Z"
+      },
+      {
+        "id": "msg_1773521040855",
+        "fromMe": false,
+        "body": "what's the time now",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:44:00.855Z"
+      },
+      {
+        "id": "msg_1773521070156",
+        "fromMe": false,
+        "body": "where are you from",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:44:30.156Z"
+      },
+      {
+        "id": "msg_1773521243601",
+        "fromMe": false,
+        "body": "nice",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:47:23.601Z"
+      },
+      {
+        "id": "msg_1773521444492",
+        "fromMe": false,
+        "body": "hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:50:44.492Z"
+      },
+      {
+        "id": "msg_1773521476260",
+        "fromMe": false,
+        "body": "what services you provide",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:51:16.260Z"
+      },
+      {
+        "id": "msg_1773521561949",
+        "fromMe": false,
+        "body": "is it",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:52:41.949Z"
+      },
+      {
+        "id": "msg_1773522874530",
+        "fromMe": false,
+        "body": "Hey",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T21:14:34.530Z"
+      },
+      {
+        "id": "msg_1773522906813",
+        "fromMe": false,
+        "body": "i want an appointment",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T21:15:06.813Z"
+      },
+      {
+        "id": "msg_1773522928190",
+        "fromMe": false,
+        "body": "web development",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T21:15:28.190Z"
+      },
+      {
+        "id": "msg_1773523043820",
+        "fromMe": false,
+        "body": "tuesday - 17/3/26 at 1 pm\n9945390672 and mail is toroshaninbox1@gmail.com\nonline",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T21:17:23.820Z"
+      },
+      {
+        "id": "msg_1773523073690",
+        "fromMe": false,
+        "body": "syed roshan",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T21:17:53.690Z"
+      },
+      {
+        "id": "msg_1773523448579",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T21:24:08.579Z"
+      },
+      {
+        "id": "msg_1773523468380",
+        "fromMe": false,
+        "body": "Web",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T21:24:28.380Z"
+      },
+      {
+        "id": "msg_1773523487593",
+        "fromMe": false,
+        "body": "why",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T21:24:47.592Z"
+      },
+      {
+        "id": "msg_1773523510797",
+        "fromMe": false,
+        "body": "need an appoinement",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T21:25:10.797Z"
+      },
+      {
+        "id": "msg_1773523570333",
+        "fromMe": false,
+        "body": "web dev\n1 pm on 16th\nsyed roshan\n9945390672\ntoroshaninbox1@gmail.com\nonline",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T21:26:10.333Z"
+      },
+      {
+        "id": "msg_1773523592530",
+        "fromMe": false,
+        "body": "march",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T21:26:32.530Z"
+      },
+      {
+        "id": "msg_1773524406436",
+        "fromMe": false,
+        "body": "hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T21:40:06.436Z"
+      },
+      {
+        "id": "msg_1773524430480",
+        "fromMe": false,
+        "body": "web dev",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T21:40:30.480Z"
+      },
+      {
+        "id": "msg_1773524468568",
+        "fromMe": false,
+        "body": "17th march\n2 pm",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T21:41:08.568Z"
+      },
+      {
+        "id": "msg_1773524503996",
+        "fromMe": false,
+        "body": "syed ahmed\n9945390672\ntoroshaninbox@gmail.com\noffice",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T21:41:43.996Z"
+      },
+      {
+        "id": "msg_1773524877725",
+        "fromMe": false,
+        "body": "hi\nappointment in web dev",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T21:47:57.725Z"
+      },
+      {
+        "id": "msg_1773524924993",
+        "fromMe": false,
+        "body": "syed sahil\n9945390672\ntoroshaninbox@gmail.com\noffice\n5pm 18 march",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T21:48:44.993Z"
+      },
+      {
+        "id": "msg_1773524968998",
+        "fromMe": false,
+        "body": "hi appointment in app dev",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T21:49:28.998Z"
+      },
+      {
+        "id": "msg_1773524988671",
+        "fromMe": false,
+        "body": "syed zameer\n9945390672\ntoroshaninbox@gmail.com\noffice\n5pm 18 march",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T21:49:48.671Z"
+      }
+    ],
+    "notes": "",
+    "tags": [],
+    "createdAt": "2026-03-11T23:40:17.935Z"
+  },
+  {
+    "id": "lc_1773515499009",
+    "jid": "status@broadcast",
+    "phone": "status",
+    "sessionId": "d373ba61-87c4-4bbe-8b42-ed10ba9713b7",
+    "contactName": "status",
+    "status": "open",
+    "unreadCount": 3,
+    "lastMessage": "",
+    "lastMessageAt": "2026-03-14T20:26:28.058Z",
+    "messages": [
+      {
+        "id": "msg_1773515499009",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T19:11:39.008Z"
+      },
+      {
+        "id": "msg_1773519945704",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:25:45.704Z"
+      },
+      {
+        "id": "msg_1773519988058",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:26:28.058Z"
+      }
+    ],
+    "notes": "",
+    "tags": [],
+    "createdAt": "2026-03-14T19:11:39.008Z"
+  },
+  {
+    "id": "lc_1773521519085",
+    "jid": "120363425506732860@g.us",
+    "phone": "120363425506732860",
+    "sessionId": "d373ba61-87c4-4bbe-8b42-ed10ba9713b7",
+    "contactName": "120363425506732860",
+    "status": "open",
+    "unreadCount": 18,
+    "lastMessage": "Ok",
+    "lastMessageAt": "2026-03-14T20:55:28.552Z",
+    "messages": [
+      {
+        "id": "msg_1773521519085",
+        "fromMe": false,
+        "body": "are you awake?",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:51:59.084Z"
+      },
+      {
+        "id": "msg_1773521526529",
+        "fromMe": false,
+        "body": "Yes sir",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:52:06.529Z"
+      },
+      {
+        "id": "msg_1773521601611",
+        "fromMe": false,
+        "body": "Ai wala b bana diya",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:53:21.611Z"
+      },
+      {
+        "id": "msg_1773521606707",
+        "fromMe": false,
+        "body": "Wahh",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:53:26.707Z"
+      },
+      {
+        "id": "msg_1773521631915",
+        "fromMe": false,
+        "body": "Morning wala cilent ka issue v dekh lijeaa ga",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:53:51.915Z"
+      },
+      {
+        "id": "msg_1773521636513",
+        "fromMe": false,
+        "body": "Kal payment le lenge",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:53:56.513Z"
+      },
+      {
+        "id": "msg_1773521641087",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:54:01.087Z"
+      },
+      {
+        "id": "msg_1773521661420",
+        "fromMe": false,
+        "body": "koi ai ka paisa nhi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:54:21.420Z"
+      },
+      {
+        "id": "msg_1773521664441",
+        "fromMe": false,
+        "body": "Per message koi cost??",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:54:24.441Z"
+      },
+      {
+        "id": "msg_1773521669047",
+        "fromMe": false,
+        "body": "Ok",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:54:29.047Z"
+      },
+      {
+        "id": "msg_1773521669999",
+        "fromMe": false,
+        "body": "free",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:54:29.999Z"
+      },
+      {
+        "id": "msg_1773521679554",
+        "fromMe": false,
+        "body": "Bahut Acha hai phir tu",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:54:39.554Z"
+      },
+      {
+        "id": "msg_1773521687748",
+        "fromMe": false,
+        "body": "Isko add karta hai 2999",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:54:47.748Z"
+      },
+      {
+        "id": "msg_1773521689580",
+        "fromMe": false,
+        "body": "Mai",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:54:49.580Z"
+      },
+      {
+        "id": "msg_1773521692539",
+        "fromMe": false,
+        "body": "ye wala mai saste me nhi dele wala",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:54:52.539Z"
+      },
+      {
+        "id": "msg_1773521700695",
+        "fromMe": false,
+        "body": "Ha😄",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:55:00.695Z"
+      },
+      {
+        "id": "msg_1773521721233",
+        "fromMe": false,
+        "body": "chalo fir mai ye complete karke bhejta hoon tumko dekhlena kal",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:55:21.233Z"
+      },
+      {
+        "id": "msg_1773521728552",
+        "fromMe": false,
+        "body": "Ok",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T20:55:28.552Z"
+      }
+    ],
+    "notes": "",
+    "tags": [],
+    "createdAt": "2026-03-14T20:51:59.084Z"
+  },
+  {
+    "id": "lc_1773525085512",
+    "jid": "919355336428@s.whatsapp.net",
+    "phone": "919355336428",
+    "sessionId": "d373ba61-87c4-4bbe-8b42-ed10ba9713b7",
+    "contactName": "919355336428",
+    "status": "open",
+    "unreadCount": 4,
+    "lastMessage": "2 pm\nharsh raj\n9987656780\nharsh@gmail.com\noffice",
+    "lastMessageAt": "2026-03-14T21:53:56.367Z",
+    "messages": [
+      {
+        "id": "msg_1773525085512",
+        "fromMe": false,
+        "body": "Hey",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T21:51:25.512Z"
+      },
+      {
+        "id": "msg_1773525122321",
+        "fromMe": false,
+        "body": "App Dev",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T21:52:02.321Z"
+      },
+      {
+        "id": "msg_1773525177045",
+        "fromMe": false,
+        "body": "19 march\ni want to take an appointment",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T21:52:57.045Z"
+      },
+      {
+        "id": "msg_1773525236367",
+        "fromMe": false,
+        "body": "2 pm\nharsh raj\n9987656780\nharsh@gmail.com\noffice",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-14T21:53:56.367Z"
+      }
+    ],
+    "notes": "",
+    "tags": [],
+    "createdAt": "2026-03-14T21:51:25.512Z"
+  },
+  {
+    "id": "lc_1774447327659",
+    "jid": "919972200910@s.whatsapp.net",
+    "phone": "919972200910",
+    "deviceId": "3b546415-cda3-485f-ac29-e9c425808e89",
+    "sessionId": "3b546415-cda3-485f-ac29-e9c425808e89",
+    "name": "919972200910",
+    "contactName": "919972200910",
+    "status": "active",
+    "unreadCount": 57,
+    "lastMessage": "Appointment Confirmed ✅  \n\n**Name:** Syed Roshan  \n**Service:** Web Development  \n**Date:** 28 March 2026  \n**Time:** 5:00 PM  \n**Meeting Mode:** Online  \n\nThank you for booking an appointment with Zeloite Technologies. We look forward to speaking with you soon.\n\n\n\n---\n\n**Support Pollinations.AI:**\n\n---\n\n🌸 **Ad** 🌸\nPowered by Pollinations.AI free text APIs. [Support our mission](https://pollinations.ai/redirect/kofi) to keep AI accessible for everyone.",
+    "lastMessageTime": "2026-03-25T19:37:17.699Z",
+    "lastMessageAt": "2026-03-25T19:37:17.699Z",
+    "messages": [
+      {
+        "id": "msg_1774447327659",
+        "fromMe": false,
+        "body": "hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:02:07.659Z"
+      },
+      {
+        "id": "29259d85-bb7e-4126-a1bc-f273ddef2351",
+        "body": "ok",
+        "fromMe": true,
+        "timestamp": "2026-03-25T14:04:59.256Z",
+        "type": "text"
+      },
+      {
+        "id": "e8204368-b671-443c-af20-f9f4b13c5d11",
+        "body": "hi",
+        "fromMe": true,
+        "timestamp": "2026-03-25T14:05:15.870Z",
+        "type": "text"
+      },
+      {
+        "id": "0ff45863-1dbd-46dc-8839-8095d04c55b8",
+        "body": "hi",
+        "fromMe": true,
+        "timestamp": "2026-03-25T14:05:46.705Z",
+        "type": "text"
+      },
+      {
+        "id": "2332b6c9-0d41-4d0e-bc88-374762d66fe0",
+        "body": "hi",
+        "fromMe": true,
+        "timestamp": "2026-03-25T14:09:49.057Z",
+        "type": "text"
+      },
+      {
+        "id": "msg_1774447810323",
+        "fromMe": false,
+        "body": "hello",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:10:10.323Z"
+      },
+      {
+        "id": "msg_1774448037017",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:13:57.017Z"
+      },
+      {
+        "id": "msg_1774448038099",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:13:58.099Z"
+      },
+      {
+        "id": "msg_1774448051610",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:14:11.610Z"
+      },
+      {
+        "id": "32919417-598c-404f-9c1f-a8279abc1c24",
+        "body": "oho",
+        "fromMe": true,
+        "timestamp": "2026-03-25T14:15:02.828Z",
+        "type": "text"
+      },
+      {
+        "id": "msg_1774449150385",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:32:30.385Z"
+      },
+      {
+        "id": "msg_1774449150742",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:32:30.742Z"
+      },
+      {
+        "id": "msg_1774449447406",
+        "fromMe": false,
+        "body": "Hey roshan,\nthis is working",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:37:27.406Z"
+      },
+      {
+        "id": "msg_1774449466602",
+        "fromMe": false,
+        "body": "so no need to write 2 times right",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:37:46.602Z"
+      },
+      {
+        "id": "msg_1774449518411",
+        "fromMe": false,
+        "body": "perfect then no need to worry",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:38:38.411Z"
+      },
+      {
+        "id": "msg_1774449535364",
+        "fromMe": false,
+        "body": "aksjnxdwkaskdx aks\naskdnjwkd",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:38:55.364Z"
+      },
+      {
+        "id": "msg_1774449555309",
+        "fromMe": false,
+        "body": "Hey roshan,\nthis is working",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:39:15.308Z"
+      },
+      {
+        "id": "msg_1774449975172",
+        "fromMe": false,
+        "body": "Hi,\n*thank you* for choosing us.\nare you interested in our product?",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:46:15.172Z"
+      },
+      {
+        "id": "msg_1774450144482",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:49:04.482Z"
+      },
+      {
+        "id": "msg_1774454705769",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:05:05.769Z"
+      },
+      {
+        "id": "msg_1774454780620",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:06:20.620Z"
+      },
+      {
+        "id": "msg_1774454797158",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:06:37.158Z"
+      },
+      {
+        "id": "msg_1774454882414",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:08:02.414Z"
+      },
+      {
+        "id": "msg_1774455003448",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:10:03.448Z"
+      },
+      {
+        "id": "msg_1774455010814",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:10:10.814Z"
+      },
+      {
+        "id": "msg_1774455021649",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:10:21.649Z"
+      },
+      {
+        "id": "msg_1774455074716",
+        "fromMe": false,
+        "body": "Hello! 👋 How can I help you with your Hajj or Umrah plans today?  \n\nFor booking or more details, please contact Al Ibad Travel Agency at +91 99453 90672 (Call/WhatsApp). We’re happy to assist you with your journey.",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:11:14.716Z"
+      },
+      {
+        "id": "msg_1774455181306",
+        "fromMe": false,
+        "body": "Sure! We offer complete Umrah packages that include visa processing, flight booking, accommodation in Makkah and Madinah, and 24/7 travel guidance.  \n\n**Upcoming Umrah batches**\n- July 1  \n- August 4  \n- September 7  \n- December 6  \n\nLet me know if you’d like details on a specific batch or help with the booking process.  \n\nFor booking or more details, please contact Al Ibad Travel Agency at +91 99453 90672 (Call/WhatsApp). We’re happy to assist you with your Umrah journey.",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:13:01.306Z"
+      },
+      {
+        "id": "msg_1774455219396",
+        "fromMe": false,
+        "body": "Great! The **August 4** Umrah batch is coming up soon.  \n- **Departure**: 4 August 2026  \n- **Duration**: 5‑6 days (typical itinerary)  \n- **What’s included**:  \n  - Round‑trip flight booking  \n  - Visa processing assistance  \n  - Hotel accommodation in Makkah and Madinah  \n  - 24/7 travel guidance and support  \n\nTo secure your spot or get a customized quote, please call or WhatsApp us at **+91 99453 90672**. We’ll guide you through the booking steps and answer any questions you have.\n\nFor booking or more details, please contact Al Ibad Travel Agency at +91 99453 90672 (Call/WhatsApp). We are happy to assist you with your Hajj and Umrah journey.",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:13:39.396Z"
+      },
+      {
+        "id": "msg_1774455264157",
+        "fromMe": false,
+        "body": "I am temporarily unable to generate an AI response. Please try again in a moment.",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:14:24.157Z"
+      },
+      {
+        "id": "msg_1774456364674",
+        "fromMe": false,
+        "body": "hello",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:32:44.674Z"
+      },
+      {
+        "id": "msg_1774456394711",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:33:14.710Z"
+      },
+      {
+        "id": "msg_1774456407194",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:33:27.194Z"
+      },
+      {
+        "id": "msg_1774456414012",
+        "fromMe": false,
+        "body": "Hi! Great to hear from you. Al ibad travels is here to help. What would you like to do today?",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:33:34.012Z"
+      },
+      {
+        "id": "msg_1774456416721",
+        "fromMe": false,
+        "body": "Thanks for your message. I can help with this right away. Please share a little more detail and I will assist you step by step.",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:33:36.721Z"
+      },
+      {
+        "id": "msg_1774456417773",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:33:37.773Z"
+      },
+      {
+        "id": "msg_1774456429148",
+        "fromMe": false,
+        "body": "Thanks for your message. I can help with this right away. Please share a little more detail and I will assist you step by step.",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:33:49.148Z"
+      },
+      {
+        "id": "msg_1774456481220",
+        "fromMe": false,
+        "body": "Hi! Great to hear from you. Al ibad travels is here to help. What would you like to do today?",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:34:41.220Z"
+      },
+      {
+        "id": "msg_1774456509039",
+        "fromMe": false,
+        "body": "Thanks for your message. I can help with this right away. Please share a little more detail and I will assist you step by step.",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:35:09.039Z"
+      },
+      {
+        "id": "msg_1774457139493",
+        "fromMe": false,
+        "body": "Hi! Great to hear from you. Support Bot is here to help. What would you like to do today?",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:45:39.493Z"
+      },
+      {
+        "id": "msg_1774457143397",
+        "fromMe": false,
+        "body": "Hi! Great to hear from you. Support Bot is here to help. What would you like to do today?",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:45:43.397Z"
+      },
+      {
+        "id": "msg_1774457525299",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:52:05.299Z"
+      },
+      {
+        "id": "msg_1774457544615",
+        "fromMe": false,
+        "body": "Hi! Great to hear from you. Support Bot is here to help. What would you like to do today?",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:52:24.615Z"
+      },
+      {
+        "id": "msg_1774457545217",
+        "fromMe": false,
+        "body": "Hi! Great to hear from you. Support Bot is here to help. What would you like to do today?",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:52:25.217Z"
+      },
+      {
+        "id": "msg_1774457701586",
+        "fromMe": false,
+        "body": "Thanks for your question. I can help with this. Please share one more detail so I can give you the exact answer.",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:55:01.586Z"
+      },
+      {
+        "id": "msg_1774457738116",
+        "fromMe": false,
+        "body": "Thanks for your message. I can help with this right away. Please share a little more detail and I will assist you step by step.",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:55:38.115Z"
+      },
+      {
+        "id": "msg_1774457951129",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:59:11.129Z"
+      },
+      {
+        "id": "msg_1774457962129",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:59:22.129Z"
+      },
+      {
+        "id": "msg_1774457972515",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:59:32.515Z"
+      },
+      {
+        "id": "msg_1774457981369",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:59:41.369Z"
+      },
+      {
+        "id": "msg_1774465142711",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T18:59:02.711Z"
+      },
+      {
+        "id": "msg_1774465874630",
+        "fromMe": false,
+        "body": "Hello! 👋 How can I help you with your Hajj or Umrah plans today?  \n\nFor booking or more details, please contact Al Ibad Travel Agency at +91 99453 90672 (Call/WhatsApp). We’re happy to assist you with your journey.",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:11:14.630Z"
+      },
+      {
+        "id": "msg_1774465898253",
+        "fromMe": false,
+        "body": "We offer full‑service Hajj and Umrah packages, including:\n\n- Complete Hajj & Umrah itineraries  \n- Visa processing assistance  \n- Flight booking  \n- Hotel accommodation in Makkah and Madinah  \n- On‑site travel guidance and customer support  \n\nUpcoming Umrah batches:  \n- July 1  \n- August 4  \n- September 7  \n- December 6  \n\nFor booking or more details, please contact Al Ibad Travel Agency at +91 99453 90672 (Call/WhatsApp). We’re happy to assist you with your Hajj and Umrah journey.",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:11:38.253Z"
+      },
+      {
+        "id": "msg_1774465929318",
+        "fromMe": false,
+        "body": "I’m glad you asked!  \n\n📦 **What we offer**  \n- Complete Hajj & Umrah packages (all-inclusive itineraries)  \n- Visa processing assistance  \n- Flight booking & airport transfers  \n- Hotel accommodation in Makkah & Madinah  \n- 24/7 travel guidance & customer support  \n\n💰 **Pricing**  \nOur rates vary depending on the package type, duration, accommodation level, and the batch you choose. We tailor each package to your needs and budget, so the best way to get an accurate quote is to share a bit about:\n\n1. The batch you’re interested in (e.g., July 1, August 4, etc.)  \n2. Preferred accommodation level (standard, deluxe, or premium)  \n3. Any special requirements (e.g., group booking, dietary needs)\n\nOnce we have that info, we’ll send you a detailed price list and can discuss any discounts or special offers.\n\n📞 **Contact us**  \nFor a personalized quote or any other questions, please call or WhatsApp us at **+91 99453 90672**. We’re happy to help you plan the perfect Hajj or Umrah experience.",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:12:09.318Z"
+      },
+      {
+        "id": "msg_1774465958692",
+        "fromMe": false,
+        "body": "I’m sorry I can’t transfer you directly, but you can speak with one of our team members right away.  \nJust give us a call or WhatsApp at **+91 99453 90672** and we’ll connect you to a specialist who can help with your booking.  \n\nFor booking or more details, please contact Al Ibad Travel Agency at +91 99453 90672 (Call/WhatsApp). We are happy to assist you with your Hajj and Umrah journey.",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:12:38.692Z"
+      },
+      {
+        "id": "msg_1774465992371",
+        "fromMe": false,
+        "body": "I’m the friendly virtual assistant for Al Ibad Travel Agency. I’m here to answer your questions about Hajj and Umrah packages, help you plan your trip, and give you the details you need.  \n\nIf you’d like to speak with a person or need a personalized quote, just call or WhatsApp us at +91 99453 90672. We’re happy to help you with your journey.",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:13:12.371Z"
+      },
+      {
+        "id": "msg_1774466071846",
+        "fromMe": false,
+        "body": "Hello! 👋 How can I help you today? Which of our services are you interested in—Web Development, Mobile App Development, or a Consultation?",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:14:31.846Z"
+      },
+      {
+        "id": "msg_1774466101179",
+        "fromMe": false,
+        "body": "Hello! 👋 Great choice—let’s schedule your Web Development consultation.\n\nCould you please share:\n1. Your preferred date & time (between 10 AM and 6 PM)\n2. Your full name\n3. Mobile number\n4. Email address\n5. Meeting mode (Online or Office)\n\nOnce I have these details, I’ll confirm the appointment for you.",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:15:01.179Z"
+      },
+      {
+        "id": "msg_1774466152264",
+        "fromMe": false,
+        "body": "Thanks for the details! To finalize your appointment, could you please confirm:\n\n1. The month for **27th** (e.g., March, April, etc.)  \n2. Your email address (looks like it might be toroshaninbox1@gmail.com)\n\nOnce we have those, I’ll send you the confirmation.",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:15:52.264Z"
+      },
+      {
+        "id": "msg_1774466191443",
+        "fromMe": false,
+        "body": "Thank you for the details!  \nJust to confirm a couple of points before I book the slot:\n\n1. **Email address** – I have it as `toroshaninbox1@gmail.cpm`. Did you mean `toroshaninbox1@gmail.com`?  \n2. **Date & Time** – 27 March at 5 00 PM (between 10 AM and 6 PM).  \n\nOnce I have the correct email, I’ll send you the final appointment confirmation.",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:16:31.443Z"
+      },
+      {
+        "id": "msg_1774466221755",
+        "fromMe": false,
+        "body": "Appointment Confirmed ✅\n\nName: Syed Roshan  \nService: Web Development  \nDate: 27 March  \nTime: 5:00 PM  \nMeeting Mode: Online  \n\nThank you for booking an appointment with Zeloite Technologies. We look forward to speaking with you soon.",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:17:01.755Z"
+      },
+      {
+        "id": "msg_1774466279740",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:17:59.740Z"
+      },
+      {
+        "id": "msg_1774466698287",
+        "fromMe": false,
+        "body": "Hello! 👋 How can I help you today?",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:24:58.287Z"
+      },
+      {
+        "id": "msg_1774466732850",
+        "fromMe": false,
+        "body": "Hello! 👋  \nZeloite Technologies specializes in:\n\n| Service | Description |\n|---------|-------------|\n| **Web Development** | Custom websites, e‑commerce platforms, CMS solutions, and responsive design. |\n| **Mobile App Development** | Native & cross‑platform apps for iOS & Android, from concept to launch. |\n| **Software Solutions** | Enterprise applications, SaaS platforms, API integrations, and automation tools. |\n\nIf you’re interested in any of these, we can schedule a brief consultation to discuss your needs and next steps. Let me know how I can help!",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:25:32.850Z"
+      },
+      {
+        "id": "msg_1774467146574",
+        "fromMe": false,
+        "body": "Great! Let’s schedule your Web Development appointment.\n\nCould you please let me know:\n\n1. **Preferred date** (e.g., 27 March 2026)  \n2. **Preferred time** (between 10 AM and 6 PM)  \n3. **Mobile number**  \n4. **Email address**  \n5. **Meeting mode** (Online or Office)\n\nOnce I have those details, I’ll confirm the appointment for you.",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:32:26.574Z"
+      },
+      {
+        "id": "msg_1774467407894",
+        "fromMe": false,
+        "body": "Thank you for the details! To finalize your Web Development appointment, I just need a couple more pieces of information:\n\n1. **Preferred time** (between 10 AM and 6 PM)  \n2. **Your preferred name** (so we can address you properly)\n\nOnce I have those, I’ll confirm the appointment for you.",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:36:47.894Z"
+      },
+      {
+        "id": "msg_1774467437699",
+        "fromMe": false,
+        "body": "Appointment Confirmed ✅  \n\n**Name:** Syed Roshan  \n**Service:** Web Development  \n**Date:** 28 March 2026  \n**Time:** 5:00 PM  \n**Meeting Mode:** Online  \n\nThank you for booking an appointment with Zeloite Technologies. We look forward to speaking with you soon.\n\n\n\n---\n\n**Support Pollinations.AI:**\n\n---\n\n🌸 **Ad** 🌸\nPowered by Pollinations.AI free text APIs. [Support our mission](https://pollinations.ai/redirect/kofi) to keep AI accessible for everyone.",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:37:17.699Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-03-25T14:02:07.659Z"
+  },
+  {
+    "id": "lc_1774447375799",
+    "jid": "status@broadcast",
+    "phone": "status",
+    "deviceId": "3b546415-cda3-485f-ac29-e9c425808e89",
+    "sessionId": "3b546415-cda3-485f-ac29-e9c425808e89",
+    "name": "status",
+    "contactName": "status",
+    "status": "active",
+    "unreadCount": 10,
+    "lastMessage": "Flipkart’s vrp available s2 s3 s4 s5 available 🎁 normal vrp",
+    "lastMessageTime": "2026-03-25T19:48:05.632Z",
+    "lastMessageAt": "2026-03-25T19:48:05.632Z",
+    "messages": [
+      {
+        "id": "msg_1774447375799",
+        "fromMe": false,
+        "body": "Assalamualaikum wa rahmatullahi wa barakatuhu ummed hei aap sab khair o afiat se hei \nAgar aap ke dil me islam ke liye thodi si muhabbat hei to maulana qamar ghani usmani sahab ke  saat kon kon hei agar aap hei to trend chaliye \nRelease qamar ghani usmani\nHazrat 1500 din se jail mei hei aap sab hazrat ke liye dua kare aur unki rihai ke liye protest kare \nAssalamualaikum wa rahmatullahi wa barakatuhu ❤❤",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:02:55.799Z"
+      },
+      {
+        "id": "msg_1774454705288",
+        "fromMe": false,
+        "body": "https://www.facebook.com/share/r/1G8XNHbHwb/",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:05:05.287Z"
+      },
+      {
+        "id": "msg_1774455142186",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:12:22.186Z"
+      },
+      {
+        "id": "msg_1774455298740",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:14:58.740Z"
+      },
+      {
+        "id": "msg_1774455458411",
+        "fromMe": false,
+        "body": "Flipkart’s vrp available s2 s3 s4 s5 available 🎁 normal vrp",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:17:38.411Z"
+      },
+      {
+        "id": "msg_1774455478199",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:17:58.199Z"
+      },
+      {
+        "id": "msg_1774456291742",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:31:31.741Z"
+      },
+      {
+        "id": "msg_1774457062982",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:44:22.982Z"
+      },
+      {
+        "id": "msg_1774457069521",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:44:29.521Z"
+      },
+      {
+        "id": "msg_1774468032172",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:47:12.172Z"
+      },
+      {
+        "id": "msg_1774468085632",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:48:05.632Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-03-25T14:02:55.799Z"
+  },
+  {
+    "id": "lc_1774447789391",
+    "jid": "919945390672@s.whatsapp.net",
+    "phone": "919945390672",
+    "deviceId": "d7277405-6568-44aa-8bf0-7ad316284deb",
+    "sessionId": "d7277405-6568-44aa-8bf0-7ad316284deb",
+    "name": "919945390672",
+    "contactName": "919945390672",
+    "status": "active",
+    "unreadCount": 34,
+    "lastMessage": "syed roshan\n5pm",
+    "lastMessageTime": "2026-03-25T19:36:54.863Z",
+    "lastMessageAt": "2026-03-25T19:36:54.863Z",
+    "messages": [
+      {
+        "id": "msg_1774447789391",
+        "fromMe": false,
+        "body": "hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:09:49.391Z"
+      },
+      {
+        "id": "8c291a8a-2352-4a12-87b0-fdcb4d6372a7",
+        "body": "hello",
+        "fromMe": true,
+        "timestamp": "2026-03-25T14:10:10.033Z",
+        "type": "text"
+      },
+      {
+        "id": "msg_1774447957818",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:12:37.818Z"
+      },
+      {
+        "id": "msg_1774447966011",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:12:46.011Z"
+      },
+      {
+        "id": "msg_1774448001064",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:13:21.063Z"
+      },
+      {
+        "id": "msg_1774448006956",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:13:26.956Z"
+      },
+      {
+        "id": "msg_1774448038191",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:13:58.191Z"
+      },
+      {
+        "id": "msg_1774448038869",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:13:58.869Z"
+      },
+      {
+        "id": "msg_1774448052623",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:14:12.623Z"
+      },
+      {
+        "id": "msg_1774448103240",
+        "fromMe": false,
+        "body": "oho",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:15:03.240Z"
+      },
+      {
+        "id": "msg_1774448200696",
+        "fromMe": false,
+        "body": "https://www.instagram.com/p/DUXTnaDjIt-/?igsh=eDMyb2RhMzlxejdj",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:16:40.696Z"
+      },
+      {
+        "id": "msg_1774448509441",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:21:49.441Z"
+      },
+      {
+        "id": "msg_1774448582442",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:23:02.442Z"
+      },
+      {
+        "id": "msg_1774448589191",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:23:09.191Z"
+      },
+      {
+        "id": "msg_1774448598130",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:23:18.130Z"
+      },
+      {
+        "id": "msg_1774448950137",
+        "fromMe": false,
+        "body": "hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:29:10.137Z"
+      },
+      {
+        "id": "msg_1774448955322",
+        "fromMe": false,
+        "body": "hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:29:15.322Z"
+      },
+      {
+        "id": "msg_1774448964142",
+        "fromMe": false,
+        "body": "yes",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:29:24.142Z"
+      },
+      {
+        "id": "msg_1774448966936",
+        "fromMe": false,
+        "body": "yes",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:29:26.936Z"
+      },
+      {
+        "id": "msg_1774448977206",
+        "fromMe": false,
+        "body": "Right",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:29:37.206Z"
+      },
+      {
+        "id": "msg_1774448992069",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:29:52.069Z"
+      },
+      {
+        "id": "msg_1774449010438",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:30:10.438Z"
+      },
+      {
+        "id": "msg_1774449014922",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:30:14.922Z"
+      },
+      {
+        "id": "msg_1774449068937",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:31:08.937Z"
+      },
+      {
+        "id": "msg_1774449075573",
+        "fromMe": false,
+        "body": "HI",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:31:15.573Z"
+      },
+      {
+        "id": "msg_1774449095998",
+        "fromMe": false,
+        "body": "hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:31:35.998Z"
+      },
+      {
+        "id": "msg_1774449445569",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:37:25.569Z"
+      },
+      {
+        "id": "msg_1774449465586",
+        "fromMe": false,
+        "body": "Yes",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:37:45.586Z"
+      },
+      {
+        "id": "msg_1774449482479",
+        "fromMe": false,
+        "body": "right",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:38:02.479Z"
+      },
+      {
+        "id": "msg_1774449517702",
+        "fromMe": false,
+        "body": "Right",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:38:37.702Z"
+      },
+      {
+        "id": "msg_1774449534501",
+        "fromMe": false,
+        "body": "Good night",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:38:54.501Z"
+      },
+      {
+        "id": "msg_1774449554558",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:39:14.558Z"
+      },
+      {
+        "id": "msg_1774449971776",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:46:11.776Z"
+      },
+      {
+        "id": "msg_1774450140979",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:49:00.978Z"
+      },
+      {
+        "id": "msg_1774454457107",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:00:57.107Z"
+      },
+      {
+        "id": "msg_1774454697194",
+        "fromMe": false,
+        "body": "Yes",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:04:57.194Z"
+      },
+      {
+        "id": "msg_1774454745788",
+        "fromMe": false,
+        "body": "yes",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:05:45.788Z"
+      },
+      {
+        "id": "msg_1774454773883",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:06:13.883Z"
+      },
+      {
+        "id": "msg_1774454792475",
+        "fromMe": false,
+        "body": "Yes",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:06:32.475Z"
+      },
+      {
+        "id": "msg_1774454878376",
+        "fromMe": false,
+        "body": "hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:07:58.376Z"
+      },
+      {
+        "id": "msg_1774454997198",
+        "fromMe": false,
+        "body": "hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:09:57.198Z"
+      },
+      {
+        "id": "msg_1774455006846",
+        "fromMe": false,
+        "body": "Yes",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:10:06.846Z"
+      },
+      {
+        "id": "msg_1774455015090",
+        "fromMe": false,
+        "body": "No",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:10:15.090Z"
+      },
+      {
+        "id": "msg_1774455061217",
+        "fromMe": false,
+        "body": "Hey",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:11:01.217Z"
+      },
+      {
+        "id": "msg_1774455166805",
+        "fromMe": false,
+        "body": "i am looking for umrah",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:12:46.805Z"
+      },
+      {
+        "id": "msg_1774455203649",
+        "fromMe": false,
+        "body": "aug 4",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:13:23.649Z"
+      },
+      {
+        "id": "msg_1774455228345",
+        "fromMe": false,
+        "body": "price",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:13:48.345Z"
+      },
+      {
+        "id": "2d5fcb5e-fe42-45e7-9fd4-9ae08a71264b",
+        "body": "hello",
+        "fromMe": true,
+        "timestamp": "2026-03-25T16:32:44.372Z",
+        "type": "text"
+      },
+      {
+        "id": "msg_1774456389694",
+        "fromMe": false,
+        "body": "hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:33:09.694Z"
+      },
+      {
+        "id": "msg_1774456401400",
+        "fromMe": false,
+        "body": "Yes",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:33:21.400Z"
+      },
+      {
+        "id": "msg_1774456412749",
+        "fromMe": false,
+        "body": "No",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:33:32.749Z"
+      },
+      {
+        "id": "msg_1774456457390",
+        "fromMe": false,
+        "body": "hey",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:34:17.390Z"
+      },
+      {
+        "id": "msg_1774456487720",
+        "fromMe": false,
+        "body": "what do you do",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:34:47.720Z"
+      },
+      {
+        "id": "msg_1774457115153",
+        "fromMe": false,
+        "body": "hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:45:15.153Z"
+      },
+      {
+        "id": "msg_1774457130064",
+        "fromMe": false,
+        "body": "Hey",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:45:30.064Z"
+      },
+      {
+        "id": "msg_1774457521304",
+        "fromMe": false,
+        "body": "hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:52:01.304Z"
+      },
+      {
+        "id": "msg_1774457531333",
+        "fromMe": false,
+        "body": "Hey",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:52:11.333Z"
+      },
+      {
+        "id": "msg_1774457676869",
+        "fromMe": false,
+        "body": "what can you help with?",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:54:36.869Z"
+      },
+      {
+        "id": "msg_1774457717760",
+        "fromMe": false,
+        "body": "web dev",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:55:17.760Z"
+      },
+      {
+        "id": "msg_1774457943117",
+        "fromMe": false,
+        "body": "hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:59:03.117Z"
+      },
+      {
+        "id": "msg_1774457958356",
+        "fromMe": false,
+        "body": "Yes",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:59:18.356Z"
+      },
+      {
+        "id": "msg_1774457965763",
+        "fromMe": false,
+        "body": "No",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:59:25.763Z"
+      },
+      {
+        "id": "msg_1774457975654",
+        "fromMe": false,
+        "body": "No",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:59:35.654Z"
+      },
+      {
+        "id": "msg_1774465137426",
+        "fromMe": false,
+        "body": "hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T18:58:57.426Z"
+      },
+      {
+        "id": "msg_1774465156517",
+        "fromMe": false,
+        "body": "Hey",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T18:59:16.517Z"
+      },
+      {
+        "id": "msg_1774465196402",
+        "fromMe": false,
+        "body": "??",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T18:59:56.402Z"
+      },
+      {
+        "id": "msg_1774465842598",
+        "fromMe": false,
+        "body": "Hey",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:10:42.598Z"
+      },
+      {
+        "id": "msg_1774465866386",
+        "fromMe": false,
+        "body": "Hey",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:11:06.386Z"
+      },
+      {
+        "id": "msg_1774465884502",
+        "fromMe": false,
+        "body": "what do you offer?",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:11:24.502Z"
+      },
+      {
+        "id": "msg_1774465909493",
+        "fromMe": false,
+        "body": "pricing?",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:11:49.493Z"
+      },
+      {
+        "id": "msg_1774465943190",
+        "fromMe": false,
+        "body": "connect me to a person",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:12:23.190Z"
+      },
+      {
+        "id": "msg_1774465979795",
+        "fromMe": false,
+        "body": "who are you then?",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:12:59.795Z"
+      },
+      {
+        "id": "msg_1774466058363",
+        "fromMe": false,
+        "body": "Hey",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:14:18.363Z"
+      },
+      {
+        "id": "msg_1774466079845",
+        "fromMe": false,
+        "body": "web dev",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:14:39.845Z"
+      },
+      {
+        "id": "msg_1774466138941",
+        "fromMe": false,
+        "body": "5pm 27th\n9945390672\ntoroshaninbox1@gmail.cpm\nonline\nsyed roshan",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:15:38.941Z"
+      },
+      {
+        "id": "msg_1774466170875",
+        "fromMe": false,
+        "body": "march",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:16:10.875Z"
+      },
+      {
+        "id": "msg_1774466208774",
+        "fromMe": false,
+        "body": ".com",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:16:48.774Z"
+      },
+      {
+        "id": "msg_1774466690305",
+        "fromMe": false,
+        "body": "Hey",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:24:50.305Z"
+      },
+      {
+        "id": "msg_1774466708650",
+        "fromMe": false,
+        "body": "what do you offer",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:25:08.650Z"
+      },
+      {
+        "id": "msg_1774467131157",
+        "fromMe": false,
+        "body": "web dev",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:32:11.157Z"
+      },
+      {
+        "id": "msg_1774467394955",
+        "fromMe": false,
+        "body": "28 march 2026\ntoroshaninbox1@gmail.com\nonline\n9945390672",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:36:34.955Z"
+      },
+      {
+        "id": "msg_1774467414863",
+        "fromMe": false,
+        "body": "syed roshan\n5pm",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:36:54.863Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-03-25T14:09:49.391Z"
+  },
+  {
+    "id": "lc_1774448220640",
+    "jid": "919316440664@s.whatsapp.net",
+    "phone": "919316440664",
+    "deviceId": "d7277405-6568-44aa-8bf0-7ad316284deb",
+    "sessionId": "d7277405-6568-44aa-8bf0-7ad316284deb",
+    "name": "919316440664",
+    "contactName": "919316440664",
+    "status": "active",
+    "unreadCount": 2,
+    "lastMessage": "Thank you for your time Zeloite 😊\nI will connect with you shortly.",
+    "lastMessageTime": "2026-03-25T14:17:16.947Z",
+    "lastMessageAt": "2026-03-25T14:17:16.947Z",
+    "messages": [
+      {
+        "id": "msg_1774448220640",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:17:00.640Z"
+      },
+      {
+        "id": "msg_1774448236947",
+        "fromMe": false,
+        "body": "Thank you for your time Zeloite 😊\nI will connect with you shortly.",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:17:16.947Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-03-25T14:17:00.640Z"
+  },
+  {
+    "id": "lc_1774448612747",
+    "jid": "916366674736@s.whatsapp.net",
+    "phone": "916366674736",
+    "deviceId": "3b546415-cda3-485f-ac29-e9c425808e89",
+    "sessionId": "3b546415-cda3-485f-ac29-e9c425808e89",
+    "name": "916366674736",
+    "contactName": "916366674736",
+    "status": "active",
+    "unreadCount": 1,
+    "lastMessage": "",
+    "lastMessageTime": "2026-03-25T14:23:32.747Z",
+    "lastMessageAt": "2026-03-25T14:23:32.747Z",
+    "messages": [
+      {
+        "id": "msg_1774448612747",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:23:32.747Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-03-25T14:23:32.747Z"
+  },
+  {
+    "id": "lc_1774450067717",
+    "jid": "917348878479@s.whatsapp.net",
+    "phone": "917348878479",
+    "deviceId": "3b546415-cda3-485f-ac29-e9c425808e89",
+    "sessionId": "3b546415-cda3-485f-ac29-e9c425808e89",
+    "name": "917348878479",
+    "contactName": "917348878479",
+    "status": "active",
+    "unreadCount": 5,
+    "lastMessage": "Okay send Meet link once back",
+    "lastMessageTime": "2026-03-25T16:47:23.972Z",
+    "lastMessageAt": "2026-03-25T16:47:23.972Z",
+    "messages": [
+      {
+        "id": "msg_1774450067716",
+        "fromMe": false,
+        "body": "https://meet.google.com/ifi-ntdn-gvn",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:47:47.716Z"
+      },
+      {
+        "id": "msg_1774450075311",
+        "fromMe": false,
+        "body": "sorry join bro",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T14:47:55.311Z"
+      },
+      {
+        "id": "msg_1774457218744",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:46:58.744Z"
+      },
+      {
+        "id": "msg_1774457224285",
+        "fromMe": false,
+        "body": "Let's connect",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:47:04.285Z"
+      },
+      {
+        "id": "msg_1774457243972",
+        "fromMe": false,
+        "body": "Okay send Meet link once back",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:47:23.972Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-03-25T14:47:47.716Z"
+  },
+  {
+    "id": "lc_1774454399754",
+    "jid": "120363425506732860@g.us",
+    "phone": "120363425506732860",
+    "deviceId": "d7277405-6568-44aa-8bf0-7ad316284deb",
+    "sessionId": "d7277405-6568-44aa-8bf0-7ad316284deb",
+    "name": "120363425506732860",
+    "contactName": "120363425506732860",
+    "status": "active",
+    "unreadCount": 9,
+    "lastMessage": "https://meet.google.com/zch-hmik-pkw",
+    "lastMessageTime": "2026-03-25T19:20:11.589Z",
+    "lastMessageAt": "2026-03-25T19:20:11.589Z",
+    "messages": [
+      {
+        "id": "msg_1774454399754",
+        "fromMe": false,
+        "body": "sab fix hogaya",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T15:59:59.754Z"
+      },
+      {
+        "id": "msg_1774454400347",
+        "fromMe": false,
+        "body": "will upload new exe",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:00:00.347Z"
+      },
+      {
+        "id": "msg_1774456142247",
+        "fromMe": false,
+        "body": "https://meet.google.com/eyd-zxgo-guh",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:29:02.247Z"
+      },
+      {
+        "id": "msg_1774457604072",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:53:24.072Z"
+      },
+      {
+        "id": "msg_1774465112902",
+        "fromMe": false,
+        "body": "New one uploaded \nDownload and test and then we will connect",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T18:58:32.902Z"
+      },
+      {
+        "id": "msg_1774465113123",
+        "fromMe": false,
+        "body": "check kiya?",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T18:58:33.122Z"
+      },
+      {
+        "id": "msg_1774466322813",
+        "fromMe": false,
+        "body": "Abhi available ho",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:18:42.813Z"
+      },
+      {
+        "id": "msg_1774466324243",
+        "fromMe": false,
+        "body": "Ha",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:18:44.243Z"
+      },
+      {
+        "id": "msg_1774466411589",
+        "fromMe": false,
+        "body": "https://meet.google.com/zch-hmik-pkw",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:20:11.589Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-03-25T15:59:59.754Z"
+  },
+  {
+    "id": "lc_1774454662295",
+    "jid": "120363425506732860@g.us",
+    "phone": "120363425506732860",
+    "deviceId": "3b546415-cda3-485f-ac29-e9c425808e89",
+    "sessionId": "3b546415-cda3-485f-ac29-e9c425808e89",
+    "name": "120363425506732860",
+    "contactName": "120363425506732860",
+    "status": "active",
+    "unreadCount": 16,
+    "lastMessage": "https://ollama.com/download",
+    "lastMessageTime": "2026-03-25T19:23:35.221Z",
+    "lastMessageAt": "2026-03-25T19:23:35.221Z",
+    "messages": [
+      {
+        "id": "msg_1774454662294",
+        "fromMe": false,
+        "body": "sab fix hogaya",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:04:22.294Z"
+      },
+      {
+        "id": "msg_1774454662648",
+        "fromMe": false,
+        "body": "will upload new exe",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:04:22.648Z"
+      },
+      {
+        "id": "msg_1774456148010",
+        "fromMe": false,
+        "body": "https://meet.google.com/eyd-zxgo-guh",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:29:08.010Z"
+      },
+      {
+        "id": "msg_1774456173539",
+        "fromMe": false,
+        "body": "Ok",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:29:33.539Z"
+      },
+      {
+        "id": "msg_1774457596152",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:53:16.152Z"
+      },
+      {
+        "id": "msg_1774465144192",
+        "fromMe": false,
+        "body": "check kiya?",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T18:59:04.192Z"
+      },
+      {
+        "id": "msg_1774465144517",
+        "fromMe": false,
+        "body": "??",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T18:59:04.517Z"
+      },
+      {
+        "id": "msg_1774465144876",
+        "fromMe": false,
+        "body": "thoda delay b hota hai kabhi kabhi instant fast replies se bot activity detect hoke ban hone ke chances hai",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T18:59:04.876Z"
+      },
+      {
+        "id": "msg_1774465145278",
+        "fromMe": false,
+        "body": "will connect in 20 minutes",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T18:59:05.278Z"
+      },
+      {
+        "id": "msg_1774465145674",
+        "fromMe": false,
+        "body": "ok",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T18:59:05.674Z"
+      },
+      {
+        "id": "msg_1774465146073",
+        "fromMe": false,
+        "body": "ok",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T18:59:06.073Z"
+      },
+      {
+        "id": "msg_1774465146491",
+        "fromMe": false,
+        "body": "number send karo jo dalna hai",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T18:59:06.491Z"
+      },
+      {
+        "id": "msg_1774466323161",
+        "fromMe": false,
+        "body": "Abhi available ho",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:18:43.161Z"
+      },
+      {
+        "id": "msg_1774466323984",
+        "fromMe": false,
+        "body": "Ha",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:18:43.984Z"
+      },
+      {
+        "id": "msg_1774466417942",
+        "fromMe": false,
+        "body": "https://meet.google.com/zch-hmik-pkw",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:20:17.942Z"
+      },
+      {
+        "id": "msg_1774466615221",
+        "fromMe": false,
+        "body": "https://ollama.com/download",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:23:35.221Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-03-25T16:04:22.294Z"
+  },
+  {
+    "id": "lc_1774454812477",
+    "jid": "919945193130-1467698754@g.us",
+    "phone": "919945193130-1467698754",
+    "deviceId": "3b546415-cda3-485f-ac29-e9c425808e89",
+    "sessionId": "3b546415-cda3-485f-ac29-e9c425808e89",
+    "name": "919945193130-1467698754",
+    "contactName": "919945193130-1467698754",
+    "status": "active",
+    "unreadCount": 1,
+    "lastMessage": "",
+    "lastMessageTime": "2026-03-25T16:06:52.477Z",
+    "lastMessageAt": "2026-03-25T16:06:52.477Z",
+    "messages": [
+      {
+        "id": "msg_1774454812477",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:06:52.477Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-03-25T16:06:52.477Z"
+  },
+  {
+    "id": "lc_1774455522958",
+    "jid": "120363424706400784@g.us",
+    "phone": "120363424706400784",
+    "deviceId": "3b546415-cda3-485f-ac29-e9c425808e89",
+    "sessionId": "3b546415-cda3-485f-ac29-e9c425808e89",
+    "name": "120363424706400784",
+    "contactName": "120363424706400784",
+    "status": "active",
+    "unreadCount": 3,
+    "lastMessage": "Intro of html\nTemplate of html\nDoubt clarification \nHow the command works like the flow of how the code works \nHow to study and focus better",
+    "lastMessageTime": "2026-03-25T16:40:02.585Z",
+    "lastMessageAt": "2026-03-25T16:40:02.585Z",
+    "messages": [
+      {
+        "id": "msg_1774455522958",
+        "fromMe": false,
+        "body": "@202559398650072 @250482996039802 \n\nCan anyone of you write a message in 5 points saying what all you learnt in today's session\n\nThis we will be flowing regularly from now onwards and everytime a alternate person will write it",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:18:42.958Z"
+      },
+      {
+        "id": "msg_1774455531251",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:18:51.251Z"
+      },
+      {
+        "id": "msg_1774456802585",
+        "fromMe": false,
+        "body": "Intro of html\nTemplate of html\nDoubt clarification \nHow the command works like the flow of how the code works \nHow to study and focus better",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:40:02.585Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-03-25T16:18:42.958Z"
+  },
+  {
+    "id": "lc_1774455523031",
+    "jid": "120363424706400784@g.us",
+    "phone": "120363424706400784",
+    "deviceId": "d7277405-6568-44aa-8bf0-7ad316284deb",
+    "sessionId": "d7277405-6568-44aa-8bf0-7ad316284deb",
+    "name": "120363424706400784",
+    "contactName": "120363424706400784",
+    "status": "active",
+    "unreadCount": 2,
+    "lastMessage": "@202559398650072 @250482996039802 \n\nCan anyone of you write a message in 5 points saying what all you learnt in today's session\n\nThis we will be flowing regularly from now onwards and everytime a alternate person will write it",
+    "lastMessageTime": "2026-03-25T16:19:33.831Z",
+    "lastMessageAt": "2026-03-25T16:19:33.831Z",
+    "messages": [
+      {
+        "id": "msg_1774455523031",
+        "fromMe": false,
+        "body": "@202559398650072 @250482996039802 \n\nCan anyone of you write a message in 5 points saying what all you learnt in today's session\n\nThis we will be flowing regularly from now onwards and everytime a alternate person will write it",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:18:43.031Z"
+      },
+      {
+        "id": "msg_1774455573831",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:19:33.831Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-03-25T16:18:43.031Z"
+  },
+  {
+    "id": "lc_1774455525060",
+    "jid": "120363425185127002@g.us",
+    "phone": "120363425185127002",
+    "deviceId": "3b546415-cda3-485f-ac29-e9c425808e89",
+    "sessionId": "3b546415-cda3-485f-ac29-e9c425808e89",
+    "name": "120363425185127002",
+    "contactName": "120363425185127002",
+    "status": "active",
+    "unreadCount": 10,
+    "lastMessage": "Please take this sticker printout and fill details. This is to be stuck on every luggage bag.\n\nbarah-e-karam yeh sticker print out len aur details bharain. yeh har samaan ke bag par laga na hai .",
+    "lastMessageTime": "2026-03-25T16:29:39.281Z",
+    "lastMessageAt": "2026-03-25T16:29:39.281Z",
+    "messages": [
+      {
+        "id": "msg_1774455525060",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:18:45.060Z"
+      },
+      {
+        "id": "msg_1774455525640",
+        "fromMe": false,
+        "body": "*🌟 Alhamdulillah! Great News! Great News! 🌟*\n*🕌 3-Day \"Haj Training Camp\" 🕌*\n*📍 Venue: Masjid Ansar, Center, Kamandan Mohalla, Ram Nagram*\n*📅 Dates: 27, 28, 29 March 2026*\n*🗓️ Friday, Saturday & Sunday*\n*💚 Alhamdulillah, this year once again in the city of Ram Nagram, under the supervision of Maulana Muhammad Qasim Qureshi Saheb, a 3-Day Hajj Training Camp is being organized for Haj pilgrims. 🤲*\n*🌹 By participating in this camp, you will receive complete training on how to perform Haj, Umrah, and presenting Salat & Salam at the Holy Prophet's ﷺ shrine, as well as guidance on visiting the sacred sites. 🕋*\n*⭐ All intending pilgrims are strongly requested to take full advantage of this valuable opportunity! ⭐*\n*📌 Important Notes:*\n*✅ Only registered Haj pilgrims can participate*\n*✅ Please bring your own bedding*\n*✅ Accommodation will NOT be provided at the camp*\n*🤲 May Allah Almighty accept the Haj of all pilgrims 🤲*\n*Ameen Ya Rabb Al-Alameen 💚*\n*#HajTrainingCamp 🕋*\n*#RamNagram 🌙*\n*#HajPilgrims2026 ✈️*\n*#MasjidAnsar 🕌*\n*#HajMabroor 🤲*\n               - - - -",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:18:45.640Z"
+      },
+      {
+        "id": "msg_1774455620847",
+        "fromMe": false,
+        "body": "https://youtu.be/3Rm0W0Gldoo?si=PFJm_e4c8BkwJhuY",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:20:20.847Z"
+      },
+      {
+        "id": "msg_1774455677370",
+        "fromMe": false,
+        "body": "*🌟 Alhamdulillah! Great News! Great News! 🌟*\n*🕌 3-Day \"Haj Training Camp\" 🕌*\n*📍 Venue: Masjid Ansar, Center, Kamandan Mohalla, Ram Nagram*\n*📅 Dates: 27, 28, 29 March 2026*\n*🗓️ Friday, Saturday & Sunday*\n*💚 Alhamdulillah, this year once again in the city of Ram Nagram, under the supervision of Maulana Muhammad Qasim Qureshi Saheb, a 3-Day Hajj Training Camp is being organized for Haj pilgrims. 🤲*\n*🌹 By participating in this camp, you will receive complete training on how to perform Haj, Umrah, and presenting Salat & Salam at the Holy Prophet's ﷺ shrine, as well as guidance on visiting the sacred sites. 🕋*\n*⭐ All intending pilgrims are strongly requested to take full advantage of this valuable opportunity! ⭐*\n*📌 Important Notes:*\n*✅ Only registered Haj pilgrims can participate*\n*✅ Please bring your own bedding*\n*✅ Accommodation will NOT be provided at the camp*\n*🤲 May Allah Almighty accept the Haj of all pilgrims 🤲*\n*Ameen Ya Rabb Al-Alameen 💚*\n*#HajTrainingCamp 🕋*\n*#RamNagram 🌙*\n*#HajPilgrims2026 ✈️*\n*#MasjidAnsar 🕌*\n*#HajMabroor 🤲*\n               - - - -",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:21:17.370Z"
+      },
+      {
+        "id": "msg_1774455677581",
+        "fromMe": false,
+        "body": "https://youtu.be/xjlS7VxQVlg?si=7XBk7fjojDgzAo9o",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:21:17.581Z"
+      },
+      {
+        "id": "msg_1774455677918",
+        "fromMe": false,
+        "body": "https://youtu.be/3Rm0W0Gldoo?si=PFJm_e4c8BkwJhuY",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:21:17.918Z"
+      },
+      {
+        "id": "msg_1774455684105",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:21:24.105Z"
+      },
+      {
+        "id": "msg_1774455684598",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:21:24.598Z"
+      },
+      {
+        "id": "msg_1774455684900",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:21:24.900Z"
+      },
+      {
+        "id": "msg_1774456179281",
+        "fromMe": false,
+        "body": "Please take this sticker printout and fill details. This is to be stuck on every luggage bag.\n\nbarah-e-karam yeh sticker print out len aur details bharain. yeh har samaan ke bag par laga na hai .",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:29:39.281Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-03-25T16:18:45.060Z"
+  },
+  {
+    "id": "lc_1774456482338",
+    "jid": "917290058166@s.whatsapp.net",
+    "phone": "917290058166",
+    "deviceId": "d7277405-6568-44aa-8bf0-7ad316284deb",
+    "sessionId": "d7277405-6568-44aa-8bf0-7ad316284deb",
+    "name": "917290058166",
+    "contactName": "917290058166",
+    "status": "active",
+    "unreadCount": 4,
+    "lastMessage": ".",
+    "lastMessageTime": "2026-03-25T16:42:36.187Z",
+    "lastMessageAt": "2026-03-25T16:42:36.187Z",
+    "messages": [
+      {
+        "id": "msg_1774456482338",
+        "fromMe": false,
+        "body": ".",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:34:42.338Z"
+      },
+      {
+        "id": "msg_1774456505300",
+        "fromMe": false,
+        "body": "Yes",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:35:05.300Z"
+      },
+      {
+        "id": "msg_1774456505471",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:35:05.471Z"
+      },
+      {
+        "id": "msg_1774456956187",
+        "fromMe": false,
+        "body": ".",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:42:36.187Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-03-25T16:34:42.338Z"
+  },
+  {
+    "id": "lc_1774456742037",
+    "jid": "919661291501@s.whatsapp.net",
+    "phone": "919661291501",
+    "deviceId": "d7277405-6568-44aa-8bf0-7ad316284deb",
+    "sessionId": "d7277405-6568-44aa-8bf0-7ad316284deb",
+    "name": "919661291501",
+    "contactName": "919661291501",
+    "status": "active",
+    "unreadCount": 2,
+    "lastMessage": "Hi",
+    "lastMessageTime": "2026-03-25T16:39:28.544Z",
+    "lastMessageAt": "2026-03-25T16:39:28.544Z",
+    "messages": [
+      {
+        "id": "msg_1774456742037",
+        "fromMe": false,
+        "body": ".",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:39:02.037Z"
+      },
+      {
+        "id": "msg_1774456768544",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:39:28.544Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-03-25T16:39:02.037Z"
+  },
+  {
+    "id": "lc_1774457161100",
+    "jid": "1664139372@broadcast",
+    "phone": "1664139372",
+    "deviceId": "3b546415-cda3-485f-ac29-e9c425808e89",
+    "sessionId": "3b546415-cda3-485f-ac29-e9c425808e89",
+    "name": "1664139372",
+    "contactName": "1664139372",
+    "status": "active",
+    "unreadCount": 1,
+    "lastMessage": "",
+    "lastMessageTime": "2026-03-25T16:46:01.100Z",
+    "lastMessageAt": "2026-03-25T16:46:01.100Z",
+    "messages": [
+      {
+        "id": "msg_1774457161100",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:46:01.100Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-03-25T16:46:01.100Z"
+  },
+  {
+    "id": "lc_1774457329166",
+    "jid": "919355337169@s.whatsapp.net",
+    "phone": "919355337169",
+    "deviceId": "d7277405-6568-44aa-8bf0-7ad316284deb",
+    "sessionId": "d7277405-6568-44aa-8bf0-7ad316284deb",
+    "name": "919355337169",
+    "contactName": "919355337169",
+    "status": "active",
+    "unreadCount": 18,
+    "lastMessage": "UNSUBSCRIBE",
+    "lastMessageTime": "2026-03-25T17:08:22.894Z",
+    "lastMessageAt": "2026-03-25T17:08:22.894Z",
+    "messages": [
+      {
+        "id": "msg_1774457329166",
+        "fromMe": false,
+        "body": ".",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:48:49.166Z"
+      },
+      {
+        "id": "msg_1774457345591",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:49:05.591Z"
+      },
+      {
+        "id": "msg_1774457386346",
+        "fromMe": false,
+        "body": "Hii",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:49:46.346Z"
+      },
+      {
+        "id": "msg_1774457397426",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:49:57.426Z"
+      },
+      {
+        "id": "msg_1774457424393",
+        "fromMe": false,
+        "body": "Yes",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:50:24.393Z"
+      },
+      {
+        "id": "msg_1774457451359",
+        "fromMe": false,
+        "body": "No",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:50:51.359Z"
+      },
+      {
+        "id": "msg_1774457485248",
+        "fromMe": false,
+        "body": "No",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:51:25.248Z"
+      },
+      {
+        "id": "msg_1774457995219",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:59:55.219Z"
+      },
+      {
+        "id": "msg_1774458014000",
+        "fromMe": false,
+        "body": "Yes",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T17:00:14.000Z"
+      },
+      {
+        "id": "msg_1774458031909",
+        "fromMe": false,
+        "body": "Yes",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T17:00:31.908Z"
+      },
+      {
+        "id": "msg_1774458048005",
+        "fromMe": false,
+        "body": "Yes",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T17:00:48.005Z"
+      },
+      {
+        "id": "msg_1774458062277",
+        "fromMe": false,
+        "body": "No",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T17:01:02.277Z"
+      },
+      {
+        "id": "msg_1774458081877",
+        "fromMe": false,
+        "body": "No",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T17:01:21.877Z"
+      },
+      {
+        "id": "msg_1774458357124",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T17:05:57.124Z"
+      },
+      {
+        "id": "msg_1774458375024",
+        "fromMe": false,
+        "body": "hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T17:06:15.024Z"
+      },
+      {
+        "id": "msg_1774458409117",
+        "fromMe": false,
+        "body": "hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T17:06:49.117Z"
+      },
+      {
+        "id": "msg_1774458474962",
+        "fromMe": false,
+        "body": "SUBSCRIBE",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T17:07:54.962Z"
+      },
+      {
+        "id": "msg_1774458502894",
+        "fromMe": false,
+        "body": "UNSUBSCRIBE",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T17:08:22.894Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-03-25T16:48:49.166Z"
+  },
+  {
+    "id": "lc_1774457474540",
+    "jid": "142417525264574@lid",
+    "phone": "142417525264574",
+    "deviceId": "d7277405-6568-44aa-8bf0-7ad316284deb",
+    "sessionId": "d7277405-6568-44aa-8bf0-7ad316284deb",
+    "name": "142417525264574",
+    "contactName": "142417525264574",
+    "status": "active",
+    "unreadCount": 1,
+    "lastMessage": "No",
+    "lastMessageTime": "2026-03-25T16:51:14.539Z",
+    "lastMessageAt": "2026-03-25T16:51:14.539Z",
+    "messages": [
+      {
+        "id": "msg_1774457474540",
+        "fromMe": false,
+        "body": "No",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:51:14.539Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-03-25T16:51:14.539Z"
+  },
+  {
+    "id": "lc_1774457515960",
+    "jid": "120363166258915880@newsletter",
+    "phone": "120363166258915880",
+    "deviceId": "3b546415-cda3-485f-ac29-e9c425808e89",
+    "sessionId": "3b546415-cda3-485f-ac29-e9c425808e89",
+    "name": "120363166258915880",
+    "contactName": "120363166258915880",
+    "status": "active",
+    "unreadCount": 1,
+    "lastMessage": "*Updated results after revaluation of B.E 5th & 7th semester for all region :* \n\nhttps://results.vtu.ac.in/D25J26RVcbcs/index.php",
+    "lastMessageTime": "2026-03-25T16:51:55.960Z",
+    "lastMessageAt": "2026-03-25T16:51:55.960Z",
+    "messages": [
+      {
+        "id": "msg_1774457515960",
+        "fromMe": false,
+        "body": "*Updated results after revaluation of B.E 5th & 7th semester for all region :* \n\nhttps://results.vtu.ac.in/D25J26RVcbcs/index.php",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T16:51:55.960Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-03-25T16:51:55.960Z"
+  },
+  {
+    "id": "lc_1774468751170",
+    "jid": "919945390672@s.whatsapp.net",
+    "phone": "919945390672",
+    "deviceId": "72470d12-e225-41c9-a7a9-46c888728fd0",
+    "sessionId": "72470d12-e225-41c9-a7a9-46c888728fd0",
+    "name": "919945390672",
+    "contactName": "919945390672",
+    "status": "active",
+    "unreadCount": 5,
+    "lastMessage": "ok",
+    "lastMessageTime": "2026-03-25T21:08:21.164Z",
+    "lastMessageAt": "2026-03-25T21:08:21.164Z",
+    "messages": [
+      {
+        "id": "msg_1774468751170",
+        "fromMe": false,
+        "body": "hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:59:11.170Z"
+      },
+      {
+        "id": "msg_1774469110775",
+        "fromMe": false,
+        "body": "hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T20:05:10.775Z"
+      },
+      {
+        "id": "msg_1774472900512",
+        "fromMe": false,
+        "body": "Hey",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T21:08:20.512Z"
+      },
+      {
+        "id": "msg_1774472900971",
+        "fromMe": false,
+        "body": "nothing",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T21:08:20.971Z"
+      },
+      {
+        "id": "msg_1774472901164",
+        "fromMe": false,
+        "body": "ok",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T21:08:21.164Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-03-25T19:59:11.170Z"
+  },
+  {
+    "id": "lc_1774468775408",
+    "jid": "919972200910@s.whatsapp.net",
+    "phone": "919972200910",
+    "deviceId": "6da9429a-6165-4dc3-9115-e42c55f5c913",
+    "sessionId": "6da9429a-6165-4dc3-9115-e42c55f5c913",
+    "name": "919972200910",
+    "contactName": "919972200910",
+    "status": "active",
+    "unreadCount": 3,
+    "lastMessage": "[Hook] From 919217758442:\nHi",
+    "lastMessageTime": "2026-03-25T20:06:09.700Z",
+    "lastMessageAt": "2026-03-25T20:06:09.700Z",
+    "messages": [
+      {
+        "id": "msg_1774468775408",
+        "fromMe": false,
+        "body": "test",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T19:59:35.407Z"
+      },
+      {
+        "id": "msg_1774469127597",
+        "fromMe": false,
+        "body": "Test",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T20:05:27.597Z"
+      },
+      {
+        "id": "msg_1774469169700",
+        "fromMe": false,
+        "body": "[Hook] From 919217758442:\nHi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T20:06:09.700Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-03-25T19:59:35.407Z"
+  },
+  {
+    "id": "lc_1774468905748",
+    "jid": "919217758442@s.whatsapp.net",
+    "phone": "919217758442",
+    "deviceId": "6da9429a-6165-4dc3-9115-e42c55f5c913",
+    "sessionId": "6da9429a-6165-4dc3-9115-e42c55f5c913",
+    "name": "919217758442",
+    "contactName": "919217758442",
+    "status": "active",
+    "unreadCount": 1,
+    "lastMessage": "Hi",
+    "lastMessageTime": "2026-03-25T20:01:45.748Z",
+    "lastMessageAt": "2026-03-25T20:01:45.748Z",
+    "messages": [
+      {
+        "id": "msg_1774468905748",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T20:01:45.748Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-03-25T20:01:45.748Z"
+  },
+  {
+    "id": "lc_1774468944324",
+    "jid": "919217758442@s.whatsapp.net",
+    "phone": "919217758442",
+    "deviceId": "72470d12-e225-41c9-a7a9-46c888728fd0",
+    "sessionId": "72470d12-e225-41c9-a7a9-46c888728fd0",
+    "name": "919217758442",
+    "contactName": "919217758442",
+    "status": "active",
+    "unreadCount": 2,
+    "lastMessage": "Hi",
+    "lastMessageTime": "2026-03-25T20:06:08.560Z",
+    "lastMessageAt": "2026-03-25T20:06:08.560Z",
+    "messages": [
+      {
+        "id": "msg_1774468944324",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T20:02:24.324Z"
+      },
+      {
+        "id": "msg_1774469168560",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T20:06:08.560Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-03-25T20:02:24.324Z"
+  },
+  {
+    "id": "lc_1774469693121",
+    "jid": "120363425506732860@g.us",
+    "phone": "120363425506732860",
+    "deviceId": "6da9429a-6165-4dc3-9115-e42c55f5c913",
+    "sessionId": "6da9429a-6165-4dc3-9115-e42c55f5c913",
+    "name": "120363425506732860",
+    "contactName": "120363425506732860",
+    "status": "active",
+    "unreadCount": 1,
+    "lastMessage": "",
+    "lastMessageTime": "2026-03-25T20:14:53.121Z",
+    "lastMessageAt": "2026-03-25T20:14:53.121Z",
+    "messages": [
+      {
+        "id": "msg_1774469693121",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T20:14:53.121Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-03-25T20:14:53.121Z"
+  },
+  {
+    "id": "lc_1774469693132",
+    "jid": "120363425506732860@g.us",
+    "phone": "120363425506732860",
+    "deviceId": "72470d12-e225-41c9-a7a9-46c888728fd0",
+    "sessionId": "72470d12-e225-41c9-a7a9-46c888728fd0",
+    "name": "120363425506732860",
+    "contactName": "120363425506732860",
+    "status": "active",
+    "unreadCount": 2,
+    "lastMessage": "",
+    "lastMessageTime": "2026-03-25T20:14:53.584Z",
+    "lastMessageAt": "2026-03-25T20:14:53.584Z",
+    "messages": [
+      {
+        "id": "msg_1774469693132",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T20:14:53.132Z"
+      },
+      {
+        "id": "msg_1774469693584",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T20:14:53.584Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-03-25T20:14:53.132Z"
+  },
+  {
+    "id": "lc_1774470665813",
+    "jid": "status@broadcast",
+    "phone": "status",
+    "deviceId": "6da9429a-6165-4dc3-9115-e42c55f5c913",
+    "sessionId": "6da9429a-6165-4dc3-9115-e42c55f5c913",
+    "name": "status",
+    "contactName": "status",
+    "status": "active",
+    "unreadCount": 3,
+    "lastMessage": "",
+    "lastMessageTime": "2026-03-25T20:37:54.822Z",
+    "lastMessageAt": "2026-03-25T20:37:54.822Z",
+    "messages": [
+      {
+        "id": "msg_1774470665813",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T20:31:05.813Z"
+      },
+      {
+        "id": "msg_1774471056246",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T20:37:36.245Z"
+      },
+      {
+        "id": "msg_1774471074822",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-25T20:37:54.822Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-03-25T20:31:05.813Z"
+  },
+  {
+    "id": "lc_1774693222748",
+    "jid": "919945390672@s.whatsapp.net",
+    "phone": "919945390672",
+    "deviceId": "90391c56-8609-4561-a093-58b2d07ea780",
+    "sessionId": "90391c56-8609-4561-a093-58b2d07ea780",
+    "name": "919945390672",
+    "contactName": "919945390672",
+    "status": "active",
+    "unreadCount": 153,
+    "lastMessage": "31914 - 520 -6k punitha",
+    "lastMessageTime": "2026-03-30T17:14:56.160Z",
+    "lastMessageAt": "2026-03-30T17:14:56.160Z",
+    "messages": [
+      {
+        "id": "msg_1774693222748",
+        "fromMe": false,
+        "body": "Lead",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T10:20:22.747Z"
+      },
+      {
+        "id": "msg_1774693288175",
+        "fromMe": false,
+        "body": "Syed roshan",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T10:21:28.175Z"
+      },
+      {
+        "id": "msg_1774693302493",
+        "fromMe": false,
+        "body": "toroshaninbox1@gmail.com",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T10:21:42.493Z"
+      },
+      {
+        "id": "msg_1774693321847",
+        "fromMe": false,
+        "body": "91 9945390672",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T10:22:01.847Z"
+      },
+      {
+        "id": "msg_1774693338221",
+        "fromMe": false,
+        "body": "1",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T10:22:18.221Z"
+      },
+      {
+        "id": "msg_1774693350943",
+        "fromMe": false,
+        "body": "Yes",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T10:22:30.943Z"
+      },
+      {
+        "id": "msg_1774694140728",
+        "fromMe": false,
+        "body": "Lead",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T10:35:40.728Z"
+      },
+      {
+        "id": "msg_1774694229116",
+        "fromMe": false,
+        "body": "syed roshan",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T10:37:09.116Z"
+      },
+      {
+        "id": "msg_1774694265949",
+        "fromMe": false,
+        "body": "syed@gmail.com",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T10:37:45.949Z"
+      },
+      {
+        "id": "msg_1774694271635",
+        "fromMe": false,
+        "body": "9945390674",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T10:37:51.635Z"
+      },
+      {
+        "id": "msg_1774694275816",
+        "fromMe": false,
+        "body": "1",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T10:37:55.816Z"
+      },
+      {
+        "id": "msg_1774694282118",
+        "fromMe": false,
+        "body": "yes",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T10:38:02.118Z"
+      },
+      {
+        "id": "msg_1774694558942",
+        "fromMe": false,
+        "body": "{\"id\":\"not fine\",\"description\":\"\"}",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T10:42:38.942Z"
+      },
+      {
+        "id": "msg_1774694559262",
+        "fromMe": false,
+        "body": "{\"id\":\"this one\",\"description\":\"\"}",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T10:42:39.262Z"
+      },
+      {
+        "id": "msg_1774694615302",
+        "fromMe": false,
+        "body": "Lead",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T10:43:35.302Z"
+      },
+      {
+        "id": "msg_1774694628347",
+        "fromMe": false,
+        "body": "Test",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T10:43:48.347Z"
+      },
+      {
+        "id": "msg_1774694647575",
+        "fromMe": false,
+        "body": "Ydts@vshxh.com",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T10:44:07.575Z"
+      },
+      {
+        "id": "msg_1774694674205",
+        "fromMe": false,
+        "body": "9947476283",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T10:44:34.205Z"
+      },
+      {
+        "id": "msg_1774694705527",
+        "fromMe": false,
+        "body": "f00f3a284-2347-4e3c-aa61-a3d0ca50b7dc_0",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T10:45:05.527Z"
+      },
+      {
+        "id": "msg_1774694721853",
+        "fromMe": false,
+        "body": "f00f3a284-2347-4e3c-aa61-a3d0ca50b7dc_1",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T10:45:21.853Z"
+      },
+      {
+        "id": "msg_1774694758384",
+        "fromMe": false,
+        "body": "f00f3a284-2347-4e3c-aa61-a3d0ca50b7dc_0",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T10:45:58.384Z"
+      },
+      {
+        "id": "msg_1774694772745",
+        "fromMe": false,
+        "body": "Other",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T10:46:12.745Z"
+      },
+      {
+        "id": "msg_1774694786257",
+        "fromMe": false,
+        "body": "✅ Yes, Confirm",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T10:46:26.257Z"
+      },
+      {
+        "id": "msg_1774695144638",
+        "fromMe": false,
+        "body": "hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T10:52:24.638Z"
+      },
+      {
+        "id": "msg_1774695231789",
+        "fromMe": false,
+        "body": "29 march 2026",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T10:53:51.788Z"
+      },
+      {
+        "id": "msg_1774695457525",
+        "fromMe": false,
+        "body": "10:45 pm",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T10:57:37.525Z"
+      },
+      {
+        "id": "msg_1774695501052",
+        "fromMe": false,
+        "body": "lead",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T10:58:21.052Z"
+      },
+      {
+        "id": "msg_1774695505334",
+        "fromMe": false,
+        "body": "syed roshan",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T10:58:25.334Z"
+      },
+      {
+        "id": "msg_1774695513517",
+        "fromMe": false,
+        "body": "toroshaninbox1@abc.com",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T10:58:33.517Z"
+      },
+      {
+        "id": "msg_1774695518653",
+        "fromMe": false,
+        "body": "9945690875",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T10:58:38.653Z"
+      },
+      {
+        "id": "msg_1774695535112",
+        "fromMe": false,
+        "body": "f00f3a284-2347-4e3c-aa61-a3d0ca50b7dc_1",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T10:58:55.112Z"
+      },
+      {
+        "id": "msg_1774695760557",
+        "fromMe": false,
+        "body": "lead",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T11:02:40.557Z"
+      },
+      {
+        "id": "msg_1774695768038",
+        "fromMe": false,
+        "body": "syed roshan",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T11:02:48.038Z"
+      },
+      {
+        "id": "msg_1774695776354",
+        "fromMe": false,
+        "body": "toroshaninbox2@gmail.com",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T11:02:56.354Z"
+      },
+      {
+        "id": "msg_1774695782498",
+        "fromMe": false,
+        "body": "9956488345",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T11:03:02.498Z"
+      },
+      {
+        "id": "msg_1774695796054",
+        "fromMe": false,
+        "body": "2",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T11:03:16.054Z"
+      },
+      {
+        "id": "msg_1774695807186",
+        "fromMe": false,
+        "body": "✅ Yes, Confirm",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T11:03:27.186Z"
+      },
+      {
+        "id": "msg_1774696293155",
+        "fromMe": false,
+        "body": "lead",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T11:11:33.154Z"
+      },
+      {
+        "id": "msg_1774696296969",
+        "fromMe": false,
+        "body": "hah",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T11:11:36.969Z"
+      },
+      {
+        "id": "msg_1774696303214",
+        "fromMe": false,
+        "body": "iaugdss@skajda.com",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T11:11:43.214Z"
+      },
+      {
+        "id": "msg_1774696307728",
+        "fromMe": false,
+        "body": "88573792",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T11:11:47.728Z"
+      },
+      {
+        "id": "msg_1774696321220",
+        "fromMe": false,
+        "body": "3",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T11:12:01.220Z"
+      },
+      {
+        "id": "msg_1774696334232",
+        "fromMe": false,
+        "body": "✅ Yes, Confirm",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T11:12:14.232Z"
+      },
+      {
+        "id": "msg_1774696757883",
+        "fromMe": false,
+        "body": "lead",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T11:19:17.883Z"
+      },
+      {
+        "id": "msg_1774696761450",
+        "fromMe": false,
+        "body": "syed",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T11:19:21.450Z"
+      },
+      {
+        "id": "msg_1774696764171",
+        "fromMe": false,
+        "body": "sk.jdhsid",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T11:19:24.171Z"
+      },
+      {
+        "id": "msg_1774696772915",
+        "fromMe": false,
+        "body": "sakjh@sdkjh.com",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T11:19:32.915Z"
+      },
+      {
+        "id": "msg_1774696777837",
+        "fromMe": false,
+        "body": "7896478234",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T11:19:37.837Z"
+      },
+      {
+        "id": "msg_1774696791034",
+        "fromMe": false,
+        "body": "4",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T11:19:51.034Z"
+      },
+      {
+        "id": "msg_1774696801455",
+        "fromMe": false,
+        "body": "✅ Yes, Confirm",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T11:20:01.455Z"
+      },
+      {
+        "id": "msg_1774700178560",
+        "fromMe": false,
+        "body": "lead",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T12:16:18.560Z"
+      },
+      {
+        "id": "msg_1774700309923",
+        "fromMe": false,
+        "body": "lead",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T12:18:29.923Z"
+      },
+      {
+        "id": "msg_1774700313734",
+        "fromMe": false,
+        "body": "aks",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T12:18:33.734Z"
+      },
+      {
+        "id": "msg_1774705406850",
+        "fromMe": false,
+        "body": "lead",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T13:43:26.850Z"
+      },
+      {
+        "id": "msg_1774705412068",
+        "fromMe": false,
+        "body": "syec",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T13:43:32.068Z"
+      },
+      {
+        "id": "msg_1774705480405",
+        "fromMe": false,
+        "body": "eshgdiag@skjdfh.com",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T13:44:40.405Z"
+      },
+      {
+        "id": "msg_1774705487589",
+        "fromMe": false,
+        "body": "9756733846",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T13:44:47.589Z"
+      },
+      {
+        "id": "msg_1774705504883",
+        "fromMe": false,
+        "body": "f00f3a284-2347-4e3c-aa61-a3d0ca50b7dc_1",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T13:45:04.883Z"
+      },
+      {
+        "id": "msg_1774705694750",
+        "fromMe": false,
+        "body": "f00f3a284-2347-4e3c-aa61-a3d0ca50b7dc_2",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T13:48:14.750Z"
+      },
+      {
+        "id": "msg_1774705720592",
+        "fromMe": false,
+        "body": "lead",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T13:48:40.592Z"
+      },
+      {
+        "id": "msg_1774705750477",
+        "fromMe": false,
+        "body": "lead",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T13:49:10.477Z"
+      },
+      {
+        "id": "msg_1774705754524",
+        "fromMe": false,
+        "body": "sjd",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T13:49:14.524Z"
+      },
+      {
+        "id": "msg_1774705759952",
+        "fromMe": false,
+        "body": "akshd@skjd.com",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T13:49:19.952Z"
+      },
+      {
+        "id": "msg_1774705767245",
+        "fromMe": false,
+        "body": "7897789237",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T13:49:27.245Z"
+      },
+      {
+        "id": "msg_1774705781389",
+        "fromMe": false,
+        "body": "2",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T13:49:41.389Z"
+      },
+      {
+        "id": "msg_1774705794120",
+        "fromMe": false,
+        "body": "✅ Yes, Confirm",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T13:49:54.120Z"
+      },
+      {
+        "id": "msg_1774705811007",
+        "fromMe": false,
+        "body": "🔄 No, Restart",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T13:50:11.007Z"
+      },
+      {
+        "id": "msg_1774705899665",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T13:51:39.665Z"
+      },
+      {
+        "id": "msg_1774705911361",
+        "fromMe": false,
+        "body": "Lead",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T13:51:51.361Z"
+      },
+      {
+        "id": "msg_1774705920998",
+        "fromMe": false,
+        "body": "Cancel",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T13:52:00.997Z"
+      },
+      {
+        "id": "msg_1774706302608",
+        "fromMe": false,
+        "body": "Lead",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T13:58:22.608Z"
+      },
+      {
+        "id": "msg_1774706314553",
+        "fromMe": false,
+        "body": "Hdhdh",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T13:58:34.553Z"
+      },
+      {
+        "id": "msg_1774706792764",
+        "fromMe": false,
+        "body": "lead",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T14:06:32.764Z"
+      },
+      {
+        "id": "msg_1774706798773",
+        "fromMe": false,
+        "body": "jh,ascg",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T14:06:38.773Z"
+      },
+      {
+        "id": "msg_1774706806781",
+        "fromMe": false,
+        "body": "sj,dgsd@aksjdh.com",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T14:06:46.781Z"
+      },
+      {
+        "id": "msg_1774706812175",
+        "fromMe": false,
+        "body": "7593749394",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T14:06:52.175Z"
+      },
+      {
+        "id": "msg_1774706828901",
+        "fromMe": false,
+        "body": "1",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T14:07:08.901Z"
+      },
+      {
+        "id": "msg_1774706841116",
+        "fromMe": false,
+        "body": "✅ Yes, Confirm",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T14:07:21.116Z"
+      },
+      {
+        "id": "msg_1774706917213",
+        "fromMe": false,
+        "body": "hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T14:08:37.213Z"
+      },
+      {
+        "id": "msg_1774706921560",
+        "fromMe": false,
+        "body": "j,hg",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T14:08:41.560Z"
+      },
+      {
+        "id": "msg_1774706927151",
+        "fromMe": false,
+        "body": "kjg",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T14:08:47.151Z"
+      },
+      {
+        "id": "msg_1774707612000",
+        "fromMe": false,
+        "body": "hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T14:20:12.000Z"
+      },
+      {
+        "id": "msg_1774707619396",
+        "fromMe": false,
+        "body": "cancel",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T14:20:19.396Z"
+      },
+      {
+        "id": "msg_1774710100158",
+        "fromMe": false,
+        "body": "book now",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:01:40.158Z"
+      },
+      {
+        "id": "msg_1774710112459",
+        "fromMe": false,
+        "body": "kjgiu",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:01:52.459Z"
+      },
+      {
+        "id": "msg_1774710118961",
+        "fromMe": false,
+        "body": "865689843",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:01:58.961Z"
+      },
+      {
+        "id": "msg_1774710124945",
+        "fromMe": false,
+        "body": "a,sdjhkkjn@asja.com",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:02:04.945Z"
+      },
+      {
+        "id": "msg_1774710142164",
+        "fromMe": false,
+        "body": "1",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:02:22.164Z"
+      },
+      {
+        "id": "msg_1774710161855",
+        "fromMe": false,
+        "body": "29 march 2026",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:02:41.855Z"
+      },
+      {
+        "id": "msg_1774710169426",
+        "fromMe": false,
+        "body": "11:00 pm",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:02:49.426Z"
+      },
+      {
+        "id": "msg_1774710999129",
+        "fromMe": false,
+        "body": "book now",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:16:39.128Z"
+      },
+      {
+        "id": "msg_1774711011615",
+        "fromMe": false,
+        "body": "ukasgis",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:16:51.615Z"
+      },
+      {
+        "id": "msg_1774711018595",
+        "fromMe": false,
+        "body": "8655789321",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:16:58.595Z"
+      },
+      {
+        "id": "msg_1774711025903",
+        "fromMe": false,
+        "body": "kjabsdka@kasjd.com",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:17:05.903Z"
+      },
+      {
+        "id": "msg_1774711042056",
+        "fromMe": false,
+        "body": "2",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:17:22.056Z"
+      },
+      {
+        "id": "msg_1774711048735",
+        "fromMe": false,
+        "body": "14 april",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:17:28.735Z"
+      },
+      {
+        "id": "msg_1774711057041",
+        "fromMe": false,
+        "body": "3 pm",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:17:37.041Z"
+      },
+      {
+        "id": "msg_1774711063857",
+        "fromMe": false,
+        "body": "03:30 pm",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:17:43.857Z"
+      },
+      {
+        "id": "msg_1774711068272",
+        "fromMe": false,
+        "body": "✅ Yes, Confirm",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:17:48.272Z"
+      },
+      {
+        "id": "msg_1774711395910",
+        "fromMe": false,
+        "body": "Book now",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:23:15.910Z"
+      },
+      {
+        "id": "msg_1774711407630",
+        "fromMe": false,
+        "body": "Syed",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:23:27.630Z"
+      },
+      {
+        "id": "msg_1774711417863",
+        "fromMe": false,
+        "body": "7383",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:23:37.863Z"
+      },
+      {
+        "id": "msg_1774711437165",
+        "fromMe": false,
+        "body": "Bsjsh@hdhx.com",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:23:57.165Z"
+      },
+      {
+        "id": "msg_1774711448114",
+        "fromMe": false,
+        "body": "1",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:24:08.114Z"
+      },
+      {
+        "id": "msg_1774711476434",
+        "fromMe": false,
+        "body": "Book now",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:24:36.434Z"
+      },
+      {
+        "id": "msg_1774711489670",
+        "fromMe": false,
+        "body": "Jsjdj",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:24:49.670Z"
+      },
+      {
+        "id": "msg_1774711507467",
+        "fromMe": false,
+        "body": "73848",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:25:07.467Z"
+      },
+      {
+        "id": "msg_1774711523853",
+        "fromMe": false,
+        "body": "Bdhdhdj@ndjd.com",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:25:23.853Z"
+      },
+      {
+        "id": "msg_1774711537933",
+        "fromMe": false,
+        "body": "1",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:25:37.933Z"
+      },
+      {
+        "id": "msg_1774711553890",
+        "fromMe": false,
+        "body": "29 march",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:25:53.890Z"
+      },
+      {
+        "id": "msg_1774711569012",
+        "fromMe": false,
+        "body": "1: pm",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:26:09.012Z"
+      },
+      {
+        "id": "msg_1774711584231",
+        "fromMe": false,
+        "body": "1:00 pm",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:26:24.231Z"
+      },
+      {
+        "id": "msg_1774711594527",
+        "fromMe": false,
+        "body": "✅ Yes, Confirm",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:26:34.527Z"
+      },
+      {
+        "id": "msg_1774726271196",
+        "fromMe": false,
+        "body": "lead",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T19:31:11.196Z"
+      },
+      {
+        "id": "msg_1774726298437",
+        "fromMe": false,
+        "body": "jhg",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T19:31:38.437Z"
+      },
+      {
+        "id": "msg_1774726311890",
+        "fromMe": false,
+        "body": "dfs@SDSD.com",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T19:31:51.890Z"
+      },
+      {
+        "id": "msg_1774726319088",
+        "fromMe": false,
+        "body": "243423323243",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T19:31:59.087Z"
+      },
+      {
+        "id": "msg_1774726336529",
+        "fromMe": false,
+        "body": "4",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T19:32:16.529Z"
+      },
+      {
+        "id": "msg_1774726347050",
+        "fromMe": false,
+        "body": "✅ Yes, Confirm",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T19:32:27.050Z"
+      },
+      {
+        "id": "msg_1774726395580",
+        "fromMe": false,
+        "body": "this one",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T19:33:15.580Z"
+      },
+      {
+        "id": "msg_1774867415284",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T10:43:35.284Z"
+      },
+      {
+        "id": "msg_1774867421432",
+        "fromMe": false,
+        "body": "this one",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T10:43:41.432Z"
+      },
+      {
+        "id": "msg_1774867425823",
+        "fromMe": false,
+        "body": "Demo",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T10:43:45.823Z"
+      },
+      {
+        "id": "msg_1774867426077",
+        "fromMe": false,
+        "body": "Demo",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T10:43:46.077Z"
+      },
+      {
+        "id": "msg_1774867426343",
+        "fromMe": false,
+        "body": "demo",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T10:43:46.343Z"
+      },
+      {
+        "id": "msg_1774867432684",
+        "fromMe": false,
+        "body": "Lead",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T10:43:52.683Z"
+      },
+      {
+        "id": "msg_1774867514208",
+        "fromMe": false,
+        "body": "askjd@aksjd.com",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T10:45:14.208Z"
+      },
+      {
+        "id": "msg_1774867521333",
+        "fromMe": false,
+        "body": "98327423324",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T10:45:21.333Z"
+      },
+      {
+        "id": "msg_1774867559953",
+        "fromMe": false,
+        "body": "1",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T10:45:59.953Z"
+      },
+      {
+        "id": "msg_1774867574271",
+        "fromMe": false,
+        "body": "29 march 2026",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T10:46:14.271Z"
+      },
+      {
+        "id": "msg_1774867588847",
+        "fromMe": false,
+        "body": "✅ Yes, Confirm",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T10:46:28.847Z"
+      },
+      {
+        "id": "msg_1774867719572",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T10:48:39.572Z"
+      },
+      {
+        "id": "msg_1774867733285",
+        "fromMe": false,
+        "body": "Yes",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T10:48:53.284Z"
+      },
+      {
+        "id": "msg_1774867742098",
+        "fromMe": false,
+        "body": "No",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T10:49:02.098Z"
+      },
+      {
+        "id": "msg_1774867797553",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T10:49:57.553Z"
+      },
+      {
+        "id": "msg_1774867831792",
+        "fromMe": false,
+        "body": "Yes",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T10:50:31.792Z"
+      },
+      {
+        "id": "msg_1774867842661",
+        "fromMe": false,
+        "body": "No",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T10:50:42.660Z"
+      },
+      {
+        "id": "msg_1774867849677",
+        "fromMe": false,
+        "body": "No",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T10:50:49.677Z"
+      },
+      {
+        "id": "msg_1774867859268",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T10:50:59.268Z"
+      },
+      {
+        "id": "msg_1774867863297",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T10:51:03.297Z"
+      },
+      {
+        "id": "msg_1774867865796",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T10:51:05.796Z"
+      },
+      {
+        "id": "msg_1774868278153",
+        "fromMe": false,
+        "body": "book now",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T10:57:58.153Z"
+      },
+      {
+        "id": "msg_1774868367570",
+        "fromMe": false,
+        "body": "book now",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T10:59:27.570Z"
+      },
+      {
+        "id": "msg_1774868373401",
+        "fromMe": false,
+        "body": "kasjd",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T10:59:33.401Z"
+      },
+      {
+        "id": "msg_1774868378110",
+        "fromMe": false,
+        "body": "3",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T10:59:38.110Z"
+      },
+      {
+        "id": "msg_1774868385539",
+        "fromMe": false,
+        "body": "alksd@zkslj.com",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T10:59:45.539Z"
+      },
+      {
+        "id": "msg_1774868406283",
+        "fromMe": false,
+        "body": "4",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T11:00:06.283Z"
+      },
+      {
+        "id": "msg_1774868425073",
+        "fromMe": false,
+        "body": "25 June 2026",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T11:00:25.073Z"
+      },
+      {
+        "id": "msg_1774868437926",
+        "fromMe": false,
+        "body": "9 pm",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T11:00:37.926Z"
+      },
+      {
+        "id": "msg_1774868447456",
+        "fromMe": false,
+        "body": "✅ Yes, Confirm",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T11:00:47.456Z"
+      },
+      {
+        "id": "msg_1774880114494",
+        "fromMe": false,
+        "body": "Yesterday 220",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T14:15:14.494Z"
+      },
+      {
+        "id": "msg_1774880186681",
+        "fromMe": false,
+        "body": "31914 - 520 -6k punitha",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T14:16:26.681Z"
+      },
+      {
+        "id": "msg_1774890896160",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T17:14:56.160Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-03-28T10:20:22.747Z"
+  },
+  {
+    "id": "lc_1774696828855",
+    "jid": "120363425506732860@g.us",
+    "phone": "120363425506732860",
+    "deviceId": "90391c56-8609-4561-a093-58b2d07ea780",
+    "sessionId": "90391c56-8609-4561-a093-58b2d07ea780",
+    "name": "120363425506732860",
+    "contactName": "120363425506732860",
+    "status": "active",
+    "unreadCount": 14,
+    "lastMessage": "okok \n8 ko connect karte hai",
+    "lastMessageTime": "2026-03-30T14:13:12.640Z",
+    "lastMessageAt": "2026-03-30T14:13:12.640Z",
+    "messages": [
+      {
+        "id": "msg_1774696828855",
+        "fromMe": false,
+        "body": "@213962503225437  office number pe lead word trigger karo",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T11:20:28.854Z"
+      },
+      {
+        "id": "msg_1774710449544",
+        "fromMe": false,
+        "body": "https://meet.google.com/xzv-rvpx-toj",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:07:29.544Z"
+      },
+      {
+        "id": "msg_1774710449841",
+        "fromMe": false,
+        "body": "@213962503225437 join",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:07:29.841Z"
+      },
+      {
+        "id": "msg_1774720244104",
+        "fromMe": false,
+        "body": "Kuch minutes mai",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T17:50:44.104Z"
+      },
+      {
+        "id": "msg_1774720315848",
+        "fromMe": false,
+        "body": "ok",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T17:51:55.848Z"
+      },
+      {
+        "id": "msg_1774720375181",
+        "fromMe": false,
+        "body": "Acha new exe file install ke baad phele wala backup file import kar sakta hu koi issue",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T17:52:55.181Z"
+      },
+      {
+        "id": "msg_1774720389935",
+        "fromMe": false,
+        "body": "haan karo",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T17:53:09.934Z"
+      },
+      {
+        "id": "msg_1774720394445",
+        "fromMe": false,
+        "body": "Ok",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T17:53:14.445Z"
+      },
+      {
+        "id": "msg_1774722353552",
+        "fromMe": false,
+        "body": "Ha",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T18:25:53.552Z"
+      },
+      {
+        "id": "msg_1774722353896",
+        "fromMe": false,
+        "body": "Metting link send kijeaa",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T18:25:53.896Z"
+      },
+      {
+        "id": "msg_1774722465381",
+        "fromMe": false,
+        "body": "https://meet.google.com/rdg-zrey-kyk",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T18:27:45.381Z"
+      },
+      {
+        "id": "msg_1774879991537",
+        "fromMe": false,
+        "body": "CPM high ja rha hai",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T14:13:11.537Z"
+      },
+      {
+        "id": "msg_1774879992153",
+        "fromMe": false,
+        "body": "aaj koi client payment nhi huva?",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T14:13:12.153Z"
+      },
+      {
+        "id": "msg_1774879992640",
+        "fromMe": false,
+        "body": "okok \n8 ko connect karte hai",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T14:13:12.640Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-03-28T11:20:28.854Z"
+  },
+  {
+    "id": "lc_1774700140672",
+    "jid": "917348878479@s.whatsapp.net",
+    "phone": "917348878479",
+    "deviceId": "90391c56-8609-4561-a093-58b2d07ea780",
+    "sessionId": "90391c56-8609-4561-a093-58b2d07ea780",
+    "name": "917348878479",
+    "contactName": "917348878479",
+    "status": "active",
+    "unreadCount": 17,
+    "lastMessage": "get lost",
+    "lastMessageTime": "2026-03-28T13:44:09.149Z",
+    "lastMessageAt": "2026-03-28T13:44:09.149Z",
+    "messages": [
+      {
+        "id": "msg_1774700140672",
+        "fromMe": false,
+        "body": "Lead",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T12:15:40.672Z"
+      },
+      {
+        "id": "msg_1774700154739",
+        "fromMe": false,
+        "body": "Madhu",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T12:15:54.739Z"
+      },
+      {
+        "id": "msg_1774700179035",
+        "fromMe": false,
+        "body": "madhu.p@juspay.in",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T12:16:19.035Z"
+      },
+      {
+        "id": "msg_1774700327704",
+        "fromMe": false,
+        "body": "Lead",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T12:18:47.704Z"
+      },
+      {
+        "id": "msg_1774700341780",
+        "fromMe": false,
+        "body": "Dhsoshe",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T12:19:01.780Z"
+      },
+      {
+        "id": "msg_1774700352687",
+        "fromMe": false,
+        "body": "Nsbfd",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T12:19:12.686Z"
+      },
+      {
+        "id": "msg_1774700369675",
+        "fromMe": false,
+        "body": "lead",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T12:19:29.675Z"
+      },
+      {
+        "id": "msg_1774700379379",
+        "fromMe": false,
+        "body": "hasgfu@ajsgdi.com",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T12:19:39.379Z"
+      },
+      {
+        "id": "msg_1774700387899",
+        "fromMe": false,
+        "body": "757458685646",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T12:19:47.899Z"
+      },
+      {
+        "id": "msg_1774700398755",
+        "fromMe": false,
+        "body": "3",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T12:19:58.755Z"
+      },
+      {
+        "id": "msg_1774700405488",
+        "fromMe": false,
+        "body": "✅ Yes, Confirm",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T12:20:05.488Z"
+      },
+      {
+        "id": "msg_1774700418555",
+        "fromMe": false,
+        "body": "lead",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T12:20:18.555Z"
+      },
+      {
+        "id": "msg_1774700423755",
+        "fromMe": false,
+        "body": "hfh",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T12:20:23.755Z"
+      },
+      {
+        "id": "msg_1774705428944",
+        "fromMe": false,
+        "body": "lead",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T13:43:48.944Z"
+      },
+      {
+        "id": "msg_1774705437866",
+        "fromMe": false,
+        "body": "madhu",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T13:43:57.865Z"
+      },
+      {
+        "id": "msg_1774705442162",
+        "fromMe": false,
+        "body": "hey",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T13:44:02.162Z"
+      },
+      {
+        "id": "msg_1774705449149",
+        "fromMe": false,
+        "body": "get lost",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T13:44:09.149Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-03-28T12:15:40.672Z"
+  },
+  {
+    "id": "lc_1774707977664",
+    "jid": "120363418734668867@g.us",
+    "phone": "120363418734668867",
+    "deviceId": "90391c56-8609-4561-a093-58b2d07ea780",
+    "sessionId": "90391c56-8609-4561-a093-58b2d07ea780",
+    "name": "120363418734668867",
+    "contactName": "120363418734668867",
+    "status": "active",
+    "unreadCount": 4,
+    "lastMessage": "🛡️ *NordVPN – Basic Plan Available 🌍*\n\n*_Fast • Secure • Private VPN Access*_\n\nGet NordVPN Basic activated directly on your own email and enjoy safe, encrypted browsing across all your devices.\n\n📧 *Activation:* On Your Mail\n🌐 Works Worldwide\n\n💼 *Available Plans & Pricing*\n\n📦 *3 Months → ₹1299/-*\n📦 *6 Months → ₹1999/-*\n📦 *9 Months → ₹2499/-*\n📦 *12 Months → ₹2,999/-*\n\n🌟 *Core Benefits*\n🔒 Secure & High-Speed VPN\n🛡️ Encrypted Browsing for Privacy\n📱 Multi-Device Support\n🌍 Access Global Content Safely\n\n_⏳ Limited-time availability — grab your plan before stock runs out!_\n\n*📩 DM Now: https://wa.me/+917380196038 to Grab This Deal Before Stock Ends! 🚀*",
+    "lastMessageTime": "2026-03-28T14:46:09.270Z",
+    "lastMessageAt": "2026-03-28T14:46:09.270Z",
+    "messages": [
+      {
+        "id": "msg_1774707977664",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T14:26:17.664Z"
+      },
+      {
+        "id": "msg_1774708018047",
+        "fromMe": false,
+        "body": "Amazon Prime Membership\n1 Year ( Indian )\n\n🔰on your existing account.\nNo carding shit etc.. truly safe by offer\n\n📌At just Rs/- 999 \n\nWith full Prime benefits\n\nFREE One-Day Delivery\nPrime Early Access-\nPrime Exclusive Deals\nPrime Video\nPrime Music\nPrime Reading\nand much more...\n\nMessage me\n\nFor more info read here :\nhttps://www.amazon.in/gp/help/customer/display.html?nodeId=201910360",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T14:26:58.047Z"
+      },
+      {
+        "id": "msg_1774708075574",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T14:27:55.574Z"
+      },
+      {
+        "id": "msg_1774709169271",
+        "fromMe": false,
+        "body": "🛡️ *NordVPN – Basic Plan Available 🌍*\n\n*_Fast • Secure • Private VPN Access*_\n\nGet NordVPN Basic activated directly on your own email and enjoy safe, encrypted browsing across all your devices.\n\n📧 *Activation:* On Your Mail\n🌐 Works Worldwide\n\n💼 *Available Plans & Pricing*\n\n📦 *3 Months → ₹1299/-*\n📦 *6 Months → ₹1999/-*\n📦 *9 Months → ₹2499/-*\n📦 *12 Months → ₹2,999/-*\n\n🌟 *Core Benefits*\n🔒 Secure & High-Speed VPN\n🛡️ Encrypted Browsing for Privacy\n📱 Multi-Device Support\n🌍 Access Global Content Safely\n\n_⏳ Limited-time availability — grab your plan before stock runs out!_\n\n*📩 DM Now: https://wa.me/+917380196038 to Grab This Deal Before Stock Ends! 🚀*",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T14:46:09.270Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-03-28T14:26:17.664Z"
+  },
+  {
+    "id": "lc_1774709071349",
+    "jid": "919891929918@s.whatsapp.net",
+    "phone": "919891929918",
+    "deviceId": "90391c56-8609-4561-a093-58b2d07ea780",
+    "sessionId": "90391c56-8609-4561-a093-58b2d07ea780",
+    "name": "919891929918",
+    "contactName": "919891929918",
+    "status": "active",
+    "unreadCount": 1,
+    "lastMessage": "Hii",
+    "lastMessageTime": "2026-03-28T14:44:31.349Z",
+    "lastMessageAt": "2026-03-28T14:44:31.349Z",
+    "messages": [
+      {
+        "id": "msg_1774709071349",
+        "fromMe": false,
+        "body": "Hii",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T14:44:31.349Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-03-28T14:44:31.349Z"
+  },
+  {
+    "id": "lc_1774710639400",
+    "jid": "919217758442@s.whatsapp.net",
+    "phone": "919217758442",
+    "deviceId": "90391c56-8609-4561-a093-58b2d07ea780",
+    "sessionId": "90391c56-8609-4561-a093-58b2d07ea780",
+    "name": "919217758442",
+    "contactName": "919217758442",
+    "status": "active",
+    "unreadCount": 17,
+    "lastMessage": "✅ Yes, Confirm",
+    "lastMessageTime": "2026-03-28T15:19:07.214Z",
+    "lastMessageAt": "2026-03-28T15:19:07.214Z",
+    "messages": [
+      {
+        "id": "msg_1774710639400",
+        "fromMe": false,
+        "body": "book now",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:10:39.400Z"
+      },
+      {
+        "id": "msg_1774710656809",
+        "fromMe": false,
+        "body": "Harsh",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:10:56.809Z"
+      },
+      {
+        "id": "msg_1774710664788",
+        "fromMe": false,
+        "body": "3",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:11:04.788Z"
+      },
+      {
+        "id": "msg_1774710688930",
+        "fromMe": false,
+        "body": "harsh7091982594@gmail.com",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:11:28.930Z"
+      },
+      {
+        "id": "msg_1774710715803",
+        "fromMe": false,
+        "body": "1",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:11:55.803Z"
+      },
+      {
+        "id": "msg_1774710748248",
+        "fromMe": false,
+        "body": "26 march",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:12:28.248Z"
+      },
+      {
+        "id": "msg_1774710774511",
+        "fromMe": false,
+        "body": "8.00 AM",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:12:54.511Z"
+      },
+      {
+        "id": "msg_1774710801684",
+        "fromMe": false,
+        "body": "08:00 AM",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:13:21.684Z"
+      },
+      {
+        "id": "msg_1774710817903",
+        "fromMe": false,
+        "body": "✅ Yes, Confirm",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:13:37.903Z"
+      },
+      {
+        "id": "msg_1774710989009",
+        "fromMe": false,
+        "body": "book now",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:16:29.009Z"
+      },
+      {
+        "id": "msg_1774711015932",
+        "fromMe": false,
+        "body": "Harsh",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:16:55.932Z"
+      },
+      {
+        "id": "msg_1774711029009",
+        "fromMe": false,
+        "body": "7091982594",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:17:09.009Z"
+      },
+      {
+        "id": "msg_1774711077063",
+        "fromMe": false,
+        "body": "harshraj7091982594@gmail.com",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:17:57.063Z"
+      },
+      {
+        "id": "msg_1774711090067",
+        "fromMe": false,
+        "body": "1",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:18:10.067Z"
+      },
+      {
+        "id": "msg_1774711112772",
+        "fromMe": false,
+        "body": "25 March 2026",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:18:32.772Z"
+      },
+      {
+        "id": "msg_1774711136064",
+        "fromMe": false,
+        "body": "9:00 PM",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:18:56.064Z"
+      },
+      {
+        "id": "msg_1774711147214",
+        "fromMe": false,
+        "body": "✅ Yes, Confirm",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T15:19:07.214Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-03-28T15:10:39.400Z"
+  },
+  {
+    "id": "lc_1774725113660",
+    "jid": "917091982594@s.whatsapp.net",
+    "phone": "917091982594",
+    "deviceId": "90391c56-8609-4561-a093-58b2d07ea780",
+    "sessionId": "90391c56-8609-4561-a093-58b2d07ea780",
+    "name": "917091982594",
+    "contactName": "917091982594",
+    "status": "active",
+    "unreadCount": 3,
+    "lastMessage": "@abhi hum chatgpt ba baat kar rahe the auto pay cut v kar liya es month ka😄",
+    "lastMessageTime": "2026-03-28T19:12:43.320Z",
+    "lastMessageAt": "2026-03-28T19:12:43.320Z",
+    "messages": [
+      {
+        "id": "msg_1774725113660",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T19:11:53.660Z"
+      },
+      {
+        "id": "msg_1774725142641",
+        "fromMe": false,
+        "body": "@abhi hum chatgpt ba baat kar rahe the auto pay cut v kar liya es month ka😄",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T19:12:22.641Z"
+      },
+      {
+        "id": "msg_1774725163320",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-28T19:12:43.320Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-03-28T19:11:53.660Z"
+  },
+  {
+    "id": "lc_1774809359543",
+    "jid": "919972200910@s.whatsapp.net",
+    "phone": "919972200910",
+    "deviceId": "88d241e6-d76a-4c59-8aca-a94a8234374e",
+    "sessionId": "88d241e6-d76a-4c59-8aca-a94a8234374e",
+    "name": "919972200910",
+    "contactName": "919972200910",
+    "status": "active",
+    "unreadCount": 52,
+    "lastMessage": "Yes",
+    "lastMessageTime": "2026-03-29T19:14:48.911Z",
+    "lastMessageAt": "2026-03-29T19:14:48.911Z",
+    "messages": [
+      {
+        "id": "msg_1774809359543",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:35:59.543Z"
+      },
+      {
+        "id": "msg_1774809376416",
+        "fromMe": false,
+        "body": "Yes",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:36:16.416Z"
+      },
+      {
+        "id": "msg_1774809381812",
+        "fromMe": false,
+        "body": "No",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:36:21.812Z"
+      },
+      {
+        "id": "msg_1774809470394",
+        "fromMe": false,
+        "body": "Book now",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:37:50.394Z"
+      },
+      {
+        "id": "msg_1774809490270",
+        "fromMe": false,
+        "body": "book now",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:38:10.269Z"
+      },
+      {
+        "id": "msg_1774809563902",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:39:23.902Z"
+      },
+      {
+        "id": "msg_1774809577503",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:39:37.502Z"
+      },
+      {
+        "id": "msg_1774809589147",
+        "fromMe": false,
+        "body": "Yes",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:39:49.147Z"
+      },
+      {
+        "id": "msg_1774809589690",
+        "fromMe": false,
+        "body": "Yes",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:39:49.690Z"
+      },
+      {
+        "id": "msg_1774809601517",
+        "fromMe": false,
+        "body": "No",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:40:01.517Z"
+      },
+      {
+        "id": "msg_1774809606994",
+        "fromMe": false,
+        "body": "Got it",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:40:06.994Z"
+      },
+      {
+        "id": "msg_1774809607531",
+        "fromMe": false,
+        "body": "Yeah",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:40:07.531Z"
+      },
+      {
+        "id": "msg_1774809628516",
+        "fromMe": false,
+        "body": "Discount",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:40:28.516Z"
+      },
+      {
+        "id": "msg_1774809631365",
+        "fromMe": false,
+        "body": "No",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:40:31.365Z"
+      },
+      {
+        "id": "msg_1774809633751",
+        "fromMe": false,
+        "body": "No",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:40:33.751Z"
+      },
+      {
+        "id": "msg_1774809634349",
+        "fromMe": false,
+        "body": "Nope",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:40:34.349Z"
+      },
+      {
+        "id": "msg_1774809667654",
+        "fromMe": false,
+        "body": "Discount",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:41:07.654Z"
+      },
+      {
+        "id": "msg_1774809668174",
+        "fromMe": false,
+        "body": "Nope",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:41:08.174Z"
+      },
+      {
+        "id": "msg_1774809722333",
+        "fromMe": false,
+        "body": "Book now",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:42:02.333Z"
+      },
+      {
+        "id": "msg_1774809733599",
+        "fromMe": false,
+        "body": "Bsjdhd",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:42:13.598Z"
+      },
+      {
+        "id": "msg_1774809744864",
+        "fromMe": false,
+        "body": "7",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:42:24.863Z"
+      },
+      {
+        "id": "msg_1774809759534",
+        "fromMe": false,
+        "body": "Hsux@₹&.ndjd",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:42:39.534Z"
+      },
+      {
+        "id": "msg_1774809890255",
+        "fromMe": false,
+        "body": "Cancel",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:44:50.255Z"
+      },
+      {
+        "id": "msg_1774809900595",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:45:00.595Z"
+      },
+      {
+        "id": "msg_1774809912997",
+        "fromMe": false,
+        "body": "Yes",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:45:12.997Z"
+      },
+      {
+        "id": "msg_1774809927319",
+        "fromMe": false,
+        "body": "No",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:45:27.319Z"
+      },
+      {
+        "id": "msg_1774809941862",
+        "fromMe": false,
+        "body": "No",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:45:41.862Z"
+      },
+      {
+        "id": "msg_1774809955892",
+        "fromMe": false,
+        "body": "No",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:45:55.892Z"
+      },
+      {
+        "id": "msg_1774809969402",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:46:09.402Z"
+      },
+      {
+        "id": "msg_1774809984867",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:46:24.867Z"
+      },
+      {
+        "id": "msg_1774809997994",
+        "fromMe": false,
+        "body": "Yes",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:46:37.994Z"
+      },
+      {
+        "id": "msg_1774810018763",
+        "fromMe": false,
+        "body": "Yeah",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:46:58.763Z"
+      },
+      {
+        "id": "msg_1774810024168",
+        "fromMe": false,
+        "body": "No",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:47:04.168Z"
+      },
+      {
+        "id": "msg_1774810029614",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:47:09.614Z"
+      },
+      {
+        "id": "msg_1774810030211",
+        "fromMe": false,
+        "body": "Got it",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:47:10.211Z"
+      },
+      {
+        "id": "msg_1774810071918",
+        "fromMe": false,
+        "body": "Discount",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:47:51.918Z"
+      },
+      {
+        "id": "msg_1774810072537",
+        "fromMe": false,
+        "body": "Nope",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:47:52.537Z"
+      },
+      {
+        "id": "msg_1774810072882",
+        "fromMe": false,
+        "body": "Yes",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:47:52.882Z"
+      },
+      {
+        "id": "msg_1774810073452",
+        "fromMe": false,
+        "body": "No",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:47:53.452Z"
+      },
+      {
+        "id": "msg_1774810104896",
+        "fromMe": false,
+        "body": "No",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:48:24.896Z"
+      },
+      {
+        "id": "msg_1774810123333",
+        "fromMe": false,
+        "body": "Discount",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:48:43.333Z"
+      },
+      {
+        "id": "msg_1774810143098",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:49:03.098Z"
+      },
+      {
+        "id": "msg_1774810179531",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:49:39.531Z"
+      },
+      {
+        "id": "msg_1774810234004",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:50:34.004Z"
+      },
+      {
+        "id": "msg_1774810246707",
+        "fromMe": false,
+        "body": "Yes",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:50:46.707Z"
+      },
+      {
+        "id": "msg_1774810256454",
+        "fromMe": false,
+        "body": "No",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:50:56.454Z"
+      },
+      {
+        "id": "msg_1774810278248",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:51:18.248Z"
+      },
+      {
+        "id": "msg_1774811180641",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T19:06:20.641Z"
+      },
+      {
+        "id": "msg_1774811215205",
+        "fromMe": false,
+        "body": "No",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T19:06:55.205Z"
+      },
+      {
+        "id": "msg_1774811464477",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T19:11:04.477Z"
+      },
+      {
+        "id": "msg_1774811676760",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T19:14:36.760Z"
+      },
+      {
+        "id": "msg_1774811688911",
+        "fromMe": false,
+        "body": "Yes",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T19:14:48.911Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-03-29T18:35:59.543Z"
+  },
+  {
+    "id": "lc_1774809380415",
+    "jid": "919739090318@s.whatsapp.net",
+    "phone": "919739090318",
+    "deviceId": "88d241e6-d76a-4c59-8aca-a94a8234374e",
+    "sessionId": "88d241e6-d76a-4c59-8aca-a94a8234374e",
+    "name": "919739090318",
+    "contactName": "919739090318",
+    "status": "active",
+    "unreadCount": 7,
+    "lastMessage": "Ok come",
+    "lastMessageTime": "2026-03-29T19:12:29.914Z",
+    "lastMessageAt": "2026-03-29T19:12:29.914Z",
+    "messages": [
+      {
+        "id": "msg_1774809380414",
+        "fromMe": false,
+        "body": "Bolo",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:36:20.414Z"
+      },
+      {
+        "id": "msg_1774809439402",
+        "fromMe": false,
+        "body": "Nai ba",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:37:19.402Z"
+      },
+      {
+        "id": "msg_1774809463895",
+        "fromMe": false,
+        "body": "Tumna malaum fir b puchrein",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:37:43.895Z"
+      },
+      {
+        "id": "msg_1774810709113",
+        "fromMe": false,
+        "body": "Roshan arbila ku tooth ache start hogay rorein uno",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:58:29.113Z"
+      },
+      {
+        "id": "msg_1774811271690",
+        "fromMe": false,
+        "body": "Kya ye barish horiyena",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T19:07:51.690Z"
+      },
+      {
+        "id": "msg_1774811396120",
+        "fromMe": false,
+        "body": "Aao mai aagi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T19:09:56.120Z"
+      },
+      {
+        "id": "msg_1774811549915",
+        "fromMe": false,
+        "body": "Ok come",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T19:12:29.914Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-03-29T18:36:20.414Z"
+  },
+  {
+    "id": "lc_1774809718036",
+    "jid": "status@broadcast",
+    "phone": "status",
+    "deviceId": "88d241e6-d76a-4c59-8aca-a94a8234374e",
+    "sessionId": "88d241e6-d76a-4c59-8aca-a94a8234374e",
+    "name": "status",
+    "contactName": "status",
+    "status": "active",
+    "unreadCount": 9,
+    "lastMessage": "🌊",
+    "lastMessageTime": "2026-03-29T18:56:45.696Z",
+    "lastMessageAt": "2026-03-29T18:56:45.696Z",
+    "messages": [
+      {
+        "id": "msg_1774809718036",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:41:58.036Z"
+      },
+      {
+        "id": "msg_1774809777290",
+        "fromMe": false,
+        "body": "Happy Birthday Arav🎂🎊🥳🥳",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:42:57.290Z"
+      },
+      {
+        "id": "msg_1774809850911",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:44:10.911Z"
+      },
+      {
+        "id": "msg_1774810298251",
+        "fromMe": false,
+        "body": "🌊",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:51:38.251Z"
+      },
+      {
+        "id": "msg_1774810312273",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:51:52.273Z"
+      },
+      {
+        "id": "msg_1774810340250",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:52:20.250Z"
+      },
+      {
+        "id": "msg_1774810366542",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:52:46.542Z"
+      },
+      {
+        "id": "msg_1774810474409",
+        "fromMe": false,
+        "body": "🌊",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:54:34.409Z"
+      },
+      {
+        "id": "msg_1774810605696",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:56:45.696Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-03-29T18:41:58.036Z"
+  },
+  {
+    "id": "lc_1774810613175",
+    "jid": "919742434170@s.whatsapp.net",
+    "phone": "919742434170",
+    "deviceId": "88d241e6-d76a-4c59-8aca-a94a8234374e",
+    "sessionId": "88d241e6-d76a-4c59-8aca-a94a8234374e",
+    "name": "919742434170",
+    "contactName": "919742434170",
+    "status": "active",
+    "unreadCount": 1,
+    "lastMessage": "",
+    "lastMessageTime": "2026-03-29T18:56:53.175Z",
+    "lastMessageAt": "2026-03-29T18:56:53.175Z",
+    "messages": [
+      {
+        "id": "msg_1774810613175",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-29T18:56:53.175Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-03-29T18:56:53.175Z"
+  },
+  {
+    "id": "lc_1774880364854",
+    "jid": "917259798605@s.whatsapp.net",
+    "phone": "917259798605",
+    "deviceId": "90391c56-8609-4561-a093-58b2d07ea780",
+    "sessionId": "90391c56-8609-4561-a093-58b2d07ea780",
+    "name": "917259798605",
+    "contactName": "917259798605",
+    "status": "active",
+    "unreadCount": 5,
+    "lastMessage": "That sounds great, Roshan. Having portal access and full attribution on the sales will make the monthly reconciliation very straightforward.\n\nGreat then \nShare me the updated partnership agreement with the content clause \nSo that I can get it signed \nAnd send it",
+    "lastMessageTime": "2026-03-30T18:55:20.044Z",
+    "lastMessageAt": "2026-03-30T18:55:20.044Z",
+    "messages": [
+      {
+        "id": "msg_1774880364854",
+        "fromMe": false,
+        "body": "Sure",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T14:19:24.854Z"
+      },
+      {
+        "id": "msg_1774896292378",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T18:44:52.378Z"
+      },
+      {
+        "id": "msg_1774896456079",
+        "fromMe": false,
+        "body": "Okay sure let's do this, please share the updated PDF. I'll get it signed by morning and send it over",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T18:47:36.079Z"
+      },
+      {
+        "id": "msg_1774896919750",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T18:55:19.750Z"
+      },
+      {
+        "id": "msg_1774896920044",
+        "fromMe": false,
+        "body": "That sounds great, Roshan. Having portal access and full attribution on the sales will make the monthly reconciliation very straightforward.\n\nGreat then \nShare me the updated partnership agreement with the content clause \nSo that I can get it signed \nAnd send it",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T18:55:20.044Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-03-30T14:19:24.854Z"
+  },
+  {
+    "id": "lc_1774891050049",
+    "jid": "120363405186638225@g.us",
+    "phone": "120363405186638225",
+    "deviceId": "90391c56-8609-4561-a093-58b2d07ea780",
+    "sessionId": "90391c56-8609-4561-a093-58b2d07ea780",
+    "name": "120363405186638225",
+    "contactName": "120363405186638225",
+    "status": "active",
+    "unreadCount": 3,
+    "lastMessage": "*`ONLY 1 STOCK`*\n\n*DO NOT REPLY OR REACT HERE , DM ME DIRECTLY*\nwa.me/+918670769333\n\n*⚡ Hostinger – Cloud Startup Plan (1 Year Access)*\n\n🔐 Activated on `Your Own Account`\n🌐 High-Performance Cloud Hosting for Websites & Apps\n\n*✨ What You Get:*\n✔️ 1-Year Cloud Startup Plan  \n✔️ High-Speed SSD Cloud Servers  \n✔️ Unlimited Bandwidth  \n✔️ Free SSL Certificate  \n✔️ Free Email Hosting  \n✔️ Managed Panel + 1-Click Installs  \n✔️ Daily Backups & Advanced Security  \n✔️ 24/7 Priority Support  \n✔️ 12-Month Warranty Included\n\n💰 Official Price: ₹15000+\n🔥 *Our Offer:* DM\n\n*🧠 Perfect For:*  \nStartups | Agencies | Developers | Bloggers | E-commerce Stores\n\n*🚀 Instant Delivery*  \n🔐 Private Access (Own Account)  \n⏳ Limited Stock — DM Fast!\nWa.me/+918670769333",
+    "lastMessageTime": "2026-03-30T18:01:04.760Z",
+    "lastMessageAt": "2026-03-30T18:01:04.760Z",
+    "messages": [
+      {
+        "id": "msg_1774891050049",
+        "fromMe": false,
+        "body": "1x hostinger cloud start up plan 1 year available \n\n🌻Dm wa.me/+918670769333",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T17:17:30.049Z"
+      },
+      {
+        "id": "msg_1774891747161",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T17:29:07.160Z"
+      },
+      {
+        "id": "msg_1774893664760",
+        "fromMe": false,
+        "body": "*`ONLY 1 STOCK`*\n\n*DO NOT REPLY OR REACT HERE , DM ME DIRECTLY*\nwa.me/+918670769333\n\n*⚡ Hostinger – Cloud Startup Plan (1 Year Access)*\n\n🔐 Activated on `Your Own Account`\n🌐 High-Performance Cloud Hosting for Websites & Apps\n\n*✨ What You Get:*\n✔️ 1-Year Cloud Startup Plan  \n✔️ High-Speed SSD Cloud Servers  \n✔️ Unlimited Bandwidth  \n✔️ Free SSL Certificate  \n✔️ Free Email Hosting  \n✔️ Managed Panel + 1-Click Installs  \n✔️ Daily Backups & Advanced Security  \n✔️ 24/7 Priority Support  \n✔️ 12-Month Warranty Included\n\n💰 Official Price: ₹15000+\n🔥 *Our Offer:* DM\n\n*🧠 Perfect For:*  \nStartups | Agencies | Developers | Bloggers | E-commerce Stores\n\n*🚀 Instant Delivery*  \n🔐 Private Access (Own Account)  \n⏳ Limited Stock — DM Fast!\nWa.me/+918670769333",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T18:01:04.760Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-03-30T17:17:30.049Z"
+  },
+  {
+    "id": "lc_1774891137393",
+    "jid": "918670769333@s.whatsapp.net",
+    "phone": "918670769333",
+    "deviceId": "90391c56-8609-4561-a093-58b2d07ea780",
+    "sessionId": "90391c56-8609-4561-a093-58b2d07ea780",
+    "name": "918670769333",
+    "contactName": "918670769333",
+    "status": "active",
+    "unreadCount": 7,
+    "lastMessage": "Only cloud start up Available",
+    "lastMessageTime": "2026-03-30T17:59:34.622Z",
+    "lastMessageAt": "2026-03-30T17:59:34.622Z",
+    "messages": [
+      {
+        "id": "msg_1774891137393",
+        "fromMe": false,
+        "body": "VIP group 👇🏻\n\r\nhttps://chat.whatsapp.com/F39t5OrNtfC4tULtsf5WVH?mode=ems_copy_t\n\nOur proof and activation channel👇🏻\nhttps://whatsapp.com/channel/0029Vb76wyX72WTzMSSFAo1G\n\r\nThanks & Regards\r\nProduct Magnet",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T17:18:57.393Z"
+      },
+      {
+        "id": "msg_1774891149244",
+        "fromMe": false,
+        "body": "3500/- 1 year",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T17:19:09.244Z"
+      },
+      {
+        "id": "msg_1774891175841",
+        "fromMe": false,
+        "body": "Cloud start up",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T17:19:35.841Z"
+      },
+      {
+        "id": "msg_1774891233790",
+        "fromMe": false,
+        "body": "Kounsa link",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T17:20:33.790Z"
+      },
+      {
+        "id": "msg_1774891361491",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T17:22:41.491Z"
+      },
+      {
+        "id": "msg_1774891486690",
+        "fromMe": false,
+        "body": "https://www.hostinger.com/in/pricing",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T17:24:46.690Z"
+      },
+      {
+        "id": "msg_1774893574622",
+        "fromMe": false,
+        "body": "Only cloud start up Available",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-03-30T17:59:34.622Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-03-30T17:18:57.393Z"
+  }
+]

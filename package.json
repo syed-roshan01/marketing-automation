@@ -1,0 +1,103 @@
+{
+  "name": "zyqora",
+  "version": "1.0.2",
+  "description": "Zyqora — WhatsApp Desktop Automation Platform",
+  "main": "electron/main.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev:server": "node server/index.js",
+    "dev:react": "vite",
+    "dev": "concurrently \"npm run dev:server\" \"npm run dev:react\"",
+    "build:react": "vite build",
+    "electron": "electron .",
+    "build:exe": "npm run build:react && electron-builder --win",
+    "build:exe:dir": "npm run build:react && electron-builder --win --dir"
+  },
+  "build": {
+    "appId": "com.zyqora.app",
+    "productName": "Zyqora",
+    "copyright": "Copyright © 2026 Zyqora Technologies",
+    "icon": "renderer/public/zyqora-icon-256.png",
+    "compression": "normal",
+    "afterSign": "scripts/pack-asar.js",
+    "asar": true,
+    "asarUnpack": [
+      "node_modules/sharp/**",
+      "node_modules/@img/**",
+      "node_modules/@fadzzzslebew/baileys/**",
+      "node_modules/@ngrok/**",
+      "node_modules/cloudflared/**"
+    ],
+    "directories": {
+      "output": "dist/electron"
+    },
+    "files": [
+      "**/*",
+      "!renderer/**/*",
+      "!data/**/*",
+      "!dist/**/*",
+      "!*.md",
+      "!Dockerfile",
+      "!railway.toml",
+      "!.dockerignore",
+      "!.gitignore",
+      "!.git/**/*",
+      "!server/middleware/_*.js",
+      "!server/routes/_license.js",
+      "!server/services/_campaignService.js",
+      "!src/licenseEngine.js"
+    ],
+    "win": {
+      "target": "nsis",
+      "icon": "renderer/public/zyqora-icon-256.png",
+      "legalTrademarks": "Zyqora Technologies",
+      "signtoolOptions": {
+        "publisherName": "Zyqora Technologies"
+      }
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": false,
+      "perMachine": false,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "shortcutName": "Zyqora",
+      "deleteAppDataOnUninstall": false,
+      "runAfterFinish": true
+    }
+  },
+  "keywords": [
+    "whatsapp",
+    "automation",
+    "zyqora"
+  ],
+  "author": "Zyqora Technologies",
+  "license": "ISC",
+  "dependencies": {
+    "@fadzzzslebew/baileys": "^0.1.1",
+    "@hapi/boom": "^10.0.1",
+    "@ngrok/ngrok": "^1.2.0",
+    "bytenode": "^1.5.7",
+    "cloudflared": "^0.7.1",
+    "express": "^5.2.1",
+    "express-session": "^1.19.0",
+    "multer": "^2.1.0",
+    "pino": "^9.0.0",
+    "qrcode": "^1.5.4",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "react-router-dom": "^7.13.1",
+    "sharp": "^0.32.6",
+    "socket.io": "^4.8.3",
+    "socket.io-client": "^4.8.3",
+    "uuid": "^13.0.0",
+    "@vitejs/plugin-react": "^5.1.4",
+    "vite": "^7.3.1"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1",
+    "electron": "^40.7.0",
+    "electron-builder": "^26.8.1"
+  }
+}

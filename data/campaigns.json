@@ -1,0 +1,233 @@
+[
+  {
+    "id": "5817fb5e-013a-45ac-ac2c-9e371c604170",
+    "name": "Single: 15/03/2026, 20:37",
+    "templateId": null,
+    "templateIds": [],
+    "status": "completed",
+    "createdAt": "2026-03-15T15:07:47.931Z",
+    "startedAt": "2026-03-15T15:07:47.931Z",
+    "completedAt": "2026-03-15T15:07:48.961Z",
+    "safetyNote": "Sent: 1, Failed: 0",
+    "messages": [
+      {
+        "contactId": null,
+        "contactName": "",
+        "number": "919945390672",
+        "status": "sent",
+        "sentAt": "2026-03-15T15:07:48.948Z",
+        "error": null
+      }
+    ]
+  },
+  {
+    "id": "8b3f67a9-ed88-4b7e-aba3-ab7a0cd48881",
+    "name": "Single: 26/03/2026, 01:29",
+    "templateId": null,
+    "templateIds": [],
+    "status": "completed",
+    "createdAt": "2026-03-25T19:59:33.384Z",
+    "startedAt": "2026-03-25T19:59:33.384Z",
+    "completedAt": "2026-03-25T19:59:35.149Z",
+    "safetyNote": "Sent: 1, Failed: 0",
+    "messages": [
+      {
+        "contactId": null,
+        "contactName": "",
+        "number": "9945390672",
+        "status": "sent",
+        "sentAt": "2026-03-25T19:59:35.147Z",
+        "error": null
+      }
+    ]
+  },
+  {
+    "id": "04440f7b-47f3-47ef-a114-7467fd31b30f",
+    "name": "Single: 28/03/2026, 16:12",
+    "templateId": "9df10d1a-c794-40eb-bc1d-0d0a5b4dbc5b",
+    "templateIds": [
+      "9df10d1a-c794-40eb-bc1d-0d0a5b4dbc5b"
+    ],
+    "status": "completed",
+    "createdAt": "2026-03-28T10:42:11.889Z",
+    "startedAt": "2026-03-28T10:42:11.889Z",
+    "completedAt": "2026-03-28T10:42:13.028Z",
+    "safetyNote": "Sent: 1, Failed: 0",
+    "messages": [
+      {
+        "contactId": null,
+        "contactName": "",
+        "number": "9945390672",
+        "status": "sent",
+        "sentAt": "2026-03-28T10:42:13.019Z",
+        "error": null
+      }
+    ]
+  },
+  {
+    "id": "eade0475-6166-49ef-adc6-b904c1ad5bc7",
+    "name": "Single: 29/03/2026, 01:03",
+    "templateId": "9df10d1a-c794-40eb-bc1d-0d0a5b4dbc5b",
+    "templateIds": [
+      "9df10d1a-c794-40eb-bc1d-0d0a5b4dbc5b"
+    ],
+    "status": "completed",
+    "createdAt": "2026-03-28T19:33:03.575Z",
+    "startedAt": "2026-03-28T19:33:03.575Z",
+    "completedAt": "2026-03-28T19:33:03.728Z",
+    "safetyNote": "Sent: 1, Failed: 0",
+    "messages": [
+      {
+        "contactId": null,
+        "contactName": "",
+        "number": "9945390672",
+        "status": "sent",
+        "sentAt": "2026-03-28T19:33:03.718Z",
+        "error": null
+      }
+    ]
+  },
+  {
+    "id": "435bdfce-8585-464c-8681-84602c7cd933",
+    "name": "Single: 29/03/2026, 23:58",
+    "templateId": "9df10d1a-c794-40eb-bc1d-0d0a5b4dbc5b",
+    "templateIds": [
+      "9df10d1a-c794-40eb-bc1d-0d0a5b4dbc5b"
+    ],
+    "status": "completed",
+    "createdAt": "2026-03-29T18:28:16.892Z",
+    "startedAt": "2026-03-29T18:28:16.892Z",
+    "completedAt": "2026-03-29T18:28:18.032Z",
+    "safetyNote": "Sent: 1, Failed: 0",
+    "messages": [
+      {
+        "contactId": null,
+        "contactName": "",
+        "number": "9945390672",
+        "status": "sent",
+        "sentAt": "2026-03-29T18:28:18.028Z",
+        "error": null
+      }
+    ]
+  },
+  {
+    "id": "445fb543-c241-4b20-8321-bc1036ddeffb",
+    "name": "test schedule",
+    "msgType": "text",
+    "templateId": null,
+    "templateIds": [],
+    "textMessage": "Hey roshan\nhow are you?",
+    "deviceIds": [
+      "92727890-a0d2-43a1-b585-20027141515d"
+    ],
+    "sendMode": "safe",
+    "instantSend": false,
+    "variables": [],
+    "status": "completed",
+    "scheduledAt": null,
+    "createdAt": "2026-04-13T19:53:36.202Z",
+    "startedAt": "2026-04-13T19:55:15.886Z",
+    "completedAt": "2026-04-13T19:55:43.853Z",
+    "safetyNote": null,
+    "messages": [
+      {
+        "contactId": null,
+        "contactName": "919945390672",
+        "number": "919945390672",
+        "status": "sent",
+        "sentAt": "2026-04-13T19:55:21.843Z",
+        "error": null
+      }
+    ]
+  },
+  {
+    "id": "6b7f668a-ee0f-49ce-a7be-7ee1b04491fe",
+    "name": "Single: 23/04/2026, 15:39",
+    "templateId": "9df10d1a-c794-40eb-bc1d-0d0a5b4dbc5b",
+    "templateIds": [
+      "9df10d1a-c794-40eb-bc1d-0d0a5b4dbc5b"
+    ],
+    "status": "completed",
+    "createdAt": "2026-04-23T10:09:12.213Z",
+    "startedAt": "2026-04-23T10:09:12.213Z",
+    "completedAt": "2026-04-23T10:09:14.065Z",
+    "safetyNote": "Sent: 1, Failed: 0",
+    "messages": [
+      {
+        "contactId": null,
+        "contactName": "",
+        "number": "9945390672",
+        "status": "sent",
+        "sentAt": "2026-04-23T10:09:14.060Z",
+        "error": null
+      }
+    ]
+  },
+  {
+    "id": "a66c4a7a-870a-4d10-9acb-ae660d4a06fb",
+    "name": "Single: 23/04/2026, 15:39",
+    "templateId": "9df10d1a-c794-40eb-bc1d-0d0a5b4dbc5b",
+    "templateIds": [
+      "9df10d1a-c794-40eb-bc1d-0d0a5b4dbc5b"
+    ],
+    "status": "completed",
+    "createdAt": "2026-04-23T10:09:40.700Z",
+    "startedAt": "2026-04-23T10:09:40.700Z",
+    "completedAt": "2026-04-23T10:09:41.100Z",
+    "safetyNote": "Sent: 1, Failed: 0",
+    "messages": [
+      {
+        "contactId": null,
+        "contactName": "",
+        "number": "9945390672",
+        "status": "sent",
+        "sentAt": "2026-04-23T10:09:41.091Z",
+        "error": null
+      }
+    ]
+  },
+  {
+    "id": "99be3a9e-1a87-4c41-b3f2-38e896f534ea",
+    "name": "Single: 23/04/2026, 15:39",
+    "templateId": null,
+    "templateIds": [],
+    "status": "completed",
+    "createdAt": "2026-04-23T10:09:59.334Z",
+    "startedAt": "2026-04-23T10:09:59.334Z",
+    "completedAt": "2026-04-23T10:09:59.816Z",
+    "safetyNote": "Sent: 1, Failed: 0",
+    "messages": [
+      {
+        "contactId": null,
+        "contactName": "",
+        "number": "9945390672",
+        "status": "sent",
+        "sentAt": "2026-04-23T10:09:59.796Z",
+        "error": null
+      }
+    ]
+  },
+  {
+    "id": "e7505750-b812-4709-8dc8-ca95b020143e",
+    "name": "Single: 23/04/2026, 15:40",
+    "templateId": "2c206fd0-ea6b-45c0-bfcb-83f0089becf5",
+    "templateIds": [
+      "2c206fd0-ea6b-45c0-bfcb-83f0089becf5"
+    ],
+    "status": "completed",
+    "createdAt": "2026-04-23T10:10:10.263Z",
+    "startedAt": "2026-04-23T10:10:10.263Z",
+    "completedAt": "2026-04-23T10:10:10.792Z",
+    "safetyNote": "Sent: 1, Failed: 0",
+    "messages": [
+      {
+        "contactId": null,
+        "contactName": "",
+        "number": "9945390672",
+        "status": "sent",
+        "sentAt": "2026-04-23T10:10:10.783Z",
+        "error": null
+      }
+    ]
+  }
+]

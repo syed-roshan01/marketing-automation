@@ -1,0 +1,227 @@
+[
+  {
+    "id": "93eb9491-d121-43f7-a093-b83612a0e474",
+    "name": "dscs",
+    "content": "aksjnxdwkaskdx aks\naskdnjwkd",
+    "templateType": "buttons",
+    "mediaType": null,
+    "buttonType": "quick-reply",
+    "buttons": [
+      {
+        "type": "quick_reply",
+        "label": "Yes",
+        "url": "",
+        "phone": "",
+        "copyCode": ""
+      },
+      {
+        "type": "quick_reply",
+        "label": "NO",
+        "url": "",
+        "phone": "",
+        "copyCode": ""
+      }
+    ],
+    "listButtonText": "View Options",
+    "listSections": [],
+    "cards": [],
+    "carouselTitle": "",
+    "carouselSubtitle": "",
+    "carouselFooter": "",
+    "pollQuestion": "",
+    "pollOptions": [],
+    "variables": [],
+    "contactName": "",
+    "contactPhone": "",
+    "locationName": "",
+    "locationAddress": "",
+    "locationLat": "",
+    "locationLng": "",
+    "mediaFile": null,
+    "createdAt": "2026-03-11T23:38:41.021Z"
+  },
+  {
+    "id": "2c57c0f4-ae14-41ed-a305-c3414fb5796d",
+    "name": "t1",
+    "content": "Hi,\n*thank you* for choosing us.\nare you interested in our product?",
+    "templateType": "buttons",
+    "mediaType": null,
+    "buttonType": "quick-reply",
+    "buttons": [
+      {
+        "type": "quick_reply",
+        "label": "Yes",
+        "url": "",
+        "phone": "",
+        "copyCode": ""
+      },
+      {
+        "type": "quick_reply",
+        "label": "No",
+        "url": "",
+        "phone": "",
+        "copyCode": ""
+      }
+    ],
+    "listButtonText": "View Options",
+    "listSections": [],
+    "cards": [],
+    "carouselTitle": "",
+    "carouselSubtitle": "",
+    "carouselFooter": "",
+    "pollQuestion": "",
+    "pollOptions": [],
+    "variables": [],
+    "contactName": "",
+    "contactPhone": "",
+    "locationName": "",
+    "locationAddress": "",
+    "locationLat": "",
+    "locationLng": "",
+    "mediaFile": null,
+    "createdAt": "2026-03-25T14:41:28.807Z"
+  },
+  {
+    "id": "abad8773-823a-4d35-bd00-b9e062855074",
+    "name": "t2",
+    "content": "Ok let's more forward",
+    "templateType": "buttons",
+    "mediaType": null,
+    "buttonType": "quick-reply",
+    "buttons": [
+      {
+        "type": "quick_reply",
+        "label": "Yeah",
+        "url": "",
+        "phone": "",
+        "copyCode": ""
+      },
+      {
+        "type": "quick_reply",
+        "label": "Got it",
+        "url": "",
+        "phone": "",
+        "copyCode": ""
+      }
+    ],
+    "listButtonText": "View Options",
+    "listSections": [],
+    "cards": [],
+    "carouselTitle": "",
+    "carouselSubtitle": "",
+    "carouselFooter": "",
+    "pollQuestion": "",
+    "pollOptions": [],
+    "variables": [],
+    "contactName": "",
+    "contactPhone": "",
+    "locationName": "",
+    "locationAddress": "",
+    "locationLat": "",
+    "locationLng": "",
+    "mediaFile": null,
+    "createdAt": "2026-03-25T14:41:56.818Z"
+  },
+  {
+    "id": "2c206fd0-ea6b-45c0-bfcb-83f0089becf5",
+    "name": "t3",
+    "content": "Aha sorry that you did'nt like it\nwould you like any discount?",
+    "templateType": "buttons",
+    "mediaType": null,
+    "buttonType": "quick-reply",
+    "buttons": [
+      {
+        "type": "quick_reply",
+        "label": "Discount",
+        "url": "",
+        "phone": "",
+        "copyCode": ""
+      },
+      {
+        "type": "quick_reply",
+        "label": "Nope",
+        "url": "",
+        "phone": "",
+        "copyCode": ""
+      }
+    ],
+    "listButtonText": "View Options",
+    "listSections": [],
+    "cards": [],
+    "carouselTitle": "",
+    "carouselSubtitle": "",
+    "carouselFooter": "",
+    "pollQuestion": "",
+    "pollOptions": [],
+    "variables": [],
+    "contactName": "",
+    "contactPhone": "",
+    "locationName": "",
+    "locationAddress": "",
+    "locationLat": "",
+    "locationLng": "",
+    "mediaFile": null,
+    "createdAt": "2026-03-25T14:43:24.276Z"
+  },
+  {
+    "id": "9df10d1a-c794-40eb-bc1d-0d0a5b4dbc5b",
+    "name": "list message",
+    "content": "Hi {{name}}",
+    "templateType": "list",
+    "mediaType": null,
+    "buttonType": "list",
+    "buttons": [],
+    "listButtonText": "View Options",
+    "listSections": [
+      {
+        "title": "This is your option 1",
+        "rows": [
+          {
+            "title": "how is this looking",
+            "description": ""
+          },
+          {
+            "title": "fine",
+            "description": ""
+          },
+          {
+            "title": "not fine?",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "title": "This is your second section",
+        "rows": [
+          {
+            "title": "this one",
+            "description": ""
+          },
+          {
+            "title": "fine",
+            "description": ""
+          },
+          {
+            "title": "not fine",
+            "description": ""
+          }
+        ]
+      }
+    ],
+    "cards": [],
+    "carouselTitle": "",
+    "carouselSubtitle": "",
+    "carouselFooter": "",
+    "pollQuestion": "",
+    "pollOptions": [],
+    "variables": [],
+    "contactName": "",
+    "contactPhone": "",
+    "locationName": "",
+    "locationAddress": "",
+    "locationLat": "",
+    "locationLng": "",
+    "mediaFile": null,
+    "createdAt": "2026-03-28T10:41:46.870Z"
+  }
+]

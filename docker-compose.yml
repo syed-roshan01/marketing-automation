@@ -1,0 +1,12 @@
+version: '3.8'
+services:
+  zyqora:
+    build: .
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./data:/app/data
+    environment:
+      - PORT=3000
+      - ZYQORA_DATA=/app/data
+    restart: unless-stopped

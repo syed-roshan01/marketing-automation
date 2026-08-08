@@ -1,0 +1,668 @@
+[
+  {
+    "id": "9546684c-bf45-4cf4-b1e0-03b8cb732f59",
+    "assistantId": "3aa7d139-39ad-4814-8fbb-99bef88dac57",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "hi",
+    "aiMessage": "👋 Hello! How can I help you today?",
+    "timestamp": "2026-03-14T20:36:04.287Z"
+  },
+  {
+    "id": "fb148ce4-41e5-4b10-9e62-429537bcd435",
+    "assistantId": "3aa7d139-39ad-4814-8fbb-99bef88dac57",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "wassup",
+    "aiMessage": "I got your message. Please share a little more detail and I will help right away.",
+    "timestamp": "2026-03-14T20:36:11.951Z"
+  },
+  {
+    "id": "2e9ac8a1-1a7f-4620-8afa-c675e1317501",
+    "assistantId": "3aa7d139-39ad-4814-8fbb-99bef88dac57",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "about?",
+    "aiMessage": "I understand your question. Let me help you with that. Can you provide more details?",
+    "timestamp": "2026-03-14T20:36:19.723Z"
+  },
+  {
+    "id": "3f9d3145-340d-46f7-98eb-4eedd5cd631e",
+    "assistantId": "3aa7d139-39ad-4814-8fbb-99bef88dac57",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "when did i question?",
+    "aiMessage": "I understand your question. Let me help you with that. Can you provide more details?",
+    "timestamp": "2026-03-14T20:36:30.963Z"
+  },
+  {
+    "id": "b1b8a3be-8a39-448e-b434-c951569765c5",
+    "assistantId": "3aa7d139-39ad-4814-8fbb-99bef88dac57",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "yes",
+    "aiMessage": "I got your message. Please share a little more detail and I will help right away.",
+    "timestamp": "2026-03-14T20:36:35.820Z"
+  },
+  {
+    "id": "5932f628-fbc7-43ab-82ed-9f735a34ab51",
+    "assistantId": "3aa7d139-39ad-4814-8fbb-99bef88dac57",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "hi",
+    "aiMessage": "Hello! 👋  \nI’m here to help with anything related to your Zeloite web or app services. How can I assist you today?",
+    "timestamp": "2026-03-14T20:39:53.475Z"
+  },
+  {
+    "id": "6c3da336-0c3c-4fa3-a4bb-4c367293f0ca",
+    "assistantId": "3aa7d139-39ad-4814-8fbb-99bef88dac57",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "what can you do",
+    "aiMessage": "I’m here to help you with everything related to Zeloite’s web and app services. Here’s a quick rundown of what I can do for you:\n\n| What I can help with | How I’ll assist |\n|----------------------|-----------------|\n| **Website issues** (e.g., “my site is down”) | Diagnose the problem, suggest fixes, and guide you through troubleshooting steps |\n| **App support** | Answer questions about features, help with bugs, and provide use‑case tips |\n| **Account & billing** | Clarify plan details, help with subscription changes, and point you to resources |\n| **General questions** | Explain our services, pricing, and best practices |\n\nIf something slips outside my scope, I’ll gladly route you to a human agent. Just let me know what you need or describe the issue you’re facing, and we’ll get it sorted out!",
+    "timestamp": "2026-03-14T20:40:26.960Z"
+  },
+  {
+    "id": "df96df07-cf33-4240-a8ec-a17c761e0b46",
+    "assistantId": "3aa7d139-39ad-4814-8fbb-99bef88dac57",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "route to human",
+    "aiMessage": "I’m sorry I couldn’t resolve your issue here. I’ll connect you with one of our human support agents right away. Please hold, and a team member will be with you shortly. If you prefer, you can also reach out directly at 994 539 0672. Thank you for your patience!\n\n\n\n---\n\n**Support Pollinations.AI:**\n\n---\n\n🌸 **Ad** 🌸\nPowered by Pollinations.AI free text APIs. [Support our mission](https://pollinations.ai/redirect/kofi) to keep AI accessible for everyone.",
+    "timestamp": "2026-03-14T20:40:58.698Z"
+  },
+  {
+    "id": "da3f773a-d9da-4f78-ab0c-1d444593e4db",
+    "assistantId": "3aa7d139-39ad-4814-8fbb-99bef88dac57",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "hi",
+    "aiMessage": "Hello! 👋  \nI’m here to help with anything related to your Zeloite web or app services. How can I assist you today?",
+    "timestamp": "2026-03-14T20:43:19.716Z"
+  },
+  {
+    "id": "26be2363-0687-4058-b782-7949c307731e",
+    "assistantId": "3aa7d139-39ad-4814-8fbb-99bef88dac57",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "what services do zeloite offer",
+    "aiMessage": "Zeloite specializes in building and maintaining digital experiences. Our main services include:\n\n- **Custom Web Development** – responsive sites, e‑commerce platforms, CMS solutions, and web‑app integrations.  \n- **Mobile App Development** – native and cross‑platform iOS & Android apps tailored to your business needs.  \n- **Website & App Maintenance** – monitoring, updates, security patches, and performance optimization.  \n\nIf you’re looking for a specific solution—like a new website, a mobile app, or ongoing support—just let me know and I’ll guide you through the next steps.",
+    "timestamp": "2026-03-14T20:43:47.578Z"
+  },
+  {
+    "id": "4482325b-c56c-4cbf-82fd-a80b95d1ddc1",
+    "assistantId": "3aa7d139-39ad-4814-8fbb-99bef88dac57",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "what's the time now",
+    "aiMessage": "I’m not sure which time zone you’re in, but here’s the current UTC time:\n\n**UTC:** 14:42 (2026‑03‑14)\n\nIf you let me know your location or time zone, I can give you the local time for you.",
+    "timestamp": "2026-03-14T20:44:17.351Z"
+  },
+  {
+    "id": "d40c6447-979d-4e38-9425-f23c31568bda",
+    "assistantId": "3aa7d139-39ad-4814-8fbb-99bef88dac57",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "where are you from",
+    "aiMessage": "I’m a virtual support assistant, so I don’t have a physical home base—think of me as a “cloud” helper ready to answer your questions from anywhere!  \n\nHow can I assist you today with Zeloite’s web or app services?",
+    "timestamp": "2026-03-14T20:44:47.430Z"
+  },
+  {
+    "id": "1f8a7765-dc08-46cc-afc8-682e2b0cf549",
+    "assistantId": "3aa7d139-39ad-4814-8fbb-99bef88dac57",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "nice",
+    "aiMessage": "Glad to hear that! Is there anything specific you’d like to know about Zeloite’s services or any support you need right now?",
+    "timestamp": "2026-03-14T20:47:35.601Z"
+  },
+  {
+    "id": "589a3044-795c-4ce9-8183-06679a341211",
+    "assistantId": "cad4f493-433c-43c0-a9b8-066081ee602c",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "hi",
+    "aiMessage": "Hello! 👋  \nHow can I assist you with your Hajj or Umrah plans today? For bookings or more details, feel free to call or WhatsApp Al Ibad Travel Agency at +91 99453 90672. We’re happy to help!",
+    "timestamp": "2026-03-14T20:50:58.938Z"
+  },
+  {
+    "id": "aea9792a-e2f5-432b-81d7-cabbaca90903",
+    "assistantId": "cad4f493-433c-43c0-a9b8-066081ee602c",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "what services you provide",
+    "aiMessage": "We offer comprehensive Hajj and Umrah travel solutions, including:\n\n- Full‑service Hajj and Umrah packages  \n- Visa processing assistance  \n- Flight booking  \n- Hotel accommodation in Makkah and Madinah  \n- Travel guidance and ongoing customer support  \n\nFor a personalized plan or to book a batch, please call or WhatsApp us at +91 99453 90672. We’re happy to help you start your spiritual journey!",
+    "timestamp": "2026-03-14T20:51:28.735Z"
+  },
+  {
+    "id": "4a19f9fb-ada5-4697-a5cb-a14ea5a7ed63",
+    "assistantId": "cad4f493-433c-43c0-a9b8-066081ee602c",
+    "phone": "120363425506732860",
+    "jid": "120363425506732860@g.us",
+    "userMessage": "are you awake?",
+    "aiMessage": "I am temporarily unable to generate an AI response. Please try again in a moment.",
+    "timestamp": "2026-03-14T20:52:08.907Z"
+  },
+  {
+    "id": "4ef8b30b-4fe7-4745-a362-cc3b4d049b8e",
+    "assistantId": "cad4f493-433c-43c0-a9b8-066081ee602c",
+    "phone": "120363425506732860",
+    "jid": "120363425506732860@g.us",
+    "userMessage": "Yes sir",
+    "aiMessage": "I am temporarily unable to generate an AI response. Please try again in a moment.",
+    "timestamp": "2026-03-14T20:52:14.250Z"
+  },
+  {
+    "id": "b18416af-b639-45a1-b963-488d86608610",
+    "assistantId": "cad4f493-433c-43c0-a9b8-066081ee602c",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "is it",
+    "aiMessage": "Could you let me know which part you’re referring to? I’m happy to give more details or help you book a package.  \nFor quick assistance, feel free to call or WhatsApp Al Ibad Travel Agency at +91 99453 90672. We’re ready to support your Hajj or Umrah journey.",
+    "timestamp": "2026-03-14T20:52:54.956Z"
+  },
+  {
+    "id": "d88660b1-8e62-4e2d-8cba-0f96098a88cd",
+    "assistantId": "3f34e839-ad14-4011-a9de-95464da6fba1",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "Hey",
+    "aiMessage": "Hello! 👋 How can I help you schedule an appointment with Zeloite Technologies? Which service are you interested in: Web Development, Mobile App Development, or Software Solutions?",
+    "timestamp": "2026-03-14T21:14:48.240Z"
+  },
+  {
+    "id": "5a79da8b-f989-4375-98de-9833785a79ec",
+    "assistantId": "3f34e839-ad14-4011-a9de-95464da6fba1",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "i want an appointment",
+    "aiMessage": "Hello! 👋  \nI’d be happy to help you schedule an appointment with Zeloite Technologies.  \nWhich service are you interested in?  \n- Web Development  \n- Mobile App Development  \n- Software Solutions  \n\n(If you already have a preferred date and time, feel free to share it!)",
+    "timestamp": "2026-03-14T21:15:18.962Z"
+  },
+  {
+    "id": "46958165-f6ec-4c37-b31d-711792710545",
+    "assistantId": "3f34e839-ad14-4011-a9de-95464da6fba1",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "web development",
+    "aiMessage": "Great! Let’s schedule your Web Development appointment.  \n\n1️⃣ When would you like to meet? (Preferred date & time)  \n2️⃣ What is the best mobile number to reach you?  \n3️⃣ Your email address, please.  \n4️⃣ Would you like the meeting online or at our office?  \n\nOnce I have this info, I’ll confirm the appointment.",
+    "timestamp": "2026-03-14T21:15:48.636Z"
+  },
+  {
+    "id": "a6a8beed-25a2-43b7-95b5-d0375082127c",
+    "assistantId": "3f34e839-ad14-4011-a9de-95464da6fba1",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "tuesday - 17/3/26 at 1 pm\n9945390672 and mail is toroshaninbox1@gmail.com\nonline",
+    "aiMessage": "Thank you for choosing Zeloite Technologies!  \nTo finalize your Web Development appointment, could you please let me know the name you’d like to use for the booking?\n\n(Just to recap:  \n- Date & Time: Tuesday, 17 Mar 2026 at 1:00 PM  \n- Meeting Mode: Online  \n- Phone: 9945390672  \n- Email: toroshaninbox1@gmail.com)\n\nOnce I have your name, I’ll send you the confirmation.",
+    "timestamp": "2026-03-14T21:17:41.555Z"
+  },
+  {
+    "id": "1d999d3f-14b3-4ab9-8899-d4240e56b40a",
+    "assistantId": "3f34e839-ad14-4011-a9de-95464da6fba1",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "syed roshan",
+    "aiMessage": "Appointment Confirmed ✅  \n\nName: Syed Roshan  \nService: Web Development  \nDate: 17/03/2026  \nTime: 1:00 PM  \nMeeting Mode: Online  \n\nThank you for booking an appointment with Zeloite Technologies. We look forward to speaking with you soon.",
+    "timestamp": "2026-03-14T21:18:06.246Z"
+  },
+  {
+    "id": "dee89d41-4364-48de-adae-85a69fd360d1",
+    "assistantId": "3f34e839-ad14-4011-a9de-95464da6fba1",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "Hi",
+    "aiMessage": "Hello! 👋 Thank you for reaching out to Zeloite Technologies. How can we assist you today? Are you interested in Web Development, Mobile App Development, or a Consultation?",
+    "timestamp": "2026-03-14T21:24:20.767Z"
+  },
+  {
+    "id": "d3874bc8-aba1-4297-baa4-2e093d60b870",
+    "assistantId": "3f34e839-ad14-4011-a9de-95464da6fba1",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "Web",
+    "aiMessage": "I am temporarily unable to generate an AI response. Please try again in a moment.",
+    "timestamp": "2026-03-14T21:24:41.307Z"
+  },
+  {
+    "id": "80dbcc1a-bae2-42ef-8d0a-c649109610d0",
+    "assistantId": "3f34e839-ad14-4011-a9de-95464da6fba1",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "why",
+    "aiMessage": "I’m sorry for the hiccup! Let’s try again. How can I assist you with our Web Development services today?",
+    "timestamp": "2026-03-14T21:24:58.131Z"
+  },
+  {
+    "id": "0ebf68c6-dfc9-4c74-8f36-a7571a8bc5ab",
+    "assistantId": "3f34e839-ad14-4011-a9de-95464da6fba1",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "need an appoinement",
+    "aiMessage": "Sure, I’d be happy to help you schedule an appointment. To get started, could you please let me know:\n\n1. Which service you’re interested in (Web Development, Mobile App Development, or Consultation)  \n2. Your preferred date and time (between 10 AM and 6 PM)  \n3. Your full name  \n4. Mobile number  \n5. Email address  \n6. Whether you’d like the meeting online or at our office  \n\nOnce I have those details, I’ll confirm the appointment.",
+    "timestamp": "2026-03-14T21:25:29.566Z"
+  },
+  {
+    "id": "05858e04-33ad-4a30-916a-17892bfd13ab",
+    "assistantId": "3f34e839-ad14-4011-a9de-95464da6fba1",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "web dev\n1 pm on 16th\nsyed roshan\n9945390672\ntoroshaninbox1@gmail.com\nonline",
+    "aiMessage": "Thank you for the details, Syed Roshan!\n\nCould you please confirm the month for the 16th (e.g., 16 March 2026)? Once we have the full date, I’ll lock in your 1 PM slot.\n\nLooking forward to scheduling your Web Development appointment.",
+    "timestamp": "2026-03-14T21:26:23.179Z"
+  },
+  {
+    "id": "ad4708f5-2d41-4d2b-9f58-626e6f2ce7ba",
+    "assistantId": "3f34e839-ad14-4011-a9de-95464da6fba1",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "march",
+    "aiMessage": "Appointment Confirmed ✅\n\nName: Syed Roshan  \nService: Web Development  \nDate: 16 March 2026  \nTime: 1:00 PM  \nMeeting Mode: Online  \n\nThank you for booking an appointment with Zeloite Technologies. We look forward to speaking with you soon.",
+    "timestamp": "2026-03-14T21:26:52.256Z"
+  },
+  {
+    "id": "b9923358-82a8-4bf6-9c1b-73b6aa7c78d4",
+    "assistantId": "3f34e839-ad14-4011-a9de-95464da6fba1",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "hi",
+    "aiMessage": "Hello! 👋 Thank you for reaching out to Zeloite Technologies. How can I assist you today? Are you looking to book an appointment for Web Development, Mobile App Development, or a Consultation?",
+    "timestamp": "2026-03-14T21:40:19.026Z"
+  },
+  {
+    "id": "879ff37b-4561-4315-b87a-845674e8a6d1",
+    "assistantId": "3f34e839-ad14-4011-a9de-95464da6fba1",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "web dev",
+    "aiMessage": "Great! Let’s get your appointment scheduled.\n\n**What’s the best date and time for you?**  \n(Please keep in mind our working hours are 10 AM – 6 PM.)",
+    "timestamp": "2026-03-14T21:40:48.741Z"
+  },
+  {
+    "id": "bada38a0-f033-4e43-8963-74f14bad981a",
+    "assistantId": "3f34e839-ad14-4011-a9de-95464da6fba1",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "17th march\n2 pm",
+    "aiMessage": "Thank you for choosing Zeloite Technologies!  \nTo finalize your Web Development appointment on **17 March at 2:00 PM**, could you please provide the following details?\n\n1. Your preferred name  \n2. Mobile number  \n3. Email address  \n4. Meeting mode – would you like to meet **online** or in our **office**?\n\nOnce I have those, I’ll send you the confirmation.",
+    "timestamp": "2026-03-14T21:41:22.488Z"
+  },
+  {
+    "id": "7797452a-b48f-408a-b5c0-3bf1d994d8c9",
+    "assistantId": "3f34e839-ad14-4011-a9de-95464da6fba1",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "syed ahmed\n9945390672\ntoroshaninbox@gmail.com\noffice",
+    "aiMessage": "Appointment Confirmed ✅  \n\n**Name:** Syed Ahmed  \n**Service:** Web Development  \n**Date:** 17 March  \n**Time:** 2:00 PM  \n**Meeting Mode:** Office  \n\nThank you for booking an appointment with Zeloite Technologies.  \nWe look forward to speaking with you soon.",
+    "timestamp": "2026-03-14T21:41:56.690Z"
+  },
+  {
+    "id": "fd5a8a9b-486c-4404-9603-272e06087dbe",
+    "assistantId": "3f34e839-ad14-4011-a9de-95464da6fba1",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "hi\nappointment in web dev",
+    "aiMessage": "Hello! 👋  \nI’d be happy to schedule a web development appointment for you.  \n\nCould you please let me know:\n\n1. Your preferred date and time (between 10 AM – 6 PM)  \n2. Your full name  \n3. Mobile number  \n4. Email address  \n5. Whether you’d like the meeting online or at our office  \n\nThank you!",
+    "timestamp": "2026-03-14T21:48:12.318Z"
+  },
+  {
+    "id": "d4e2f288-ec50-4e53-b326-c3ce94cf9219",
+    "assistantId": "3f34e839-ad14-4011-a9de-95464da6fba1",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "syed sahil\n9945390672\ntoroshaninbox@gmail.com\noffice\n5pm 18 march",
+    "aiMessage": "Appointment Confirmed ✅  \n\n**Name:** Syed Sahil  \n**Service:** Web Development  \n**Date:** 18 March  \n**Time:** 5:00 PM  \n**Meeting Mode:** Office  \n\nThank you for booking an appointment with Zeloite Technologies.  \nWe look forward to speaking with you soon.",
+    "timestamp": "2026-03-14T21:48:58.236Z"
+  },
+  {
+    "id": "e7f91a03-7402-49d2-8cfb-46c64db28e45",
+    "assistantId": "3f34e839-ad14-4011-a9de-95464da6fba1",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "hi appointment in app dev",
+    "aiMessage": "Hello! 👋  \nI’d be happy to schedule an app development appointment for you.  \n\nCould you please provide:\n\n1. Your preferred date and time (between 10 AM – 6 PM)  \n2. Your full name  \n3. Mobile number  \n4. Email address  \n5. Whether you’d like the meeting online or at our office  \n\nThank you!",
+    "timestamp": "2026-03-14T21:49:42.175Z"
+  },
+  {
+    "id": "6fad5140-f53c-4a11-bbf4-d7ac89bbaa70",
+    "assistantId": "3f34e839-ad14-4011-a9de-95464da6fba1",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "syed zameer\n9945390672\ntoroshaninbox@gmail.com\noffice\n5pm 18 march",
+    "aiMessage": "Appointment Confirmed ✅  \n\n**Name:** Syed Zameer  \n**Service:** Mobile App Development  \n**Date:** 18 March  \n**Time:** 5:00 PM  \n**Meeting Mode:** Office  \n\nThank you for booking an appointment with Zeloite Technologies.  \nWe look forward to speaking with you soon.",
+    "timestamp": "2026-03-14T21:50:11.776Z"
+  },
+  {
+    "id": "daf5de93-c128-4dfd-8e6e-b27ec58f63e7",
+    "assistantId": "3f34e839-ad14-4011-a9de-95464da6fba1",
+    "phone": "919355336428",
+    "jid": "919355336428@s.whatsapp.net",
+    "userMessage": "Hey",
+    "aiMessage": "Hello! 👋 How can I assist you with Zeloite Technologies today? What service are you interested in? (Web Development, Mobile App Development, or Consultation)",
+    "timestamp": "2026-03-14T21:51:39.651Z"
+  },
+  {
+    "id": "2713d23c-c795-43a5-8a8d-5953f6679558",
+    "assistantId": "3f34e839-ad14-4011-a9de-95464da6fba1",
+    "phone": "919355336428",
+    "jid": "919355336428@s.whatsapp.net",
+    "userMessage": "App Dev",
+    "aiMessage": "Sure! Let’s set up an appointment for Mobile App Development.  \nCould you please let me know:\n\n1. Your preferred date and time (please keep it between 10:00 AM and 6:00 PM)  \n2. Your preferred meeting mode (Online or Office)  \n3. Your mobile number and email address  \n\nOnce I have that, I’ll confirm the details for you.",
+    "timestamp": "2026-03-14T21:52:14.983Z"
+  },
+  {
+    "id": "88e285a6-4315-4996-aa9f-17130bd55d1d",
+    "assistantId": "3f34e839-ad14-4011-a9de-95464da6fba1",
+    "phone": "919355336428",
+    "jid": "919355336428@s.whatsapp.net",
+    "userMessage": "19 march\ni want to take an appointment",
+    "aiMessage": "Thanks for choosing Mobile App Development! To confirm your appointment, could you please share:\n\n1. Your full name (or preferred name)  \n2. A time on **19 March** between **10:00 AM – 6:00 PM** that works best for you  \n3. Your mobile number  \n4. Your email address  \n5. Whether you’d like to meet online or at our office  \n\nOnce I have those details, I’ll send you a confirmation.",
+    "timestamp": "2026-03-14T21:53:10.068Z"
+  },
+  {
+    "id": "659464d8-2f0e-45b4-a31c-637f2645c5a3",
+    "assistantId": "3f34e839-ad14-4011-a9de-95464da6fba1",
+    "phone": "919355336428",
+    "jid": "919355336428@s.whatsapp.net",
+    "userMessage": "2 pm\nharsh raj\n9987656780\nharsh@gmail.com\noffice",
+    "aiMessage": "Appointment Confirmed ✅  \n\n**Name:** Harsh Raj  \n**Service:** Mobile App Development  \n**Date:** 19 March  \n**Time:** 2:00 PM  \n**Meeting Mode:** Office  \n\nThank you for booking an appointment with Zeloite Technologies.  \nWe look forward to speaking with you soon.",
+    "timestamp": "2026-03-14T21:54:09.607Z"
+  },
+  {
+    "id": "8a6af92c-7a70-4f52-ac8e-066b48f0074d",
+    "assistantId": "cad4f493-433c-43c0-a9b8-066081ee602c",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "Hey",
+    "aiMessage": "Hello! 👋 How can I help you with your Hajj or Umrah plans today?  \n\nFor booking or more details, please contact Al Ibad Travel Agency at +91 99453 90672 (Call/WhatsApp). We’re happy to assist you with your journey.",
+    "timestamp": "2026-03-25T16:11:14.431Z"
+  },
+  {
+    "id": "c7284a73-210b-436f-ad12-5a12dae75049",
+    "assistantId": "cad4f493-433c-43c0-a9b8-066081ee602c",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "i am looking for umrah",
+    "aiMessage": "Sure! We offer complete Umrah packages that include visa processing, flight booking, accommodation in Makkah and Madinah, and 24/7 travel guidance.  \n\n**Upcoming Umrah batches**\n- July 1  \n- August 4  \n- September 7  \n- December 6  \n\nLet me know if you’d like details on a specific batch or help with the booking process.  \n\nFor booking or more details, please contact Al Ibad Travel Agency at +91 99453 90672 (Call/WhatsApp). We’re happy to assist you with your Umrah journey.",
+    "timestamp": "2026-03-25T16:13:01.048Z"
+  },
+  {
+    "id": "076f2255-feff-4367-b638-ce2619ba21e0",
+    "assistantId": "cad4f493-433c-43c0-a9b8-066081ee602c",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "aug 4",
+    "aiMessage": "Great! The **August 4** Umrah batch is coming up soon.  \n- **Departure**: 4 August 2026  \n- **Duration**: 5‑6 days (typical itinerary)  \n- **What’s included**:  \n  - Round‑trip flight booking  \n  - Visa processing assistance  \n  - Hotel accommodation in Makkah and Madinah  \n  - 24/7 travel guidance and support  \n\nTo secure your spot or get a customized quote, please call or WhatsApp us at **+91 99453 90672**. We’ll guide you through the booking steps and answer any questions you have.\n\nFor booking or more details, please contact Al Ibad Travel Agency at +91 99453 90672 (Call/WhatsApp). We are happy to assist you with your Hajj and Umrah journey.",
+    "timestamp": "2026-03-25T16:13:39.094Z"
+  },
+  {
+    "id": "886fcab9-08f6-4ef7-b387-c874b430d3a2",
+    "assistantId": "cad4f493-433c-43c0-a9b8-066081ee602c",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "price",
+    "aiMessage": "I am temporarily unable to generate an AI response. Please try again in a moment.",
+    "timestamp": "2026-03-25T16:14:23.866Z"
+  },
+  {
+    "id": "58c2d9a7-8be3-4987-b148-169f3a31c0de",
+    "assistantId": "cad4f493-433c-43c0-a9b8-066081ee602c",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "hi",
+    "aiMessage": "Hi! Great to hear from you. Al ibad travels is here to help. What would you like to do today?",
+    "timestamp": "2026-03-25T16:33:33.781Z"
+  },
+  {
+    "id": "3dbfb703-aace-4622-af58-cf164099b9d2",
+    "assistantId": "cad4f493-433c-43c0-a9b8-066081ee602c",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "Yes",
+    "aiMessage": "Thanks for your message. I can help with this right away. Please share a little more detail and I will assist you step by step.",
+    "timestamp": "2026-03-25T16:33:36.211Z"
+  },
+  {
+    "id": "335bd9ba-7cc2-419f-b87f-3e9c04d7006c",
+    "assistantId": "cad4f493-433c-43c0-a9b8-066081ee602c",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "No",
+    "aiMessage": "Thanks for your message. I can help with this right away. Please share a little more detail and I will assist you step by step.",
+    "timestamp": "2026-03-25T16:33:48.810Z"
+  },
+  {
+    "id": "73480b96-8396-4c08-b510-74f6eced810c",
+    "assistantId": "cad4f493-433c-43c0-a9b8-066081ee602c",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "hey",
+    "aiMessage": "Hi! Great to hear from you. Al ibad travels is here to help. What would you like to do today?",
+    "timestamp": "2026-03-25T16:34:41.001Z"
+  },
+  {
+    "id": "07010b7a-88c4-4aea-b014-98f4d5ce8fa5",
+    "assistantId": "cad4f493-433c-43c0-a9b8-066081ee602c",
+    "phone": "917290058166",
+    "jid": "917290058166@s.whatsapp.net",
+    "userMessage": ".",
+    "aiMessage": "Thanks for your message. I can help with this right away. Please share a little more detail and I will assist you step by step.",
+    "timestamp": "2026-03-25T16:34:58.144Z"
+  },
+  {
+    "id": "fe988533-c707-49ae-bc15-269132899534",
+    "assistantId": "cad4f493-433c-43c0-a9b8-066081ee602c",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "what do you do",
+    "aiMessage": "Thanks for your message. I can help with this right away. Please share a little more detail and I will assist you step by step.",
+    "timestamp": "2026-03-25T16:35:08.281Z"
+  },
+  {
+    "id": "a55c0ba5-f080-4c7d-a517-ff6217a514c7",
+    "assistantId": "cad4f493-433c-43c0-a9b8-066081ee602c",
+    "phone": "917290058166",
+    "jid": "917290058166@s.whatsapp.net",
+    "userMessage": "Hi",
+    "aiMessage": "Hi! Great to hear from you. Al ibad travels is here to help. What would you like to do today?",
+    "timestamp": "2026-03-25T16:35:19.245Z"
+  },
+  {
+    "id": "da420c0b-c033-4074-a843-891d76e3c585",
+    "assistantId": "cad4f493-433c-43c0-a9b8-066081ee602c",
+    "phone": "917290058166",
+    "jid": "917290058166@s.whatsapp.net",
+    "userMessage": "Yes",
+    "aiMessage": "Thanks for your message. I can help with this right away. Please share a little more detail and I will assist you step by step.",
+    "timestamp": "2026-03-25T16:35:20.469Z"
+  },
+  {
+    "id": "4c8a5212-0ea9-4dc8-9de2-5e6ba29cba87",
+    "assistantId": "3aa7d139-39ad-4814-8fbb-99bef88dac57",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "hi",
+    "aiMessage": "Hi! Great to hear from you. Support Bot is here to help. What would you like to do today?",
+    "timestamp": "2026-03-25T16:45:39.259Z"
+  },
+  {
+    "id": "5b08267c-4cd5-4eab-b143-2893c853f53e",
+    "assistantId": "3aa7d139-39ad-4814-8fbb-99bef88dac57",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "Hey",
+    "aiMessage": "Hi! Great to hear from you. Support Bot is here to help. What would you like to do today?",
+    "timestamp": "2026-03-25T16:45:43.181Z"
+  },
+  {
+    "id": "af221f3c-be0a-4281-9703-14df514e4d0b",
+    "assistantId": "3aa7d139-39ad-4814-8fbb-99bef88dac57",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "Hey",
+    "aiMessage": "Hi! Great to hear from you. Support Bot is here to help. What would you like to do today?",
+    "timestamp": "2026-03-25T16:52:24.344Z"
+  },
+  {
+    "id": "c4db97df-4d90-468e-a685-4097e347e3ac",
+    "assistantId": "3aa7d139-39ad-4814-8fbb-99bef88dac57",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "hi",
+    "aiMessage": "Hi! Great to hear from you. Support Bot is here to help. What would you like to do today?",
+    "timestamp": "2026-03-25T16:52:25.001Z"
+  },
+  {
+    "id": "0b68e4fe-9076-4575-96f9-89e31543814f",
+    "assistantId": "3aa7d139-39ad-4814-8fbb-99bef88dac57",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "what can you help with?",
+    "aiMessage": "Thanks for your question. I can help with this. Please share one more detail so I can give you the exact answer.",
+    "timestamp": "2026-03-25T16:55:01.374Z"
+  },
+  {
+    "id": "8d003089-1354-43c8-bacf-4034d0e467b4",
+    "assistantId": "3aa7d139-39ad-4814-8fbb-99bef88dac57",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "web dev",
+    "aiMessage": "Thanks for your message. I can help with this right away. Please share a little more detail and I will assist you step by step.",
+    "timestamp": "2026-03-25T16:55:37.896Z"
+  },
+  {
+    "id": "2217dd2c-86fd-4336-b63c-4e39d034bb24",
+    "assistantId": "cad4f493-433c-43c0-a9b8-066081ee602c",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "Hey",
+    "aiMessage": "Hello! 👋 How can I help you with your Hajj or Umrah plans today?  \n\nFor booking or more details, please contact Al Ibad Travel Agency at +91 99453 90672 (Call/WhatsApp). We’re happy to assist you with your journey.",
+    "timestamp": "2026-03-25T19:11:14.394Z"
+  },
+  {
+    "id": "7e9ffaba-c8dc-45d4-a5cd-5e28b6cef3d0",
+    "assistantId": "cad4f493-433c-43c0-a9b8-066081ee602c",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "what do you offer?",
+    "aiMessage": "We offer full‑service Hajj and Umrah packages, including:\n\n- Complete Hajj & Umrah itineraries  \n- Visa processing assistance  \n- Flight booking  \n- Hotel accommodation in Makkah and Madinah  \n- On‑site travel guidance and customer support  \n\nUpcoming Umrah batches:  \n- July 1  \n- August 4  \n- September 7  \n- December 6  \n\nFor booking or more details, please contact Al Ibad Travel Agency at +91 99453 90672 (Call/WhatsApp). We’re happy to assist you with your Hajj and Umrah journey.",
+    "timestamp": "2026-03-25T19:11:38.000Z"
+  },
+  {
+    "id": "5607d0cc-0019-4c3c-96d1-59d5ba5f456e",
+    "assistantId": "cad4f493-433c-43c0-a9b8-066081ee602c",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "pricing?",
+    "aiMessage": "I’m glad you asked!  \n\n📦 **What we offer**  \n- Complete Hajj & Umrah packages (all-inclusive itineraries)  \n- Visa processing assistance  \n- Flight booking & airport transfers  \n- Hotel accommodation in Makkah & Madinah  \n- 24/7 travel guidance & customer support  \n\n💰 **Pricing**  \nOur rates vary depending on the package type, duration, accommodation level, and the batch you choose. We tailor each package to your needs and budget, so the best way to get an accurate quote is to share a bit about:\n\n1. The batch you’re interested in (e.g., July 1, August 4, etc.)  \n2. Preferred accommodation level (standard, deluxe, or premium)  \n3. Any special requirements (e.g., group booking, dietary needs)\n\nOnce we have that info, we’ll send you a detailed price list and can discuss any discounts or special offers.\n\n📞 **Contact us**  \nFor a personalized quote or any other questions, please call or WhatsApp us at **+91 99453 90672**. We’re happy to help you plan the perfect Hajj or Umrah experience.",
+    "timestamp": "2026-03-25T19:12:09.032Z"
+  },
+  {
+    "id": "e764499b-75df-4e8b-8c27-7a97110649b5",
+    "assistantId": "cad4f493-433c-43c0-a9b8-066081ee602c",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "connect me to a person",
+    "aiMessage": "I’m sorry I can’t transfer you directly, but you can speak with one of our team members right away.  \nJust give us a call or WhatsApp at **+91 99453 90672** and we’ll connect you to a specialist who can help with your booking.  \n\nFor booking or more details, please contact Al Ibad Travel Agency at +91 99453 90672 (Call/WhatsApp). We are happy to assist you with your Hajj and Umrah journey.",
+    "timestamp": "2026-03-25T19:12:38.440Z"
+  },
+  {
+    "id": "ad752b8b-e500-4548-b358-03105d283324",
+    "assistantId": "cad4f493-433c-43c0-a9b8-066081ee602c",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "who are you then?",
+    "aiMessage": "I’m the friendly virtual assistant for Al Ibad Travel Agency. I’m here to answer your questions about Hajj and Umrah packages, help you plan your trip, and give you the details you need.  \n\nIf you’d like to speak with a person or need a personalized quote, just call or WhatsApp us at +91 99453 90672. We’re happy to help you with your journey.",
+    "timestamp": "2026-03-25T19:13:12.123Z"
+  },
+  {
+    "id": "61108691-9d5e-4d9d-aeae-d0b7bcd8f34b",
+    "assistantId": "3f34e839-ad14-4011-a9de-95464da6fba1",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "Hey",
+    "aiMessage": "Hello! 👋 How can I help you today? Which of our services are you interested in—Web Development, Mobile App Development, or a Consultation?",
+    "timestamp": "2026-03-25T19:14:31.514Z"
+  },
+  {
+    "id": "e02940b6-d449-4289-8848-21a5a5ce1a7a",
+    "assistantId": "3f34e839-ad14-4011-a9de-95464da6fba1",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "web dev",
+    "aiMessage": "Hello! 👋 Great choice—let’s schedule your Web Development consultation.\n\nCould you please share:\n1. Your preferred date & time (between 10 AM and 6 PM)\n2. Your full name\n3. Mobile number\n4. Email address\n5. Meeting mode (Online or Office)\n\nOnce I have these details, I’ll confirm the appointment for you.",
+    "timestamp": "2026-03-25T19:15:00.953Z"
+  },
+  {
+    "id": "a92968cc-7879-48fe-8631-625890d2b16b",
+    "assistantId": "3f34e839-ad14-4011-a9de-95464da6fba1",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "5pm 27th\n9945390672\ntoroshaninbox1@gmail.cpm\nonline\nsyed roshan",
+    "aiMessage": "Thanks for the details! To finalize your appointment, could you please confirm:\n\n1. The month for **27th** (e.g., March, April, etc.)  \n2. Your email address (looks like it might be toroshaninbox1@gmail.com)\n\nOnce we have those, I’ll send you the confirmation.",
+    "timestamp": "2026-03-25T19:15:52.043Z"
+  },
+  {
+    "id": "a6502461-5b8b-43ef-9f8d-7a85d1d21425",
+    "assistantId": "3f34e839-ad14-4011-a9de-95464da6fba1",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "march",
+    "aiMessage": "Thank you for the details!  \nJust to confirm a couple of points before I book the slot:\n\n1. **Email address** – I have it as `toroshaninbox1@gmail.cpm`. Did you mean `toroshaninbox1@gmail.com`?  \n2. **Date & Time** – 27 March at 5 00 PM (between 10 AM and 6 PM).  \n\nOnce I have the correct email, I’ll send you the final appointment confirmation.",
+    "timestamp": "2026-03-25T19:16:31.153Z"
+  },
+  {
+    "id": "5e9724f6-b659-40f7-a112-a5e5baaa5340",
+    "assistantId": "3f34e839-ad14-4011-a9de-95464da6fba1",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": ".com",
+    "aiMessage": "Appointment Confirmed ✅\n\nName: Syed Roshan  \nService: Web Development  \nDate: 27 March  \nTime: 5:00 PM  \nMeeting Mode: Online  \n\nThank you for booking an appointment with Zeloite Technologies. We look forward to speaking with you soon.",
+    "timestamp": "2026-03-25T19:17:01.500Z"
+  },
+  {
+    "id": "829400f6-31ce-4f3c-a4c5-542e31c144fd",
+    "assistantId": "3f34e839-ad14-4011-a9de-95464da6fba1",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "Hey",
+    "aiMessage": "Hello! 👋 How can I help you today?",
+    "timestamp": "2026-03-25T19:24:58.058Z"
+  },
+  {
+    "id": "8ab42051-0c7b-42ec-9ece-a56bd8ee0bab",
+    "assistantId": "3f34e839-ad14-4011-a9de-95464da6fba1",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "what do you offer",
+    "aiMessage": "Hello! 👋  \nZeloite Technologies specializes in:\n\n| Service | Description |\n|---------|-------------|\n| **Web Development** | Custom websites, e‑commerce platforms, CMS solutions, and responsive design. |\n| **Mobile App Development** | Native & cross‑platform apps for iOS & Android, from concept to launch. |\n| **Software Solutions** | Enterprise applications, SaaS platforms, API integrations, and automation tools. |\n\nIf you’re interested in any of these, we can schedule a brief consultation to discuss your needs and next steps. Let me know how I can help!",
+    "timestamp": "2026-03-25T19:25:32.617Z"
+  },
+  {
+    "id": "4778ac1d-bd43-4306-8c1c-2730f670e67b",
+    "assistantId": "3f34e839-ad14-4011-a9de-95464da6fba1",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "web dev",
+    "aiMessage": "Great! Let’s schedule your Web Development appointment.\n\nCould you please let me know:\n\n1. **Preferred date** (e.g., 27 March 2026)  \n2. **Preferred time** (between 10 AM and 6 PM)  \n3. **Mobile number**  \n4. **Email address**  \n5. **Meeting mode** (Online or Office)\n\nOnce I have those details, I’ll confirm the appointment for you.",
+    "timestamp": "2026-03-25T19:32:26.336Z"
+  },
+  {
+    "id": "e7133e31-8075-4ed1-844b-ba6768601af9",
+    "assistantId": "3f34e839-ad14-4011-a9de-95464da6fba1",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "28 march 2026\ntoroshaninbox1@gmail.com\nonline\n9945390672",
+    "aiMessage": "Thank you for the details! To finalize your Web Development appointment, I just need a couple more pieces of information:\n\n1. **Preferred time** (between 10 AM and 6 PM)  \n2. **Your preferred name** (so we can address you properly)\n\nOnce I have those, I’ll confirm the appointment for you.",
+    "timestamp": "2026-03-25T19:36:47.641Z"
+  },
+  {
+    "id": "5de09aa8-2165-45d7-a0f8-b3feca4c655c",
+    "assistantId": "3f34e839-ad14-4011-a9de-95464da6fba1",
+    "phone": "919945390672",
+    "jid": "919945390672@s.whatsapp.net",
+    "userMessage": "syed roshan\n5pm",
+    "aiMessage": "Appointment Confirmed ✅  \n\n**Name:** Syed Roshan  \n**Service:** Web Development  \n**Date:** 28 March 2026  \n**Time:** 5:00 PM  \n**Meeting Mode:** Online  \n\nThank you for booking an appointment with Zeloite Technologies. We look forward to speaking with you soon.\n\n\n\n---\n\n**Support Pollinations.AI:**\n\n---\n\n🌸 **Ad** 🌸\nPowered by Pollinations.AI free text APIs. [Support our mission](https://pollinations.ai/redirect/kofi) to keep AI accessible for everyone.",
+    "timestamp": "2026-03-25T19:37:17.467Z"
+  }
+]

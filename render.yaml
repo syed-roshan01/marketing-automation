@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: zyqora
+    env: node
+    plan: free
+    buildCommand: npm install --include=dev && npm run build:react
+    startCommand: node server/index.js
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 10000
+      - key: ZYQORA_DATA
+        value: /data
+    disk:
+      name: zyqora-data
+      mountPath: /data
+      sizeGB: 1

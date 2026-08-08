@@ -1,0 +1,18 @@
+{
+  "minDelay": 20,
+  "maxDelay": 35,
+  "batchSize": 15,
+  "batchPauseMin": 180,
+  "batchPauseMax": 300,
+  "dailyLimit": 150,
+  "delayEnabled": true,
+  "batchEnabled": true,
+  "dailyLimitEnabled": true,
+  "typingEnabled": true,
+  "typingMin": 3,
+  "typingMax": 7,
+  "companyName": "Zyqora",
+  "companyPhone": "9217758442",
+  "companyEmail": "support@zyqora.in",
+  "companyWebsite": "zyqora.in"
+}

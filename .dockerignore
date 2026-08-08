@@ -1,0 +1,8 @@
+node_modules
+dist
+renderer/node_modules
+public/node_modules
+.git
+*.log
+tmp
+*.md

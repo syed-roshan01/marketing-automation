@@ -1,0 +1,108 @@
+[
+  {
+    "id": "d7b14d2b-95a7-46b5-91d8-82835cc7b6cc",
+    "name": "t1",
+    "description": "",
+    "sessionIds": [
+      "d7277405-6568-44aa-8bf0-7ad316284deb",
+      "90391c56-8609-4561-a093-58b2d07ea780"
+    ],
+    "targetType": "all",
+    "triggerKeywords": [
+      "Hi"
+    ],
+    "matchType": "exact",
+    "matchCase": false,
+    "cooldownMinutes": 0,
+    "messageDelaySeconds": 0,
+    "skipOptedOut": false,
+    "active": true,
+    "nodes": [
+      {
+        "id": "7330fe8d-af98-46c9-b2dd-75e943741ffe",
+        "name": "t1",
+        "type": "message",
+        "messageType": "template",
+        "content": "",
+        "templateId": "2c57c0f4-ae14-41ed-a305-c3414fb5796d",
+        "attachmentType": null,
+        "attachmentFile": null,
+        "nextNode": "auto",
+        "order": 0
+      }
+    ],
+    "totalConversations": 35,
+    "createdAt": "2026-03-25T14:45:46.210Z"
+  },
+  {
+    "id": "43b1516c-607a-4a43-afcb-e4889a844198",
+    "name": "t2",
+    "description": "",
+    "sessionIds": [
+      "d7277405-6568-44aa-8bf0-7ad316284deb",
+      "90391c56-8609-4561-a093-58b2d07ea780"
+    ],
+    "targetType": "individual",
+    "triggerKeywords": [
+      "Yes"
+    ],
+    "matchType": "exact",
+    "matchCase": true,
+    "cooldownMinutes": 0,
+    "messageDelaySeconds": 0,
+    "skipOptedOut": false,
+    "active": true,
+    "nodes": [
+      {
+        "id": "54512e0d-1d62-4aa4-80af-96d14e799368",
+        "name": "t2",
+        "type": "message",
+        "messageType": "template",
+        "content": "",
+        "templateId": "abad8773-823a-4d35-bd00-b9e062855074",
+        "attachmentType": null,
+        "attachmentFile": null,
+        "nextNode": "auto",
+        "order": 0
+      }
+    ],
+    "totalConversations": 18,
+    "createdAt": "2026-03-25T16:04:47.020Z"
+  },
+  {
+    "id": "c32cd10e-39b6-4898-92c6-14f71fa19a24",
+    "name": "t3",
+    "description": "",
+    "sessionIds": [
+      "d7277405-6568-44aa-8bf0-7ad316284deb",
+      "90391c56-8609-4561-a093-58b2d07ea780"
+    ],
+    "targetType": "individual",
+    "triggerKeywords": [
+      "No",
+      "no"
+    ],
+    "matchType": "exact",
+    "matchCase": true,
+    "cooldownMinutes": 0,
+    "messageDelaySeconds": 0,
+    "skipOptedOut": false,
+    "active": true,
+    "nodes": [
+      {
+        "id": "a571c828-e023-4d0e-a7bb-e02b49238431",
+        "name": "t3",
+        "type": "message",
+        "messageType": "template",
+        "content": "",
+        "templateId": "2c206fd0-ea6b-45c0-bfcb-83f0089becf5",
+        "attachmentType": null,
+        "attachmentFile": null,
+        "nextNode": "auto",
+        "order": 0
+      }
+    ],
+    "totalConversations": 22,
+    "createdAt": "2026-03-25T16:09:52.988Z"
+  }
+]

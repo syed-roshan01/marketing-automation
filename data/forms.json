@@ -1,0 +1,319 @@
+[
+  {
+    "id": "02c3e729-8ccd-4f1e-804f-a8381daa821a",
+    "name": "Lead Capture Form",
+    "description": "Capture prospect name, email, phone, and interest",
+    "active": true,
+    "sessionIds": [
+      "90391c56-8609-4561-a093-58b2d07ea780"
+    ],
+    "targetType": "all",
+    "triggerKeywords": [
+      "lead",
+      "interested"
+    ],
+    "matchType": "exact",
+    "fields": [
+      {
+        "id": "c826e163-82ba-4456-b519-c36f446343b1",
+        "type": "text",
+        "label": "What is your full name?",
+        "placeholder": "Enter your full name",
+        "required": true,
+        "order": 0,
+        "options": [],
+        "validation": {}
+      },
+      {
+        "id": "ce8e1d65-83a8-411a-b1a8-47b78141139d",
+        "type": "email",
+        "label": "What is your email address?",
+        "placeholder": "you@example.com",
+        "required": true,
+        "order": 1,
+        "options": [],
+        "validation": {}
+      },
+      {
+        "id": "a9993998-d675-4f86-8caa-923b36af28a6",
+        "type": "phone",
+        "label": "What is your phone number?",
+        "placeholder": "+91 9999999999",
+        "required": true,
+        "order": 2,
+        "options": [],
+        "validation": {}
+      },
+      {
+        "id": "00f3a284-2347-4e3c-aa61-a3d0ca50b7dc",
+        "type": "dropdown",
+        "label": "What are you interested in?",
+        "placeholder": "",
+        "required": true,
+        "order": 3,
+        "options": [
+          "Product Demo",
+          "Pricing Info",
+          "Partnership",
+          "Other"
+        ],
+        "validation": {}
+      },
+      {
+        "id": "7d142801-312d-4a53-9894-ae9e90af82d5",
+        "type": "confirmation",
+        "label": "Confirm your details",
+        "placeholder": "",
+        "required": false,
+        "order": 4,
+        "options": [],
+        "validation": {},
+        "confirmLabel": "",
+        "restartLabel": ""
+      }
+    ],
+    "successMessage": "Thank you! Our team will reach out to you shortly.",
+    "webhookUrl": "",
+    "totalSubmissions": 10,
+    "createdAt": "2026-03-28T10:19:43.958Z",
+    "updatedAt": "2026-03-30T10:59:09.386Z"
+  },
+  {
+    "id": "31d31b36-33a2-4286-bd2d-b78024b49fdc",
+    "name": "test",
+    "description": "",
+    "active": false,
+    "sessionIds": [
+      "90391c56-8609-4561-a093-58b2d07ea780"
+    ],
+    "targetType": "all",
+    "triggerKeywords": [
+      "hi"
+    ],
+    "matchType": "exact",
+    "fields": [
+      {
+        "id": "e9ccdd96-ec60-4661-9dc9-e4a573a64181",
+        "type": "date",
+        "label": "pick date",
+        "placeholder": "",
+        "required": true,
+        "order": 0,
+        "options": [],
+        "validation": {}
+      },
+      {
+        "id": "337fb344-1543-4ff2-beed-8e3c80066551",
+        "type": "time",
+        "label": "pick time",
+        "placeholder": "",
+        "required": true,
+        "order": 1,
+        "options": [],
+        "validation": {}
+      }
+    ],
+    "successMessage": "Thank you! Your response has been recorded.",
+    "webhookUrl": "",
+    "totalSubmissions": 2,
+    "createdAt": "2026-03-28T10:52:07.810Z",
+    "updatedAt": "2026-03-28T16:55:41.973Z"
+  },
+  {
+    "id": "9c68506e-7659-4e85-b138-eb0844b23c43",
+    "name": "final test",
+    "description": "",
+    "active": true,
+    "sessionIds": [
+      "90391c56-8609-4561-a093-58b2d07ea780"
+    ],
+    "targetType": "all",
+    "triggerKeywords": [
+      "book now"
+    ],
+    "matchType": "exact",
+    "fields": [
+      {
+        "id": "b8d6377d-8cec-4151-9d5f-b2fc088ffe48",
+        "type": "text",
+        "label": "enter your name",
+        "placeholder": "",
+        "required": true,
+        "order": 0,
+        "options": [],
+        "validation": {}
+      },
+      {
+        "id": "6465d6d3-cf0c-4b67-8076-adc384b3274c",
+        "type": "number",
+        "label": "enter your number",
+        "placeholder": "",
+        "required": true,
+        "order": 1,
+        "options": [],
+        "validation": {}
+      },
+      {
+        "id": "b9727584-93ce-4bf8-941a-84d3fbc50dc7",
+        "type": "email",
+        "label": "enter your email",
+        "placeholder": "",
+        "required": true,
+        "order": 2,
+        "options": [],
+        "validation": {}
+      },
+      {
+        "id": "39eb7233-5487-4a86-a593-14b988b8c2e4",
+        "type": "dropdown",
+        "label": "why do you want to book appointment",
+        "placeholder": "",
+        "required": true,
+        "order": 3,
+        "options": [
+          "cleaning",
+          "cooking",
+          "singing",
+          "dancing"
+        ],
+        "validation": {}
+      },
+      {
+        "id": "fc6e7347-462f-40b3-a6f1-865d055d5999",
+        "type": "date",
+        "label": "On what date looking for appointment",
+        "placeholder": "",
+        "required": true,
+        "order": 4,
+        "options": [],
+        "validation": {}
+      },
+      {
+        "id": "27ae7d91-2dce-48dc-92b6-269dfc0d6fd4",
+        "type": "time",
+        "label": "on what time are you looking for appointment",
+        "placeholder": "",
+        "required": true,
+        "order": 5,
+        "options": [],
+        "validation": {}
+      },
+      {
+        "id": "ef071050-aee4-4fa6-b352-05fa82b4f7c5",
+        "type": "confirmation",
+        "label": "",
+        "placeholder": "",
+        "required": true,
+        "order": 6,
+        "options": [],
+        "validation": {},
+        "confirmLabel": "",
+        "restartLabel": ""
+      }
+    ],
+    "successMessage": "Thank you! Your response has been recorded.",
+    "webhookUrl": "",
+    "totalSubmissions": 6,
+    "createdAt": "2026-03-28T14:50:27.892Z",
+    "updatedAt": "2026-03-30T10:59:18.514Z"
+  },
+  {
+    "id": "a92b8839-8401-417c-89fe-f89423a62f35",
+    "name": "Demo Request",
+    "description": "Gather company info and schedule a product demonstration.",
+    "active": true,
+    "sessionIds": [
+      "90391c56-8609-4561-a093-58b2d07ea780"
+    ],
+    "targetType": "all",
+    "triggerKeywords": [
+      "demo",
+      "request demo"
+    ],
+    "matchType": "exact",
+    "fields": [
+      {
+        "id": "9726a673-27b1-4525-9ddc-052390c8878c",
+        "type": "text",
+        "label": "Your name",
+        "placeholder": "Full name",
+        "required": true,
+        "order": 0,
+        "options": [],
+        "validation": {}
+      },
+      {
+        "id": "1694602a-5675-4e62-a463-61b6e4a8b345",
+        "type": "text",
+        "label": "Company name",
+        "placeholder": "Your company",
+        "required": true,
+        "order": 1,
+        "options": [],
+        "validation": {}
+      },
+      {
+        "id": "9cb44637-5c29-438b-aaa1-ff43fb0a590d",
+        "type": "email",
+        "label": "Business email",
+        "placeholder": "you@company.com",
+        "required": true,
+        "order": 2,
+        "options": [],
+        "validation": {}
+      },
+      {
+        "id": "3556f6c8-82b4-419c-9386-fb006d3578ed",
+        "type": "phone",
+        "label": "Contact number",
+        "placeholder": "+91 9999999999",
+        "required": true,
+        "order": 3,
+        "options": [],
+        "validation": {}
+      },
+      {
+        "id": "b999d4f7-bf7f-4811-9d78-b2e7672bf81a",
+        "type": "dropdown",
+        "label": "Company size",
+        "placeholder": "",
+        "required": true,
+        "order": 4,
+        "options": [
+          "1-10",
+          "11-50",
+          "51-200",
+          "200+"
+        ],
+        "validation": {}
+      },
+      {
+        "id": "5179be40-b895-420f-b06d-cc6bdf9e6324",
+        "type": "date",
+        "label": "Preferred demo date",
+        "placeholder": "25 March 2026",
+        "required": true,
+        "order": 5,
+        "options": [],
+        "validation": {}
+      },
+      {
+        "id": "dd6954b2-bf40-4c7a-8853-7428fb40c0c4",
+        "type": "confirmation",
+        "label": "Confirm request",
+        "placeholder": "",
+        "required": false,
+        "order": 6,
+        "options": [],
+        "validation": {},
+        "confirmLabel": "",
+        "restartLabel": ""
+      }
+    ],
+    "successMessage": "🎯 Demo request received! Our sales team will schedule your session.",
+    "webhookUrl": "",
+    "totalSubmissions": 1,
+    "createdAt": "2026-03-29T18:32:35.013Z",
+    "updatedAt": "2026-03-29T18:33:59.460Z"
+  }
+]
