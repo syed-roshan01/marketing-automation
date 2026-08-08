@@ -63,6 +63,11 @@ app.get('/{*path}', (_req, res) => {
     res.sendFile(path.join(__dirname, '..', 'public', 'index.html'));
 });
 
+// Simple health endpoint for uptime checks
+app.get('/health', (_req, res) => {
+    res.json({ status: 'ok', timestamp: Date.now() });
+});
+
 // ── Device socket events ──────────────────────────────────────────────────────
 // Track which devices have successfully connected in this session.
 // Used to gate disconnect notifications (avoids noise during QR scan).
