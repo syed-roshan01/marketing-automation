@@ -156,6 +156,12 @@ const OPTOUT_SETTINGS_DEFAULT = {
     subscribeMsg:   'You have been subscribed to our messages. Reply UNSUBSCRIBE to unsubscribe. Thanks',
     unsubscribeMsg: 'You have been unsubscribed from our messages. Reply SUBSCRIBE to opt back in. Thanks',
 };
+// Backwards-compatible default keywords (allows UI to edit/enable/disable)
+OPTOUT_SETTINGS_DEFAULT.keywords = [
+    { word: 'UNSUBSCRIBE', type: 'optout', enabled: true, match: 'exact' },
+    { word: 'SUBSCRIBE',   type: 'optin',  enabled: true, match: 'exact' },
+    { word: 'INTERESTED',  type: 'optin',  enabled: true, match: 'contains' },
+];
 async function getOptoutRecords() {
     return readJSON(FILES.optout, []);
 }

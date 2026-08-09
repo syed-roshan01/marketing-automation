@@ -54,6 +54,8 @@ class DeviceManager extends EventEmitter {
         });
         inst.on('optout_keyword', (payload) => this.emit('optout_keyword', { ...payload, deviceId }));
         inst.on('incoming_message', (payload) => this.emit('incoming_message', { ...payload, deviceId }));
+        // Fast-path incoming message event forwarded for instant-send flows
+        inst.on('incoming_message_quick', (payload) => this.emit('incoming_message_quick', { ...payload, deviceId }));
 
         inst.initialize();
         return inst;

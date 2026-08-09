@@ -336,10 +336,23 @@ export default function OptOutManagement() {
                     <div style={{ background: 'rgba(59,130,246,.06)', border: '1px solid rgba(59,130,246,.25)', borderRadius: 'var(--radius)', padding: 16 }}>
                         <div style={{ fontWeight: 700, color: '#3b82f6', marginBottom: 8 }}>Automatic Keywords</div>
                         <div style={{ fontSize: 12, color: 'var(--txt3)', marginBottom: 10 }}>The following keywords are automatically processed:</div>
-                        <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
-                            <span style={{ padding: '4px 12px', borderRadius: 20, background: 'rgba(239,68,68,.12)', color: '#ef4444', fontWeight: 700, fontSize: 12 }}>UNSUBSCRIBE (Opt-Out)</span>
-                            <span style={{ padding: '4px 12px', borderRadius: 20, background: 'rgba(34,197,94,.12)', color: '#22c55e', fontWeight: 700, fontSize: 12 }}>SUBSCRIBE (Opt-In)</span>
-                        </div>
+                            <div style={{ display: 'flex', flexDirection: 'column', gap: 10 }}>
+                                <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
+                                    {(settings.keywords || []).map((k, i) => (
+                                        <div key={i} style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+                                            <label style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+                                                <input type="checkbox" checked={k.enabled} onChange={e => setSettings(s => {
+                                                    const nw = [...(s.keywords || [])]; nw[i] = { ...nw[i], enabled: e.target.checked }; return { ...s, keywords: nw };
+                                                })} />
+                                            </label>
+                                            <div style={{ padding: '6px 10px', borderRadius: 16, background: k.type === 'optout' ? 'rgba(239,68,68,.06)' : 'rgba(34,197,94,.06)', fontWeight: 700, fontSize: 13 }}>
+                                                {k.word} ({k.match}) · {k.type === 'optout' ? 'Opt-Out' : 'Opt-In'}
+                                            </div>
+                                        </div>
+                                    ))}
+                                </div>
+                                <div style={{ fontSize: 12, color: 'var(--txt3)' }}>Manage keywords below to enable/disable or add new opt-in/opt-out phrases.</div>
+                            </div>
                     </div>
 
                     {/* Auto-response messages */}
@@ -366,6 +379,35 @@ export default function OptOutManagement() {
                                 onClick={saveSettings} disabled={savingSettings}>
                                 {savingSettings ? 'Saving…' : 'Save Settings'}
                             </button>
+                        </div>
+                    </div>
+
+                    {/* Keyword editor */}
+                    <div style={{ background: 'var(--card)', border: '1px solid var(--border)', borderRadius: 'var(--radius)', padding: 18 }}>
+                        <div style={{ fontWeight: 700, marginBottom: 8 }}>Keyword Editor</div>
+                        <div style={{ fontSize: 12, color: 'var(--txt3)', marginBottom: 12 }}>Add, edit, enable or disable automatic keywords that trigger opt-in or opt-out.</div>
+                        {(settings.keywords || []).map((k, i) => (
+                            <div key={i} style={{ display: 'grid', gridTemplateColumns: '1fr 140px 120px 80px', gap: 8, marginBottom: 8, alignItems: 'center' }}>
+                                <input type="text" value={k.word} onChange={e => setSettings(s => { const nw = [...(s.keywords||[])]; nw[i] = { ...nw[i], word: e.target.value }; return { ...s, keywords: nw }; })} />
+                                <select value={k.type} onChange={e => setSettings(s => { const nw = [...(s.keywords||[])]; nw[i] = { ...nw[i], type: e.target.value }; return { ...s, keywords: nw }; })}>
+                                    <option value="optout">Opt-Out</option>
+                                    <option value="optin">Opt-In</option>
+                                </select>
+                                <select value={k.match} onChange={e => setSettings(s => { const nw = [...(s.keywords||[])]; nw[i] = { ...nw[i], match: e.target.value }; return { ...s, keywords: nw }; })}>
+                                    <option value="exact">Exact</option>
+                                    <option value="contains">Contains</option>
+                                </select>
+                                <div style={{ display: 'flex', gap: 6, alignItems: 'center' }}>
+                                    <label style={{ display: 'flex', alignItems: 'center', gap: 6 }}>
+                                        <input type="checkbox" checked={k.enabled} onChange={e => setSettings(s => { const nw = [...(s.keywords||[])]; nw[i] = { ...nw[i], enabled: e.target.checked }; return { ...s, keywords: nw }; })} />
+                                    </label>
+                                    <button className="btn btn-ghost" onClick={() => setSettings(s => ({ ...s, keywords: (s.keywords||[]).filter((_, idx) => idx !== i) }))}>Remove</button>
+                                </div>
+                            </div>
+                        ))}
+                        <div style={{ display: 'flex', gap: 8, marginTop: 8 }}>
+                            <button className="btn" onClick={() => setSettings(s => ({ ...s, keywords: [...(s.keywords||[]), { word: '', type: 'optin', enabled: true, match: 'contains' }] }))}>+ Add Keyword</button>
+                            <div style={{ marginLeft: 'auto', color: 'var(--txt3)', fontSize: 12, display: 'flex', alignItems: 'center', gap: 8 }}>Remember to press Save Settings to apply changes</div>
                         </div>
                     </div>
 

@@ -1,22 +1,22 @@
 [
   {
-    "id": "93eb9491-d121-43f7-a093-b83612a0e474",
-    "name": "dscs",
-    "content": "aksjnxdwkaskdx aks\naskdnjwkd",
-    "templateType": "buttons",
-    "mediaType": null,
+    "id": "6bbd1f64-7776-48b9-a9c4-5448924d9dbc",
+    "name": "Epaper Welcome",
+    "content": "Hi Sir 👋\n\nKya aap bhi apne newspaper ko Digital & AI-Powered News Platform mein convert karna chahte hain?\n\n📰 Interactive E-Paper – PDF ki har news ko clickable banayein\n🤖 AI News Publishing – news ko automatically publish karein\n🌐 Multi-Language AI – ek hi news ko multiple languages mein automatically publish karein\n📱 Modern News Portal – readers ko better digital experience dein\n\nWould you like to see a LIVE DEMO?\n",
+    "templateType": "interactive",
+    "mediaType": "image",
     "buttonType": "quick-reply",
     "buttons": [
       {
         "type": "quick_reply",
-        "label": "Yes",
+        "label": "🟢 Yes- Show Me Demo",
         "url": "",
         "phone": "",
         "copyCode": ""
       },
       {
         "type": "quick_reply",
-        "label": "NO",
+        "label": "🔴 No- Thank You",
         "url": "",
         "phone": "",
         "copyCode": ""
@@ -38,26 +38,35 @@
     "locationLat": "",
     "locationLng": "",
     "mediaFile": null,
-    "createdAt": "2026-03-11T23:38:41.021Z"
+    "createdAt": "2026-08-09T19:56:57.536Z",
+    "imageFile": "6bbd1f64-7776-48b9-a9c4-5448924d9dbc.png",
+    "updatedAt": "2026-08-09T21:26:28.062Z"
   },
   {
-    "id": "2c57c0f4-ae14-41ed-a305-c3414fb5796d",
-    "name": "t1",
-    "content": "Hi,\n*thank you* for choosing us.\nare you interested in our product?",
-    "templateType": "buttons",
-    "mediaType": null,
+    "id": "cbae6f81-f4d9-42eb-b916-4e461ed3985c",
+    "name": "Yes Template",
+    "content": "Absolutely, Sir! 🚀\n\nHere are some of the live newspaper & news portals we've developed for our clients:\n\n📰 Awaz E Bihar – News Portal\nhttps://awazebihar.com/hi\n\n📄 Awaz E Bihar – Interactive E-Paper\nhttps://awazebihar.com/epaper\n\n📰 Manthan Today – News Portal\nhttps://www.manthantoday.in/en\n\n📰 Ujala Patrika – News Portal\nhttps://www.ujalapatrika.com/hi\n\n📰 Lok Nayak Samvad – News Portal\nhttps://www.loknayaksamvad.com/hi\n\n💡 Feel free to open these links and explore the platforms.\n\nWould you like a similar platform for your newspaper?",
+    "templateType": "interactive",
+    "mediaType": "image",
     "buttonType": "quick-reply",
     "buttons": [
       {
         "type": "quick_reply",
-        "label": "Yes",
+        "label": "🟢 Yes, I'm Interested",
         "url": "",
         "phone": "",
         "copyCode": ""
       },
       {
         "type": "quick_reply",
-        "label": "No",
+        "label": "🟡 Tell Me More",
+        "url": "",
+        "phone": "",
+        "copyCode": ""
+      },
+      {
+        "type": "quick_reply",
+        "label": "🔴 Just Exploring",
         "url": "",
         "phone": "",
         "copyCode": ""
@@ -79,135 +88,19 @@
     "locationLat": "",
     "locationLng": "",
     "mediaFile": null,
-    "createdAt": "2026-03-25T14:41:28.807Z"
+    "createdAt": "2026-08-09T20:05:22.256Z",
+    "updatedAt": "2026-08-09T20:51:49.232Z"
   },
   {
-    "id": "abad8773-823a-4d35-bd00-b9e062855074",
-    "name": "t2",
-    "content": "Ok let's more forward",
-    "templateType": "buttons",
+    "id": "29b0b04e-9936-41ca-9d98-5f6aa662a0e1",
+    "name": "Interested",
+    "content": "Our team will contact you shortly to understand your requirements and show you how our AI-powered digital newspaper platform can help your publication.\n\nWe look forward to speaking with you! 🤝",
+    "templateType": "text",
     "mediaType": null,
-    "buttonType": "quick-reply",
-    "buttons": [
-      {
-        "type": "quick_reply",
-        "label": "Yeah",
-        "url": "",
-        "phone": "",
-        "copyCode": ""
-      },
-      {
-        "type": "quick_reply",
-        "label": "Got it",
-        "url": "",
-        "phone": "",
-        "copyCode": ""
-      }
-    ],
-    "listButtonText": "View Options",
-    "listSections": [],
-    "cards": [],
-    "carouselTitle": "",
-    "carouselSubtitle": "",
-    "carouselFooter": "",
-    "pollQuestion": "",
-    "pollOptions": [],
-    "variables": [],
-    "contactName": "",
-    "contactPhone": "",
-    "locationName": "",
-    "locationAddress": "",
-    "locationLat": "",
-    "locationLng": "",
-    "mediaFile": null,
-    "createdAt": "2026-03-25T14:41:56.818Z"
-  },
-  {
-    "id": "2c206fd0-ea6b-45c0-bfcb-83f0089becf5",
-    "name": "t3",
-    "content": "Aha sorry that you did'nt like it\nwould you like any discount?",
-    "templateType": "buttons",
-    "mediaType": null,
-    "buttonType": "quick-reply",
-    "buttons": [
-      {
-        "type": "quick_reply",
-        "label": "Discount",
-        "url": "",
-        "phone": "",
-        "copyCode": ""
-      },
-      {
-        "type": "quick_reply",
-        "label": "Nope",
-        "url": "",
-        "phone": "",
-        "copyCode": ""
-      }
-    ],
-    "listButtonText": "View Options",
-    "listSections": [],
-    "cards": [],
-    "carouselTitle": "",
-    "carouselSubtitle": "",
-    "carouselFooter": "",
-    "pollQuestion": "",
-    "pollOptions": [],
-    "variables": [],
-    "contactName": "",
-    "contactPhone": "",
-    "locationName": "",
-    "locationAddress": "",
-    "locationLat": "",
-    "locationLng": "",
-    "mediaFile": null,
-    "createdAt": "2026-03-25T14:43:24.276Z"
-  },
-  {
-    "id": "9df10d1a-c794-40eb-bc1d-0d0a5b4dbc5b",
-    "name": "list message",
-    "content": "Hi {{name}}",
-    "templateType": "list",
-    "mediaType": null,
-    "buttonType": "list",
+    "buttonType": "none",
     "buttons": [],
     "listButtonText": "View Options",
-    "listSections": [
-      {
-        "title": "This is your option 1",
-        "rows": [
-          {
-            "title": "how is this looking",
-            "description": ""
-          },
-          {
-            "title": "fine",
-            "description": ""
-          },
-          {
-            "title": "not fine?",
-            "description": ""
-          }
-        ]
-      },
-      {
-        "title": "This is your second section",
-        "rows": [
-          {
-            "title": "this one",
-            "description": ""
-          },
-          {
-            "title": "fine",
-            "description": ""
-          },
-          {
-            "title": "not fine",
-            "description": ""
-          }
-        ]
-      }
-    ],
+    "listSections": [],
     "cards": [],
     "carouselTitle": "",
     "carouselSubtitle": "",
@@ -222,6 +115,33 @@
     "locationLat": "",
     "locationLng": "",
     "mediaFile": null,
-    "createdAt": "2026-03-28T10:41:46.870Z"
+    "createdAt": "2026-08-09T20:55:38.050Z",
+    "updatedAt": "2026-08-09T21:15:47.967Z"
+  },
+  {
+    "id": "589cf276-40b3-40db-a33a-b11862cbf1e7",
+    "name": "Tell More",
+    "content": "Thank you for your interest! 🙌\n\nOur team will contact you shortly to understand your requirements and show you how our AI-powered digital newspaper platform can help your publication.\n\nWe look forward to speaking with you! 🤝",
+    "templateType": "text",
+    "mediaType": null,
+    "buttonType": "none",
+    "buttons": [],
+    "listButtonText": "View Options",
+    "listSections": [],
+    "cards": [],
+    "carouselTitle": "",
+    "carouselSubtitle": "",
+    "carouselFooter": "",
+    "pollQuestion": "",
+    "pollOptions": [],
+    "variables": [],
+    "contactName": "",
+    "contactPhone": "",
+    "locationName": "",
+    "locationAddress": "",
+    "locationLat": "",
+    "locationLng": "",
+    "mediaFile": null,
+    "createdAt": "2026-08-09T21:02:09.853Z"
   }
 ]

@@ -14,5 +14,13 @@
     "messageType": "all",
     "reason": "Keyword: UNSUBSCRIBE",
     "date": "2026-03-25T17:08:22.895Z"
+  },
+  {
+    "phone": "919886096433",
+    "name": "",
+    "type": "optin",
+    "messageType": "all",
+    "reason": "Keyword: INTERESTED",
+    "date": "2026-08-09T21:59:59.675Z"
   }
 ]

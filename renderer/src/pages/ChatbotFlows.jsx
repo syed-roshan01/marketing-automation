@@ -14,7 +14,7 @@ function uid() {
     });
 }
 
-const EMPTY_FLOW = { name: '', description: '', sessionIds: [], targetType: 'all', triggerKeywords: '', matchType: 'exact', matchCase: false, cooldownMinutes: 0, messageDelaySeconds: 0, skipOptedOut: false };
+const EMPTY_FLOW = { name: '', description: '', sessionIds: [], targetType: 'all', triggerKeywords: '', matchType: 'exact', matchCase: false, cooldownMinutes: 0, messageDelaySeconds: 0, skipOptedOut: false, instantSend: false };
 const EMPTY_NODE = { name: '', messageType: 'text', content: '', templateId: '', attachmentType: 'image', attachmentFile: null, _localFileName: null, nextNode: 'auto' };
 
 export default function ChatbotFlows() {
@@ -491,6 +491,18 @@ export default function ChatbotFlows() {
                                             onChange={e => setFlowForm(f => ({ ...f, messageDelaySeconds: e.target.value }))} style={inp} />
                                         <p style={{ fontSize: 11, color: 'var(--txt3)', marginTop: 4 }}>Delay before sending each message (0-60 seconds)</p>
                                     </div>
+                                </div>
+                                <div style={{ marginTop: 12 }}>
+                                    <label style={{ display: 'flex', alignItems: 'center', gap: 8, cursor: 'pointer', userSelect: 'none' }}>
+                                        <input
+                                            type="checkbox"
+                                            checked={flowForm.instantSend === true}
+                                            onChange={e => setFlowForm(f => ({ ...f, instantSend: e.target.checked }))}
+                                            style={{ width: 15, height: 15, cursor: 'pointer' }}
+                                        />
+                                        <span style={{ fontSize: 13, color: 'var(--txt2)' }}>Instant send (bypass typing simulation)</span>
+                                    </label>
+                                    <p style={{ fontSize: 11, color: 'var(--txt3)', marginTop: 6 }}>When enabled, this flow will send replies immediately without showing typing indicators.</p>
                                 </div>
 
                                 <div style={{ marginTop: 12 }}>

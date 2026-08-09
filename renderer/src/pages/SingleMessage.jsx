@@ -161,10 +161,28 @@ export default function SingleMessage() {
                                 No connected devices. Go to <strong>Devices</strong> and connect one first.
                             </p>
                         ) : (
-                            <select value={deviceId} onChange={e => setDeviceId(e.target.value)} style={{ width: '100%' }}>
-                                <option value="">-- Choose device --</option>
-                                {devices.map(d => <option key={d.id} value={d.id}>{d.name}</option>)}
-                            </select>
+                            <div style={{ display: 'flex', gap: 10, flexWrap: 'wrap' }}>
+                                {devices.map(d => {
+                                    const selected = deviceId === d.id;
+                                    return (
+                                        <label key={d.id} onClick={() => setDeviceId(d.id)} style={{
+                                            display: 'flex', alignItems: 'center', gap: 12, padding: '10px 12px',
+                                            borderRadius: '10px', cursor: 'pointer', minWidth: 180,
+                                            background: selected ? 'var(--green-dim)' : 'var(--bg2)',
+                                            border: '1.5px solid ' + (selected ? 'rgba(37,211,102,.25)' : 'transparent')
+                                        }}>
+                                            <input type="radio" name="device" checked={selected} onChange={() => setDeviceId(d.id)} style={{ flexShrink: 0 }} />
+                                            <div style={{ display: 'flex', flexDirection: 'column' }}>
+                                                <div style={{ fontWeight: 700 }}>{d.name}</div>
+                                                <div style={{ fontSize: 12, color: 'var(--txt3)' }}>{d.number || d.id}</div>
+                                            </div>
+                                            <div style={{ marginLeft: 'auto', fontSize: 12, color: d.status === 'connected' ? 'var(--green)' : 'var(--txt3)', fontWeight: 700 }}>
+                                                {d.status}
+                                            </div>
+                                        </label>
+                                    );
+                                })}
+                            </div>
                         )}
                     </div>
                 </div>
@@ -301,10 +319,26 @@ export default function SingleMessage() {
                         {msgType === 'template' && (
                             <div className="form-group" style={{ marginBottom: 0 }}>
                                 <label style={{ fontSize: 13, color: 'var(--txt2)', display: 'block', marginBottom: 6 }}>Template</label>
-                                <select value={templateId} onChange={e => pickTemplate(e.target.value)} style={{ width: '100%' }}>
-                                    <option value="">-- Select template --</option>
-                                    {templates.map(t => <option key={t.id} value={t.id}>{t.name}</option>)}
-                                </select>
+                                <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(200px, 1fr))', gap: 10 }}>
+                                    {templates.length === 0 && <div style={{ color: 'var(--txt3)' }}>No templates available.</div>}
+                                    {templates.map(t => {
+                                        const selected = templateId === t.id;
+                                        return (
+                                            <label key={t.id} onClick={() => pickTemplate(t.id)} style={{
+                                                display: 'flex', flexDirection: 'column', gap: 8, padding: 10,
+                                                borderRadius: 10, cursor: 'pointer', minHeight: 80,
+                                                background: selected ? 'var(--green-dim)' : 'var(--bg2)',
+                                                border: '1.5px solid ' + (selected ? 'rgba(37,211,102,.25)' : 'transparent')
+                                            }}>
+                                                <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+                                                    <input type="radio" name="template" checked={selected} onChange={() => pickTemplate(t.id)} style={{ flexShrink: 0 }} />
+                                                    <div style={{ fontWeight: 700 }}>{t.name}</div>
+                                                </div>
+                                                <div style={{ fontSize: 12, color: 'var(--txt3)', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>{t.content}</div>
+                                            </label>
+                                        );
+                                    })}
+                                </div>
                             </div>
                         )}
                         <div className="form-group" style={{ marginBottom: 0 }}>

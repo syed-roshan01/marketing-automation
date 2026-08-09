@@ -6012,5 +6012,497 @@
     "notes": [],
     "tags": [],
     "createdAt": "2026-03-30T17:18:57.393Z"
+  },
+  {
+    "id": "lc_1786306781009",
+    "jid": "919945390672@s.whatsapp.net",
+    "phone": "919945390672",
+    "deviceId": "238c7a27-2928-4fec-acaf-b4cfb67b9976",
+    "sessionId": "238c7a27-2928-4fec-acaf-b4cfb67b9976",
+    "name": "919945390672",
+    "contactName": "919945390672",
+    "status": "active",
+    "unreadCount": 2,
+    "lastMessage": "🟢 Yes, Show Me Demo",
+    "lastMessageTime": "2026-08-09T20:30:16.527Z",
+    "lastMessageAt": "2026-08-09T20:30:16.527Z",
+    "messages": [
+      {
+        "id": "msg_1786306781009",
+        "fromMe": false,
+        "body": "🟢 Yes, Show Me Demo",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T20:19:41.009Z"
+      },
+      {
+        "id": "msg_1786307416528",
+        "fromMe": false,
+        "body": "🟢 Yes, Show Me Demo",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T20:30:16.527Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-08-09T20:19:41.009Z"
+  },
+  {
+    "id": "lc_1786308055217",
+    "jid": "919886096433@s.whatsapp.net",
+    "phone": "919886096433",
+    "deviceId": "238c7a27-2928-4fec-acaf-b4cfb67b9976",
+    "sessionId": "238c7a27-2928-4fec-acaf-b4cfb67b9976",
+    "name": "919886096433",
+    "contactName": "919886096433",
+    "status": "active",
+    "unreadCount": 42,
+    "lastMessage": "🟡 Tell Me More",
+    "lastMessageTime": "2026-08-09T22:00:59.986Z",
+    "lastMessageAt": "2026-08-09T22:00:59.986Z",
+    "messages": [
+      {
+        "id": "msg_1786308055217",
+        "fromMe": false,
+        "body": "🟢 Yes, Show Me Demo",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T20:40:55.217Z"
+      },
+      {
+        "id": "msg_1786308114334",
+        "fromMe": false,
+        "body": "🟢 Yes, Show Me Demo",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T20:41:54.334Z"
+      },
+      {
+        "id": "msg_1786308281417",
+        "fromMe": false,
+        "body": "🟢 Yes, I'm Interested",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T20:44:41.417Z"
+      },
+      {
+        "id": "msg_1786308504970",
+        "fromMe": false,
+        "body": "🟢 Yes- Show Me Demo",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T20:48:24.970Z"
+      },
+      {
+        "id": "msg_1786308575465",
+        "fromMe": false,
+        "body": "🟢 Yes, I'm Interested",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T20:49:35.465Z"
+      },
+      {
+        "id": "msg_1786309052336",
+        "fromMe": false,
+        "body": "🟢 Yes- Show Me Demo",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T20:57:32.336Z"
+      },
+      {
+        "id": "msg_1786309069939",
+        "fromMe": false,
+        "body": "🟢 Yes, I'm Interested",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T20:57:49.939Z"
+      },
+      {
+        "id": "msg_1786310048047",
+        "fromMe": false,
+        "body": "Epaper solution for my publications",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T21:14:08.047Z"
+      },
+      {
+        "id": "msg_1786310049111",
+        "fromMe": false,
+        "body": "🟢 Yes, I'm Interested",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T21:14:09.111Z"
+      },
+      {
+        "id": "msg_1786310049535",
+        "fromMe": false,
+        "body": "🟡 Tell Me More",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T21:14:09.535Z"
+      },
+      {
+        "id": "msg_1786310830662",
+        "fromMe": false,
+        "body": "🟢 Yes- Show Me Demo",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T21:27:10.661Z"
+      },
+      {
+        "id": "msg_1786310846593",
+        "fromMe": false,
+        "body": "🟢 Yes, I'm Interested",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T21:27:26.593Z"
+      },
+      {
+        "id": "msg_1786311095508",
+        "fromMe": false,
+        "body": "🟢 Yes- Show Me Demo",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T21:31:35.508Z"
+      },
+      {
+        "id": "msg_1786311109343",
+        "fromMe": false,
+        "body": "🟢 Yes, I'm Interested",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T21:31:49.343Z"
+      },
+      {
+        "id": "msg_1786311123918",
+        "fromMe": false,
+        "body": "🟡 Tell Me More",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T21:32:03.918Z"
+      },
+      {
+        "id": "msg_1786311377804",
+        "fromMe": false,
+        "body": "🟢 Yes- Show Me Demo",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T21:36:17.804Z"
+      },
+      {
+        "id": "msg_1786311389005",
+        "fromMe": false,
+        "body": "🟢 Yes, I'm Interested",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T21:36:29.005Z"
+      },
+      {
+        "id": "msg_1786311412961",
+        "fromMe": false,
+        "body": "Epaper solution for my publications",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T21:36:52.961Z"
+      },
+      {
+        "id": "msg_1786311427898",
+        "fromMe": false,
+        "body": "🟡 Tell Me More",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T21:37:07.897Z"
+      },
+      {
+        "id": "msg_1786311438603",
+        "fromMe": false,
+        "body": "🟢 Yes, I'm Interested",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T21:37:18.603Z"
+      },
+      {
+        "id": "msg_1786311658898",
+        "fromMe": false,
+        "body": "Epaper solution for my publications",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T21:40:58.898Z"
+      },
+      {
+        "id": "msg_1786311679262",
+        "fromMe": false,
+        "body": "🟢 Yes- Show Me Demo",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T21:41:19.262Z"
+      },
+      {
+        "id": "msg_1786311712338",
+        "fromMe": false,
+        "body": "🟢 Yes, I'm Interested",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T21:41:52.338Z"
+      },
+      {
+        "id": "msg_1786311873241",
+        "fromMe": false,
+        "body": "Epaper solution for my publications",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T21:44:33.241Z"
+      },
+      {
+        "id": "msg_1786311890663",
+        "fromMe": false,
+        "body": "🟢 Yes- Show Me Demo",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T21:44:50.663Z"
+      },
+      {
+        "id": "msg_1786311905999",
+        "fromMe": false,
+        "body": "🟢 Yes, I'm Interested",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T21:45:05.999Z"
+      },
+      {
+        "id": "msg_1786312001164",
+        "fromMe": false,
+        "body": ". O",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T21:46:41.164Z"
+      },
+      {
+        "id": "msg_1786312302338",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T21:51:42.338Z"
+      },
+      {
+        "id": "msg_1786312310662",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T21:51:50.661Z"
+      },
+      {
+        "id": "msg_1786312320136",
+        "fromMe": false,
+        "body": "Epaper solution for my publications",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T21:52:00.136Z"
+      },
+      {
+        "id": "msg_1786312341063",
+        "fromMe": false,
+        "body": "🟢 Yes- Show Me Demo",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T21:52:21.063Z"
+      },
+      {
+        "id": "msg_1786312358523",
+        "fromMe": false,
+        "body": "🟢 Yes, I'm Interested",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T21:52:38.523Z"
+      },
+      {
+        "id": "msg_1786312374025",
+        "fromMe": false,
+        "body": "🟡 Tell Me More",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T21:52:54.025Z"
+      },
+      {
+        "id": "msg_1786312487030",
+        "fromMe": false,
+        "body": "Epaper solution for my publications",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T21:54:47.030Z"
+      },
+      {
+        "id": "msg_1786312526931",
+        "fromMe": false,
+        "body": "🟢 Yes, I'm Interested",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T21:55:26.931Z"
+      },
+      {
+        "id": "msg_1786312752698",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T21:59:12.698Z"
+      },
+      {
+        "id": "msg_1786312763106",
+        "fromMe": false,
+        "body": "Epaper solution for my publications",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T21:59:23.106Z"
+      },
+      {
+        "id": "msg_1786312782975",
+        "fromMe": false,
+        "body": "🟢 Yes- Show Me Demo",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T21:59:42.975Z"
+      },
+      {
+        "id": "msg_1786312799675",
+        "fromMe": false,
+        "body": "🟢 Yes, I'm Interested",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T21:59:59.675Z"
+      },
+      {
+        "id": "msg_1786312831729",
+        "fromMe": false,
+        "body": "Epaper solution for my publications",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T22:00:31.728Z"
+      },
+      {
+        "id": "msg_1786312845636",
+        "fromMe": false,
+        "body": "🟢 Yes- Show Me Demo",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T22:00:45.636Z"
+      },
+      {
+        "id": "msg_1786312859986",
+        "fromMe": false,
+        "body": "🟡 Tell Me More",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T22:00:59.986Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-08-09T20:40:55.217Z"
+  },
+  {
+    "id": "lc_1786308362212",
+    "jid": "222759066034417@lid",
+    "phone": "222759066034417",
+    "deviceId": "238c7a27-2928-4fec-acaf-b4cfb67b9976",
+    "sessionId": "238c7a27-2928-4fec-acaf-b4cfb67b9976",
+    "name": "222759066034417",
+    "contactName": "222759066034417",
+    "status": "active",
+    "unreadCount": 7,
+    "lastMessage": "🟢 Yes- Show Me Demo",
+    "lastMessageTime": "2026-08-09T21:55:02.311Z",
+    "lastMessageAt": "2026-08-09T21:55:02.311Z",
+    "messages": [
+      {
+        "id": "msg_1786308362212",
+        "fromMe": false,
+        "body": "🟢 Yes, I'm Interested",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T20:46:02.212Z"
+      },
+      {
+        "id": "msg_1786310035756",
+        "fromMe": false,
+        "body": "🟢 Yes- Show Me Demo",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T21:13:55.756Z"
+      },
+      {
+        "id": "msg_1786310822708",
+        "fromMe": false,
+        "body": "Epaper solution for my publications",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T21:27:02.708Z"
+      },
+      {
+        "id": "msg_1786311086312",
+        "fromMe": false,
+        "body": "Epaper solution for my publications",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T21:31:26.312Z"
+      },
+      {
+        "id": "msg_1786311423880",
+        "fromMe": false,
+        "body": "🟢 Yes- Show Me Demo",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T21:37:03.880Z"
+      },
+      {
+        "id": "msg_1786312469955",
+        "fromMe": false,
+        "body": "Hi",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T21:54:29.955Z"
+      },
+      {
+        "id": "msg_1786312502311",
+        "fromMe": false,
+        "body": "🟢 Yes- Show Me Demo",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T21:55:02.311Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-08-09T20:46:02.212Z"
+  },
+  {
+    "id": "lc_1786310236431",
+    "jid": "120363420243035004@g.us",
+    "phone": "120363420243035004",
+    "deviceId": "238c7a27-2928-4fec-acaf-b4cfb67b9976",
+    "sessionId": "238c7a27-2928-4fec-acaf-b4cfb67b9976",
+    "name": "120363420243035004",
+    "contactName": "120363420243035004",
+    "status": "active",
+    "unreadCount": 1,
+    "lastMessage": "",
+    "lastMessageTime": "2026-08-09T21:17:16.431Z",
+    "lastMessageAt": "2026-08-09T21:17:16.431Z",
+    "messages": [
+      {
+        "id": "msg_1786310236431",
+        "fromMe": false,
+        "body": "",
+        "messageType": "text",
+        "mediaData": null,
+        "timestamp": "2026-08-09T21:17:16.431Z"
+      }
+    ],
+    "notes": [],
+    "tags": [],
+    "createdAt": "2026-08-09T21:17:16.431Z"
   }
 ]

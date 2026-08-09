@@ -29,7 +29,8 @@ const tplMediaUpload = multer({
             cb(null, `tplmedia_${req.params.id}${ext}`);
         },
     }),
-    limits: { fileSize: 64 * 1024 * 1024 },
+    // Increase allowed template media size to 200MB to handle larger videos
+    limits: { fileSize: 200 * 1024 * 1024 },
 });
 
 // Single-send attachment
@@ -41,7 +42,8 @@ const mediaUpload = multer({
             cb(null, `single_${Date.now()}${ext}`);
         },
     }),
-    limits: { fileSize: 64 * 1024 * 1024 },
+    // Allow larger single-send attachments up to 200MB
+    limits: { fileSize: 200 * 1024 * 1024 },
 });
 
 // CSV contact import (memory storage)
@@ -59,7 +61,8 @@ const cbAttachUpload = multer({
             cb(null, `cb_${Date.now()}${ext}`);
         },
     }),
-    limits: { fileSize: 64 * 1024 * 1024 },
+    // Chatbot attachments may be large (allow up to 200MB)
+    limits: { fileSize: 200 * 1024 * 1024 },
 });
 
 module.exports = { upload, tplMediaUpload, mediaUpload, csvUpload, restoreUpload, cbAttachUpload };

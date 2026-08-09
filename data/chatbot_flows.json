@@ -1,50 +1,123 @@
 [
   {
-    "id": "d7b14d2b-95a7-46b5-91d8-82835cc7b6cc",
-    "name": "t1",
+    "id": "427e0233-78a7-4c37-947e-8e3bf11d0cc4",
+    "name": "Demo",
     "description": "",
     "sessionIds": [
-      "d7277405-6568-44aa-8bf0-7ad316284deb",
-      "90391c56-8609-4561-a093-58b2d07ea780"
+      "e5de5dfb-f272-4007-9b10-fc18b2b686cf",
+      "238c7a27-2928-4fec-acaf-b4cfb67b9976"
+    ],
+    "targetType": "individual",
+    "triggerKeywords": [
+      "🟢 Yes- Show Me Demo",
+      "Yes",
+      "yes"
+    ],
+    "matchType": "starts_with",
+    "matchCase": true,
+    "cooldownMinutes": 0,
+    "messageDelaySeconds": 0,
+    "skipOptedOut": false,
+    "active": true,
+    "nodes": [
+      {
+        "id": "8450fe0f-6750-431d-9f38-068c6b883a64",
+        "name": "Demo Template",
+        "type": "message",
+        "messageType": "template",
+        "content": "",
+        "templateId": "cbae6f81-f4d9-42eb-b916-4e461ed3985c",
+        "attachmentType": null,
+        "attachmentFile": null,
+        "nextNode": "end",
+        "order": 0
+      }
+    ],
+    "totalConversations": 21,
+    "createdAt": "2026-08-09T19:58:09.031Z"
+  },
+  {
+    "id": "ea93139e-0a9c-43c1-8022-cf128e2e97a6",
+    "name": "Interested",
+    "description": "",
+    "sessionIds": [
+      "e5de5dfb-f272-4007-9b10-fc18b2b686cf",
+      "238c7a27-2928-4fec-acaf-b4cfb67b9976"
+    ],
+    "targetType": "individual",
+    "triggerKeywords": [
+      "🟢 Yes",
+      "I'm Interested"
+    ],
+    "matchType": "starts_with",
+    "matchCase": true,
+    "cooldownMinutes": 0,
+    "messageDelaySeconds": 0,
+    "skipOptedOut": false,
+    "active": true,
+    "nodes": [
+      {
+        "id": "3cf67f92-582b-49af-8b5d-f4961dd14a96",
+        "name": "Interested",
+        "type": "message",
+        "messageType": "template",
+        "content": "",
+        "templateId": "29b0b04e-9936-41ca-9d98-5f6aa662a0e1",
+        "attachmentType": null,
+        "attachmentFile": null,
+        "nextNode": "end",
+        "order": 0
+      }
+    ],
+    "totalConversations": 11,
+    "createdAt": "2026-08-09T20:56:57.489Z"
+  },
+  {
+    "id": "5d5de52a-eefc-41d2-9e7e-19d6c090ed0f",
+    "name": "Tell More",
+    "description": "",
+    "sessionIds": [
+      "e5de5dfb-f272-4007-9b10-fc18b2b686cf",
+      "238c7a27-2928-4fec-acaf-b4cfb67b9976"
     ],
     "targetType": "all",
     "triggerKeywords": [
-      "Hi"
+      "🟡 Tell Me More"
     ],
-    "matchType": "exact",
-    "matchCase": false,
+    "matchType": "starts_with",
+    "matchCase": true,
     "cooldownMinutes": 0,
     "messageDelaySeconds": 0,
     "skipOptedOut": false,
     "active": true,
     "nodes": [
       {
-        "id": "7330fe8d-af98-46c9-b2dd-75e943741ffe",
-        "name": "t1",
+        "id": "5bfe6bda-8c09-44ed-8b4f-50382d8665ef",
+        "name": "Tell More",
         "type": "message",
         "messageType": "template",
         "content": "",
-        "templateId": "2c57c0f4-ae14-41ed-a305-c3414fb5796d",
+        "templateId": "589cf276-40b3-40db-a33a-b11862cbf1e7",
         "attachmentType": null,
         "attachmentFile": null,
-        "nextNode": "auto",
+        "nextNode": "end",
         "order": 0
       }
     ],
-    "totalConversations": 35,
-    "createdAt": "2026-03-25T14:45:46.210Z"
+    "totalConversations": 5,
+    "createdAt": "2026-08-09T21:02:55.467Z"
   },
   {
-    "id": "43b1516c-607a-4a43-afcb-e4889a844198",
-    "name": "t2",
-    "description": "",
+    "id": "7d742eb4-2b5a-447b-b278-264b0d31029a",
+    "name": "Start bot",
+    "description": "Here it starts the flow",
     "sessionIds": [
-      "d7277405-6568-44aa-8bf0-7ad316284deb",
-      "90391c56-8609-4561-a093-58b2d07ea780"
+      "e5de5dfb-f272-4007-9b10-fc18b2b686cf",
+      "238c7a27-2928-4fec-acaf-b4cfb67b9976"
     ],
     "targetType": "individual",
     "triggerKeywords": [
-      "Yes"
+      "Epaper solution for my publications"
     ],
     "matchType": "exact",
     "matchCase": true,
@@ -54,55 +127,19 @@
     "active": true,
     "nodes": [
       {
-        "id": "54512e0d-1d62-4aa4-80af-96d14e799368",
-        "name": "t2",
+        "id": "e53c25ef-5400-4d65-aeb2-14d964930022",
+        "name": "Start flow",
         "type": "message",
         "messageType": "template",
         "content": "",
-        "templateId": "abad8773-823a-4d35-bd00-b9e062855074",
+        "templateId": "6bbd1f64-7776-48b9-a9c4-5448924d9dbc",
         "attachmentType": null,
         "attachmentFile": null,
-        "nextNode": "auto",
+        "nextNode": "end",
         "order": 0
       }
     ],
-    "totalConversations": 18,
-    "createdAt": "2026-03-25T16:04:47.020Z"
-  },
-  {
-    "id": "c32cd10e-39b6-4898-92c6-14f71fa19a24",
-    "name": "t3",
-    "description": "",
-    "sessionIds": [
-      "d7277405-6568-44aa-8bf0-7ad316284deb",
-      "90391c56-8609-4561-a093-58b2d07ea780"
-    ],
-    "targetType": "individual",
-    "triggerKeywords": [
-      "No",
-      "no"
-    ],
-    "matchType": "exact",
-    "matchCase": true,
-    "cooldownMinutes": 0,
-    "messageDelaySeconds": 0,
-    "skipOptedOut": false,
-    "active": true,
-    "nodes": [
-      {
-        "id": "a571c828-e023-4d0e-a7bb-e02b49238431",
-        "name": "t3",
-        "type": "message",
-        "messageType": "template",
-        "content": "",
-        "templateId": "2c206fd0-ea6b-45c0-bfcb-83f0089becf5",
-        "attachmentType": null,
-        "attachmentFile": null,
-        "nextNode": "auto",
-        "order": 0
-      }
-    ],
-    "totalConversations": 22,
-    "createdAt": "2026-03-25T16:09:52.988Z"
+    "totalConversations": 11,
+    "createdAt": "2026-08-09T21:10:45.370Z"
   }
 ]

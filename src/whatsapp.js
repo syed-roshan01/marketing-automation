@@ -10,6 +10,7 @@ const {
 const { Boom } = require('@hapi/boom');
 const path = require('path');
 const fs = require('fs');
+const fsp = fs.promises;
 const EventEmitter = require('events');
 const sharp = require('sharp');
 
@@ -34,6 +35,9 @@ class WhatsAppManager extends EventEmitter {
         this._keepaliveTimer = null;
         // Persists across reconnects so the same message is never re-processed
         this._seenMsgIds = new Set();
+        // In-memory buffer for recent receive timings to avoid frequent disk I/O
+        this._recvLogBuffer = [];
+        this._recvLogFlushTimer = null;
     }
 
     // Returns all known WhatsApp labels
@@ -184,13 +188,48 @@ class WhatsAppManager extends EventEmitter {
                 }
                 const body = extractBodyText(msg.message);
                 const bodyUpper = body.toUpperCase();
+                // Record receive delay: difference between local now and message timestamp
+                const recvTs = msg.messageTimestamp ? Number(msg.messageTimestamp) * 1000 : Date.now();
+                const recvDelayMs = Date.now() - recvTs;
+                const phone2 = (msg.key.remoteJid || '').split('@')[0].split(':')[0];
+
+                // Buffer timing entry in-memory and flush periodically to reduce disk I/O
+                try {
+                    this._recvLogBuffer.push({ id: msgId, jid: msg.key.remoteJid, phone: phone2, ts: recvTs, receivedAt: Date.now(), recvDelayMs });
+                    if (this._recvLogBuffer.length > 100) this._recvLogBuffer.length = 100; // cap buffer
+                    if (!this._recvLogFlushTimer) {
+                        this._recvLogFlushTimer = setTimeout(async () => {
+                            try {
+                                const storage = require('./storage');
+                                const buf = this._recvLogBuffer.splice(0, this._recvLogBuffer.length);
+                                this._recvLogFlushTimer = null;
+                                const log = await storage.getChatbotLog();
+                                log.recent = Array.isArray(log.recent) ? log.recent : [];
+                                // Prepend buffered entries
+                                log.recent = buf.concat(log.recent).slice(0, 500);
+                                await storage.saveChatbotLog(log);
+                            } catch (e) { /* ignore flush errors */ }
+                        }, 2000);
+                    }
+                } catch (_) {}
+
+                if (recvDelayMs > 1000) console.warn(`[WA recv] message ${msgId} delay=${recvDelayMs}ms`);
                 if (bodyUpper === 'UNSUBSCRIBE' || bodyUpper === 'SUBSCRIBE') {
                     const phone = (msg.key.remoteJid || '').split('@')[0].split(':')[0];
                     this.emit('optout_keyword', { phone, keyword: bodyUpper, sock: this.sock });
                 }
+                // Treat messages containing "INTERESTED" as an opt-in signal
+                else if (bodyUpper.includes('INTERESTED')) {
+                    const phone = (msg.key.remoteJid || '').split('@')[0].split(':')[0];
+                    this.emit('optout_keyword', { phone, keyword: 'INTERESTED', sock: this.sock });
+                }
                 // Emit every inbound message for auto-reply / chatbot engines (original case preserved)
-                const phone2 = (msg.key.remoteJid || '').split('@')[0].split(':')[0];
-                this.emit('incoming_message', { phone: phone2, jid: msg.key.remoteJid, body, msg, sock: this.sock });
+                // Emit quickly without awaiting persistence to avoid delaying handlers
+                // Emit both quick and regular incoming events; quick event is for fast-path engines
+                setImmediate(() => {
+                    this.emit('incoming_message_quick', { phone: phone2, jid: msg.key.remoteJid, body, msg, sock: this.sock, recvDelayMs });
+                    this.emit('incoming_message', { phone: phone2, jid: msg.key.remoteJid, body, msg, sock: this.sock, recvDelayMs });
+                });
             }
         });
 
@@ -381,11 +420,15 @@ class WhatsAppManager extends EventEmitter {
 
         console.log(`[WA send] to=${jid} type=${buttonType} image=${!!imagePath}`);
 
-        // Read media into buffer + derive mimetype
+        // Read media into buffer + derive mimetype. Accept either a file path or a preloaded buffer-like object.
         let imageBuffer;
         if (imagePath) {
-            imageBuffer = fs.readFileSync(imagePath);
-            const ext = path.extname(imagePath).toLowerCase().replace('.', '');
+            if (Buffer.isBuffer(imagePath) || (typeof imagePath === 'object' && imagePath && imagePath._mimetype)) {
+                imageBuffer = imagePath;
+            } else {
+                try { imageBuffer = await fsp.readFile(imagePath); } catch (e) { imageBuffer = null; }
+            }
+            const ext = (typeof imagePath === 'string') ? path.extname(imagePath).toLowerCase().replace('.', '') : '';
             const mimeMap = {
                 // images
                 jpg: 'image/jpeg', jpeg: 'image/jpeg', png: 'image/png',
@@ -406,8 +449,10 @@ class WhatsAppManager extends EventEmitter {
                 pptx: 'application/vnd.openxmlformats-officedocument.presentationml.presentation',
                 txt: 'text/plain', zip: 'application/zip', rar: 'application/x-rar-compressed',
             };
-            imageBuffer._mimetype = mimeMap[ext] || 'application/octet-stream';
-            imageBuffer._filename = path.basename(imagePath);
+            if (imageBuffer) {
+                imageBuffer._mimetype = imageBuffer._mimetype || mimeMap[ext] || 'application/octet-stream';
+                imageBuffer._filename = imageBuffer._filename || (typeof imagePath === 'string' ? path.basename(imagePath) : (imageBuffer._filename || 'file'));
+            }
             // Determine effective media type from extension if not provided
             if (!mediaType) {
                 const imgExts = ['jpg','jpeg','png','gif','webp'];
@@ -417,6 +462,12 @@ class WhatsAppManager extends EventEmitter {
                 else if (vidExts.includes(ext)) mediaType = 'video';
                 else if (audExts.includes(ext)) mediaType = 'audio';
                 else mediaType = 'document';
+            } else if (!mediaType && imageBuffer && imageBuffer._mimetype) {
+                // derive mediaType from buffer mimetype
+                if (imageBuffer._mimetype.startsWith('image/')) mediaType = 'image';
+                else if (imageBuffer._mimetype.startsWith('video/')) mediaType = 'video';
+                else if (imageBuffer._mimetype.startsWith('audio/')) mediaType = 'audio';
+                else mediaType = 'document';
             }
         }
 
@@ -425,15 +476,21 @@ class WhatsAppManager extends EventEmitter {
         // Only generate for image; video thumbnails must come from a frame (skip for now).
         let jpegThumbnail;
         if (imageBuffer && (!mediaType || mediaType === 'image')) {
-            try {
-                jpegThumbnail = await sharp(imageBuffer)
-                    .resize(72, 72, { fit: 'cover', position: 'centre' })
-                    .jpeg({ quality: 30, progressive: false })
-                    .toBuffer();
-                // Baileys expects a plain Uint8Array, not a Node Buffer with custom props
-                jpegThumbnail = new Uint8Array(jpegThumbnail);
-            } catch (e) {
-                console.warn('[WA] Thumbnail generation failed:', e.message);
+            // Reuse precomputed thumbnail if present to avoid sharp on hot-path
+            if (imageBuffer._jpegThumbnail) {
+                jpegThumbnail = imageBuffer._jpegThumbnail;
+            } else {
+                try {
+                    const thumb = await sharp(imageBuffer)
+                        .resize(72, 72, { fit: 'cover', position: 'centre' })
+                        .jpeg({ quality: 30, progressive: false })
+                        .toBuffer();
+                    jpegThumbnail = new Uint8Array(thumb);
+                    // cache for future sends
+                    try { imageBuffer._jpegThumbnail = jpegThumbnail; } catch (_) {}
+                } catch (e) {
+                    console.warn('[WA] Thumbnail generation failed:', e.message);
+                }
             }
         }
 
@@ -598,17 +655,16 @@ class WhatsAppManager extends EventEmitter {
         for (let ci = 0; ci < cards.length; ci++) {
             const card = cards[ci];
             let header;
-            if (card.imagePath && fs.existsSync(card.imagePath)) {
-                const buf = fs.readFileSync(card.imagePath);
-                const media = await prepareWAMessageMedia(
-                    { image: buf },
-                    { upload: this.sock.waUploadToServer }
-                );
-                // imageMessage must be NESTED under header.imageMessage, not spread
-                header = proto.Message.InteractiveMessage.Header.fromObject({
-                    hasMediaAttachment: true,
-                    imageMessage: media.imageMessage,
-                });
+            if (card.imagePath) {
+                const p = card.imagePath;
+                try {
+                    await fsp.access(p);
+                    const buf = await fsp.readFile(p);
+                    const media = await prepareWAMessageMedia({ image: buf }, { upload: this.sock.waUploadToServer });
+                    header = proto.Message.InteractiveMessage.Header.fromObject({ hasMediaAttachment: true, imageMessage: media.imageMessage });
+                } catch (_) {
+                    header = proto.Message.InteractiveMessage.Header.create({ hasMediaAttachment: false });
+                }
             } else {
                 header = proto.Message.InteractiveMessage.Header.create({ hasMediaAttachment: false });
             }
@@ -672,38 +728,47 @@ class WhatsAppManager extends EventEmitter {
             console.warn(`[WA] onWhatsApp check failed for ${jid}: ${err.message} — proceeding`);
         }
 
-        // Send intro message + optional media first
+        // Send intro message + optional media first (async reads to avoid blocking)
         if (introText && introText.trim()) {
-            if (mediaPath && fs.existsSync(mediaPath)) {
-                const buf = fs.readFileSync(mediaPath);
-                const ext = path.extname(mediaPath).toLowerCase().replace('.', '');
-                const mimeMap = {
-                    jpg: 'image/jpeg', jpeg: 'image/jpeg', png: 'image/png', gif: 'image/gif', webp: 'image/webp',
-                    mp4: 'video/mp4', mov: 'video/quicktime', avi: 'video/x-msvideo', mkv: 'video/x-matroska', webm: 'video/webm',
-                    mp3: 'audio/mpeg', ogg: 'audio/ogg', m4a: 'audio/mp4', wav: 'audio/wav', aac: 'audio/aac',
-                    pdf: 'application/pdf', doc: 'application/msword',
-                    docx: 'application/vnd.openxmlformats-officedocument.wordprocessingml.document',
-                };
-                const mime = mimeMap[ext] || 'application/octet-stream';
-                const vidExts = ['mp4','mov','avi','mkv','webm'];
-                const audExts = ['mp3','ogg','m4a','wav','aac'];
-                if (vidExts.includes(ext)) {
-                    await this.sock.sendMessage(jid, { video: buf, mimetype: mime, caption: introText });
-                } else if (audExts.includes(ext)) {
+            if (mediaPath) {
+                try {
+                    await fsp.access(mediaPath);
+                    const buf = await fsp.readFile(mediaPath);
+                    const ext = path.extname(mediaPath).toLowerCase().replace('.', '');
+                    const mimeMap = {
+                        jpg: 'image/jpeg', jpeg: 'image/jpeg', png: 'image/png', gif: 'image/gif', webp: 'image/webp',
+                        mp4: 'video/mp4', mov: 'video/quicktime', avi: 'video/x-msvideo', mkv: 'video/x-matroska', webm: 'video/webm',
+                        mp3: 'audio/mpeg', ogg: 'audio/ogg', m4a: 'audio/mp4', wav: 'audio/wav', aac: 'audio/aac',
+                        pdf: 'application/pdf', doc: 'application/msword',
+                        docx: 'application/vnd.openxmlformats-officedocument.wordprocessingml.document',
+                    };
+                    const mime = mimeMap[ext] || 'application/octet-stream';
+                    const vidExts = ['mp4','mov','avi','mkv','webm'];
+                    const audExts = ['mp3','ogg','m4a','wav','aac'];
+                    if (vidExts.includes(ext)) {
+                        await this.sock.sendMessage(jid, { video: buf, mimetype: mime, caption: introText });
+                    } else if (audExts.includes(ext)) {
+                        await this.sock.sendMessage(jid, { text: introText });
+                        await this.sock.sendMessage(jid, { audio: buf, mimetype: mime, ptt: false });
+                    } else if (['jpg','jpeg','png','gif','webp'].includes(ext)) {
+                        await this.sock.sendMessage(jid, { image: buf, mimetype: mime, caption: introText });
+                    } else {
+                        await this.sock.sendMessage(jid, { document: buf, mimetype: mime, caption: introText, fileName: path.basename(mediaPath) });
+                    }
+                } catch (_) {
                     await this.sock.sendMessage(jid, { text: introText });
-                    await this.sock.sendMessage(jid, { audio: buf, mimetype: mime, ptt: false });
-                } else if (['jpg','jpeg','png','gif','webp'].includes(ext)) {
-                    await this.sock.sendMessage(jid, { image: buf, mimetype: mime, caption: introText });
-                } else {
-                    await this.sock.sendMessage(jid, { document: buf, mimetype: mime, caption: introText, fileName: path.basename(mediaPath) });
                 }
             } else {
                 await this.sock.sendMessage(jid, { text: introText });
             }
-        } else if (mediaPath && fs.existsSync(mediaPath)) {
-            const buf = fs.readFileSync(mediaPath);
-            const ext = path.extname(mediaPath).toLowerCase().replace('.', '');
-            await this.sock.sendMessage(jid, { document: buf, fileName: path.basename(mediaPath) });
+        } else if (mediaPath) {
+            try {
+                await fsp.access(mediaPath);
+                const buf = await fsp.readFile(mediaPath);
+                await this.sock.sendMessage(jid, { document: buf, fileName: path.basename(mediaPath) });
+            } catch (_) {
+                // missing media — ignore
+            }
         }
 
         // Send the poll

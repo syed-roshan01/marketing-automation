@@ -6,6 +6,7 @@ const storage = require('../../src/storage');
 const { v4: uuidv4 }          = require('uuid');
 const { IMAGES_DIR }           = require('../constants');
 const { upload, tplMediaUpload } = require('../utils/upload');
+const chatbotEngine = require('../services/chatbotEngine');
 
 router.get('/', async (_req, res) => {
     res.json(await storage.getTemplates());
@@ -51,6 +52,7 @@ router.post('/', async (req, res) => {
     };
     templates.push(template);
     await storage.saveTemplates(templates);
+    try { chatbotEngine.invalidateTemplatesCache(); } catch (_) {}
     res.json(template);
 });
 
@@ -60,6 +62,7 @@ router.put('/:id', async (req, res) => {
     if (idx === -1) return res.status(404).json({ error: 'Not found' });
     templates[idx] = { ...templates[idx], ...req.body, id: templates[idx].id, updatedAt: new Date().toISOString() };
     await storage.saveTemplates(templates);
+    try { chatbotEngine.invalidateTemplatesCache(); } catch (_) {}
     res.json(templates[idx]);
 });
 
@@ -77,6 +80,7 @@ router.delete('/:id', async (req, res) => {
     }
     templates = templates.filter(t => t.id !== req.params.id);
     await storage.saveTemplates(templates);
+    try { chatbotEngine.invalidateTemplatesCache(); } catch (_) {}
     res.json({ success: true });
 });
 
@@ -90,6 +94,7 @@ router.post('/:id/image', upload.single('image'), async (req, res) => {
         if (idx === -1) return res.status(404).json({ error: 'Template not found' });
         templates[idx].imageFile = req.file.filename;
         await storage.saveTemplates(templates);
+        try { chatbotEngine.invalidateTemplatesCache(); } catch (_) {}
         res.json({ imageFile: req.file.filename, imageUrl: `/data/images/${req.file.filename}` });
     } catch (err) { res.status(500).json({ error: err.message }); }
 });
@@ -99,7 +104,7 @@ router.delete('/:id/image', async (req, res) => {
     const idx = templates.findIndex(t => t.id === req.params.id);
     if (idx === -1) return res.status(404).json({ error: 'Not found' });
     const f = templates[idx].imageFile;
-    if (f) { const p = path.join(IMAGES_DIR, f); if (fs.existsSync(p)) fs.unlinkSync(p); templates[idx].imageFile = null; await storage.saveTemplates(templates); }
+    if (f) { const p = path.join(IMAGES_DIR, f); if (fs.existsSync(p)) fs.unlinkSync(p); templates[idx].imageFile = null; await storage.saveTemplates(templates); chatbotEngine.invalidateTemplatesCache(); }
     res.json({ success: true });
 });
 
@@ -116,6 +121,7 @@ router.post('/:id/media', tplMediaUpload.single('media'), async (req, res) => {
         templates[idx].mediaFile = req.file.filename;
         templates[idx].mediaOriginalName = req.file.originalname;
         await storage.saveTemplates(templates);
+        try { chatbotEngine.invalidateTemplatesCache(); } catch (_) {}
         res.json({ mediaFile: req.file.filename, originalName: req.file.originalname });
     } catch (err) { res.status(500).json({ error: err.message }); }
 });
@@ -125,7 +131,7 @@ router.delete('/:id/media', async (req, res) => {
     const idx = templates.findIndex(t => t.id === req.params.id);
     if (idx === -1) return res.status(404).json({ error: 'Not found' });
     const f = templates[idx].mediaFile;
-    if (f) { const p = path.join(IMAGES_DIR, f); if (fs.existsSync(p)) fs.unlinkSync(p); templates[idx].mediaFile = null; templates[idx].mediaOriginalName = null; await storage.saveTemplates(templates); }
+    if (f) { const p = path.join(IMAGES_DIR, f); if (fs.existsSync(p)) fs.unlinkSync(p); templates[idx].mediaFile = null; templates[idx].mediaOriginalName = null; await storage.saveTemplates(templates); chatbotEngine.invalidateTemplatesCache(); }
     res.json({ success: true });
 });
 
@@ -144,6 +150,7 @@ router.post('/:id/cards/:cardIndex/image', upload.single('image'), async (req, r
         if (oldFile) { const p = path.join(IMAGES_DIR, oldFile); if (fs.existsSync(p)) fs.unlinkSync(p); }
         templates[idx].cards[ci].imageFile = req.file.filename;
         await storage.saveTemplates(templates);
+        try { chatbotEngine.invalidateTemplatesCache(); } catch (_) {}
         res.json({ imageFile: req.file.filename, imageUrl: `/data/images/${req.file.filename}` });
     } catch (err) { res.status(500).json({ error: err.message }); }
 });
@@ -156,7 +163,7 @@ router.delete('/:id/cards/:cardIndex/image', async (req, res) => {
     if (!Array.isArray(templates[idx].cards) || ci < 0 || ci >= templates[idx].cards.length)
         return res.status(400).json({ error: 'Card index out of range' });
     const f = templates[idx].cards[ci].imageFile;
-    if (f) { const p = path.join(IMAGES_DIR, f); if (fs.existsSync(p)) fs.unlinkSync(p); templates[idx].cards[ci].imageFile = null; await storage.saveTemplates(templates); }
+    if (f) { const p = path.join(IMAGES_DIR, f); if (fs.existsSync(p)) fs.unlinkSync(p); templates[idx].cards[ci].imageFile = null; await storage.saveTemplates(templates); chatbotEngine.invalidateTemplatesCache(); }
     res.json({ success: true });
 });
 
